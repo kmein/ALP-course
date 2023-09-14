@@ -28,7 +28,7 @@ Image/pdf → digital text → tokenize → etc…
 
 ## Schedule
 
-add include here...
+<div class="schedule-table"></div>
 
 ## Main Textbook and Additional Textbooks
 
