@@ -2,122 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Contents
 
-[Link to another page](./another-page.html).
+- [Short Description](#short-description)
+- [Course Objectives](#course-objectives)
+- [Learning Outcomes](#learning-outcomes)
+- [Schedule](#schedule)
+- [Main Textbook and Additional Textbooks](#main-textbook-and-additional-textbooks)
+- [Assessment](#assessment)
 
-There should be whitespace between paragraphs.
+## Short Description
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The proposed course on Ancient Language Processing aims to focus specifically on ancient languages and scripts from the emergence of writing in Mesopotamia and Egypt, to the entire world up till 800 AD. There are millions of pieces of writings in these ancient languages, which require expert knowledge of these languages, explicit efforts to build lexicon and corpora, as well as new-designed Natural Language Processing (NLP) models. This course will introduce students of ancient history, ancient Near Eastern languages, and computer science to this subfield of NLP. They will engage inscribed artefacts from machine-based observation (e.g. Computer Vision and OCR) and dataset pre-processing, to their final digital publication.
 
-# Header 1
+## Course Objectives
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ancient languages contain rich human historical and cultural wealth. So far there has been good advancement in applying language technologies to ancient languages such as Sumerian, Akkadian, Latin, Ancient Greek, and Ancient Chinese, especially in the construction of digital language resources and resources to facilitate automatic analysis. For example, the Universal Dependencies (UD) project has made treebanks available for a series of ancient languages. The objective of this course is to computationally engage with ancient datasets of inscribed artefacts, mostly texts, from observation to publication. We will analyze classical studies and consider emerging research questions in the field of ancient Near Eastern studies, in order to address them computationally using ancient language processing.
 
-## Header 2
+## Learning Outcomes
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Students will discuss and contrast the shared epigraphical challenges in ancient language processing: such as Latin, non-Latin and non-alphabetic scripts, Right-to-Left, transliteration conventions and fragmentary texts, and in particular, the multilingual framework to represent the morphology, syntax, and semantics, as well as machine translation models. They will perform hands-on digital philology with novel methods, code, and techniques. The main outcome of the course will be a collaborative computational research paper on an ancient dataset.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Image/pdf → digital text → tokenize → etc…
 
 
-### Definition lists can be used with HTML syntax.
+## Schedule
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+add include here...
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Main Textbook and Additional Textbooks
 
-```
-The final element.
-```
+add include here...
+
+## Assessment
+
+add include here...
