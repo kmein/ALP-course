@@ -25,15 +25,16 @@ Students will discuss and contrast the shared epigraphical challenges in ancient
 
 Image/pdf → digital text → tokenize → etc…
 
-
 ## Schedule
 
-<div class="schedule-table"></div>
+<div id="schedule-table"></div>
 
 ## Main Textbook and Additional Textbooks
 
-add include here...
+<div id="textbooks-table"></div>
+
+For more see the designated course Zotero library still under construction: <https://www.zotero.org/groups/4809611/ancient_language_processing>{:target="_blank"}
 
 ## Assessment
 
-add include here...
+<div id="assessment-table"></div>
