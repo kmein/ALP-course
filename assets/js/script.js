@@ -1,4 +1,4 @@
-window.onload = function () {
+setTimeout(function() {
   // Your entire script goes here
   (function($) {
     $(document).ready(function(){
@@ -25,14 +25,11 @@ window.onload = function () {
     
       var collectHeaders = function(){
         headings.push({"top":$(this).offset().top - 15,"text":$(this).text()});
-        console.log($(this).offset().top)
       }
     
       if($(".markdown-body h1").length > 1) $(".markdown-body h1").each(collectHeaders)
       else if($(".markdown-body h2").length > 1) $(".markdown-body h2").each(collectHeaders)
       else if($(".markdown-body h3").length > 1) $(".markdown-body h3").each(collectHeaders)
-    
-      console.log(headings)
 
       $(window).scroll(function(){
         if(headings.length==0) return true;
@@ -55,6 +52,6 @@ window.onload = function () {
       })
     });
     })(jQuery)
-};
+}, 1500);
 
 
