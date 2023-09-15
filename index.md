@@ -8,7 +8,7 @@ layout: default
 - [Course Objectives](#course-objectives)
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
-- [Main Textbook and Additional Textbooks](#main-textbook-and-additional-textbooks)
+- [Materials and Texts](#materials-and-texts)
 - [Assessment](#assessment)
 
 ## Short Description
@@ -29,7 +29,7 @@ Image/pdf → digital text → tokenize → etc…
 
 <div id="schedule-table"></div>
 
-## Main Textbook and Additional Textbooks
+## Materials and Texts
 
 <div id="textbooks-table"></div>
 
