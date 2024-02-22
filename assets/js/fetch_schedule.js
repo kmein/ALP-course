@@ -24,11 +24,12 @@ document.addEventListener('DOMContentLoaded', function () {
               const rowData = rows[i];
               const item = {
                   number: rowData[0],
-                  topic: rowData[1],
-                  assignment: rowData[2],
-                  toolsAndResources: rowData[3],
-                  location: rowData[4],
-                  type: rowData[5],
+                  date: rowData[1],
+                  topic: rowData[2],
+                  assignment: rowData[3],
+                  toolsAndResources: rowData[4],
+                  location: rowData[5],
+                  type: rowData[6],
               };
 
               // Check if any cell in the row is empty except for the "number" field
