@@ -7,7 +7,7 @@ layout: default
 - [Short Description](#short-description)
 - [Course Objectives](#course-objectives)
 - [Learning Outcomes](#learning-outcomes)
-- [Workload: Assignments and Active Participation](#workload:-assignments-and-active-participation)
+- [Workload: Assignments and Active Participation](#workload-assignments-and-active-participation)
 - [Schedule](#schedule)
 - [Materials and Texts](#materials-and-texts)
 - [Assessment](#assessment)
