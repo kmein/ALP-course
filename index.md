@@ -7,7 +7,7 @@ layout: default
 - [Short Description](#short-description)
 - [Course Objectives](#course-objectives)
 - [Learning Outcomes](#learning-outcomes)
-- [Workload: Assignments & Active Participation](#workload:-assignments-&-active-participation)
+- [Workload: Assignments and Active Participation](#workload:-assignments-and-active-participation)
 - [Schedule](#schedule)
 - [Materials and Texts](#materials-and-texts)
 - [Assessment](#assessment)
@@ -25,11 +25,11 @@ Ancient languages contain rich human historical and cultural wealth. So far ther
 
 Students will discuss and contrast the shared epigraphical challenges in ancient language processing: such as Latin, non-Latin and non-alphabetic scripts, Right-to-Left, transliteration conventions and fragmentary texts, and in particular, the multilingual framework to represent the morphology, syntax, and semantics, as well as machine translation models. They will perform hands-on digital philology with novel methods, code, and techniques. The main outcome of the course will be a collaborative computational research paper on an ancient dataset.
 
-## Workload: Assignments & Active Participation
+## Workload: Assignments and Active Participation
 
-(1) We meet on a weekly basis for two hours (synchronic mode) which sums up to c. 30 hours over the course of the semester (equivalent to 1 credit point). See schedule for further information on the meetings.
-(2) We will build a shared glossary of terms and concepts that are important in Ancient Language Processing. Students are going to work in groups of two on the terms assigned to them, providing a short definition and links to more extensive explanations. Writing will be done on the GitHub collaborative platform and will be accessible through the course homepage. (c. 30 hours = 1 credit point)
-(3) Students will develop their own projects based on data provided by the instructors or by data that they contribute. The project plan requires (a) a humanistic research question, (b) operationalize it (i.e., develop a workflow to tackle the question computationally) and (c) write a term paper about the describing their data set, methods, analysis, interpretation and results. The structure of the paper will follow a template of a typical computational humanities paper. (c. 120 hours = 4 credit points)
+1. We meet on a weekly basis for two hours (synchronic mode) which sums up to c. 30 hours over the course of the semester (equivalent to 1 credit point). See schedule for further information on the meetings.
+2. We will build a shared glossary of terms and concepts that are important in Ancient Language Processing. Students are going to work in groups of two on the terms assigned to them, providing a short definition and links to more extensive explanations. Writing will be done on the GitHub collaborative platform and will be accessible through the course homepage. (c. 30 hours = 1 credit point)
+3. Students will develop their own projects based on data provided by the instructors or by data that they contribute. The project plan requires (a) a humanistic research question, (b) operationalize it (i.e., develop a workflow to tackle the question computationally) and (c) write a term paper about the describing their data set, methods, analysis, interpretation and results. The structure of the paper will follow a template of a typical computational humanities paper. (c. 120 hours = 4 credit points)
 
 ## Schedule
 
