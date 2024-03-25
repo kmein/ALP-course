@@ -26,11 +26,12 @@ document.addEventListener('DOMContentLoaded', function () {
                   number: rowData[0],
                   date: rowData[1],
                   topic: rowData[2],
-                  assignment: rowData[3],
-                  toolsAndResources: rowData[4],
-                  links: rowData[5],
-                  location: rowData[6],
-                  type: rowData[7],
+                  keywords: rowData[3],
+                  assignment: rowData[4],
+                  toolsAndResources: rowData[5],
+                  links: rowData[6],
+                  location: rowData[7],
+                  type: rowData[8],
               };
 
               // Check if any cell in the row is empty except for the "number" field
