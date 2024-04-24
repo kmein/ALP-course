@@ -6,6 +6,7 @@ pkgs.mkShell {
     (pkgs.python3.withPackages (py: [
       py.jupyter
       py.pandas
+      py.matplotlib
     ]))
   ];
 }
