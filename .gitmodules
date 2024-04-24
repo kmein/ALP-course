@@ -1,0 +1,3 @@
+[submodule "course_notebooks/vedaweb-data"]
+	path = course_notebooks/vedaweb-data
+	url = https://github.com/VedaWebProject/vedaweb-data
