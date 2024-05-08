@@ -4,4 +4,5 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 rv_book_*.csv
+metadata_book_*.csv
 .ipynb_checkpoints
