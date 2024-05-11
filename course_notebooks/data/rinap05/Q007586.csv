@@ -1,0 +1,351 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+55340,Q007586.3.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,3,1
+55341,Q007586.3.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,3,2
+55342,Q007586.3.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,3,3
+55343,Q007586.4.1,imṣû[achieve]V,[im-ṣu-u],imṣû,maṣû,achieve,V,"['𒅎', '𒍮', '𒌋']",𒅎𒍮𒌋,[im-ṣu-u],"['missing', 'missing', 'missing']",1.0,,Q007586,4,1
+55344,Q007586.4.2,mala[as much as]'REL,ma-la,mala,mala,as much as,PRP,"['𒈠', '𒆷']",𒈠𒆷,ma-la,"['complete', 'complete']",0.0,,Q007586,4,2
+55345,Q007586.4.3,libbišu[heart]N,⸢lib₃⸣-[bi-šu₂,libbišu,libbu,heart,N,"['𒊮', '𒁉', '𒋙']",𒊮𒁉𒋙,⸢lib₃⸣-[bi-šu₂],"['damaged', 'missing', 'missing']",0.83,,Q007586,4,3
+55346,Q007586.4.4,Tammaritu[king of Elam]RN,{m}tam-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{[m]}[tam-ma-ri-tu₂],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,RN,Q007586,4,4
+55347,Q007586.4.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,Q007586,4,5
+55348,Q007586.4.6,Elamti[Elam]GN,{kur}ELAM.MA{ki]},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q007586,4,6
+55349,Q007586.5.1,ana[to]PRP,[a]-⸢na⸣,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a]-⸢na⸣,"['missing', 'damaged']",0.75,,Q007586,5,1
+55350,Q007586.5.2,kitri[help]N,kit-ri,kitri,kitru,help,N,"['𒆤', '𒊑']",𒆤𒊑,kit-ri,"['complete', 'complete']",0.0,,Q007586,5,2
+55351,Q007586.5.3,Šamaš-šuma-ukin[king of Babylon]RN,{m}{d}GIŠ.[NU₁₁-MU-GI.NA,Šamaš-šuma-ukin,Šamaš-šuma-ukin,king of Babylon,RN,"['𒁹', '𒀭', '𒄑', '𒉢', '𒈬', '𒄀', '𒈾']",𒁹𒀭𒄑𒉢𒈬𒄀𒈾,{m}{d}GIŠ.[NU₁₁-MU-GI].[NA],"['complete', 'complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.57,RN,Q007586,5,3
+55352,Q007586.5.4,ahi[brother]N,ŠEŠ,ahi,ahu,brother,N,['𒋀'],𒋀,[ŠEŠ],['missing'],1.0,,Q007586,5,4
+55353,Q007586.5.5,nakri[hostile]AJ,nak-ri,nakri,nakru,hostile,AJ,"['𒅘', '𒊑']",𒅘𒊑,[nak-ri],"['missing', 'missing']",1.0,,Q007586,5,5
+55354,Q007586.5.6,itbâ[rise up]V,it-ba-a],itbâ,tebû,rise up,V,"['𒀉', '𒁀', '𒀀']",𒀉𒁀𒀀,[it-ba-a],"['missing', 'missing', 'missing']",1.0,,Q007586,5,6
+55355,Q007586.6.1,ana[to]PRP,[a]-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a]-na,"['missing', 'complete']",0.5,,Q007586,6,1
+55356,Q007586.6.2,mithuṣ[fighting]'N,mit-hu-uṣ,mithuṣ,mahāṣu,fighting,V,"['𒁁', '𒄷', '𒊻']",𒁁𒄷𒊻,mit-hu-uṣ,"['complete', 'complete', 'complete']",0.0,,Q007586,6,2
+55357,Q007586.6.3,ummānātiya[troops]N,⸢ERIM.HI⸣.[A-ia,ummānātiya,ummānu,troops,N,"['𒂟', '𒄭', '𒀀', '𒅀']",𒂟𒄭𒀀𒅀,⸢ERIM⸣.⸢HI⸣.[A-ia],"['damaged', 'damaged', 'missing', 'missing']",0.75,,Q007586,6,3
+55358,Q007586.6.4,lapān[from before]PRP,la-pa-an,lapān,lapāni,from before,PRP,"['𒆷', '𒉺', '𒀭']",𒆷𒉺𒀭,[la-pa-an],"['missing', 'missing', 'missing']",1.0,,Q007586,6,4
+55359,Q007586.6.5,Indabibi[king of Elam]RN,{m}in-da-bi-bi,Indabibi,Indabibi,king of Elam,RN,"['𒁹', '𒅔', '𒁕', '𒁉', '𒁉']",𒁹𒅔𒁕𒁉𒁉,{[m]}[in-da-bi-bi],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,RN,Q007586,6,5
+55360,Q007586.6.6,ardišu[servant]N,ARAD-šu₂],ardišu,wardu,servant,N,"['𒀴', '𒋙']",𒀴𒋙,[ARAD-šu₂],"['missing', 'missing']",1.0,,Q007586,6,6
+55361,Q007586.7.1,ša[who]REL,⸢ša⸣,ša,ša,who,REL,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,,Q007586,7,1
+55362,Q007586.7.2,sīhu[rebellion]N,si-hu,sīhu,sīhu,rebellion,N,"['𒋛', '𒄷']",𒋛𒄷,si-hu,"['complete', 'complete']",0.0,,Q007586,7,2
+55363,Q007586.7.3,elišu[against]PRP,UGU-šu₂,elišu,eli,against,PRP,"['𒌋𒅗', '𒋙']",𒌋𒅗𒋙,UGU-šu₂,"['complete', 'complete']",0.0,,Q007586,7,3
+55364,Q007586.7.4,ušabšû[bring into existence]V,u₂-⸢šab⸣-[šu₂-u,ušabšû,bašû,bring into existence,V,"['𒌑', '𒉺𒅁', '𒋙', '𒌋']",𒌑𒉺𒅁𒋙𒌋,u₂-⸢šab⸣-[šu₂-u],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q007586,7,4
+55365,Q007586.7.5,šū[he]IP,šu-u,šū,šū,he,IP,"['𒋗', '𒌋']",𒋗𒌋,[šu-u],"['missing', 'missing']",1.0,,Q007586,7,5
+55366,Q007586.7.6,adi[with]PRP,a-di,adi,adi,with,PRP,"['𒀀', '𒁲']",𒀀𒁲,[a-di],"['missing', 'missing']",1.0,,Q007586,7,6
+55367,Q007586.7.7,ahhūšu[brother]N,ŠEŠ.MEŠ-šu₂,ahhūšu,ahu,brother,N,"['𒋀', '𒎌', '𒋙']",𒋀𒎌𒋙,[ŠEŠ].[MEŠ-šu₂],"['missing', 'missing', 'missing']",1.0,,Q007586,7,7
+55368,Q007586.7.8,qinnīšu[clan]N,qin-ni-šu₂,qinnīšu,qinnu,clan,N,"['𒆥', '𒉌', '𒋙']",𒆥𒉌𒋙,[qin-ni-šu₂],"['missing', 'missing', 'missing']",1.0,,Q007586,7,8
+55369,Q007586.7.9,zēr[seed]N,NUMUN,zēr,zēru,seed,N,['𒆰'],𒆰,[NUMUN],['missing'],1.0,,Q007586,7,9
+55370,Q007586.7.10,bīt[house]N,E₂,bīt,bītu,house,N,['𒂍'],𒂍,[E₂],['missing'],1.0,,Q007586,7,10
+55371,Q007586.7.11,abišu[father]N,AD-šu₂],abišu,abu,father,N,"['𒀜', '𒋙']",𒀜𒋙,[AD-šu₂],"['missing', 'missing']",1.0,,Q007586,7,11
+55372,Q007586.8.1,rabûtišu[noble]N,{⸢lu₂⸣}GAL.MEŠ-šu₂,rabûtišu,rabû,noble,N,"['𒇽', '𒃲', '𒎌', '𒋙']",𒇽𒃲𒎌𒋙,{⸢LU₂⸣}GAL.MEŠ-šu₂,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q007586,8,1
+55373,Q007586.8.2,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007586,8,2
+55374,Q007586.8.3,Ninua[Nineveh]SN,⸢NINA{ki⸣},Ninua,Ninua,Nineveh,SN,"['𒀏', '𒆠']",𒀏𒆠,⸢NINA⸣{⸢KI⸣},"['damaged', 'damaged']",0.5,,Q007586,8,3
+55375,Q007586.8.4,innabtūnimma[run away]V,[in-nab-tu₂-nim-ma,innabtūnimma,abātu,run away,V,"['𒅔', '𒀮', '𒌓', '𒉏', '𒈠']",𒅔𒀮𒌓𒉏𒈠,[in-nab-tu₂-nim-ma],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,Q007586,8,4
+55376,Q007586.8.5,šēpī[foot]N,GIR₃.II,šēpī,šēpu,foot,N,"['𒄊', '𒅀']",𒄊𒅀,[GIR₃].[II],"['missing', 'missing']",1.0,,Q007586,8,5
+55377,Q007586.8.6,šarrūtiya[kingship]N,LUGAL-ti-ia,šarrūtiya,šarrūtu,kingship,N,"['𒈗', '𒋾', '𒅀']",𒈗𒋾𒅀,[LUGAL-ti-ia],"['missing', 'missing', 'missing']",1.0,,Q007586,8,6
+55378,Q007586.8.7,unaššiqma[kiss]V,u₂-na-šiq-ma],unaššiqma,našāqu,kiss,V,"['𒌑', '𒈾', '𒋝', '𒈠']",𒌑𒈾𒋝𒈠,[u₂-na-šiq-ma],"['missing', 'missing', 'missing', 'missing']",1.0,,Q007586,8,7
+55379,Q007586.9.1,ana[to]PRP,[a]-⸢na⸣,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a]-⸢na⸣,"['missing', 'damaged']",0.75,,Q007586,9,1
+55380,Q007586.9.2,epēš[performing]'N,e-peš,epēš,epēšu,performing,V,"['𒂊', '𒄫']",𒂊𒄫,e-peš,"['complete', 'complete']",0.0,,Q007586,9,2
+55381,Q007586.9.3,ardūtiya[vassalage]N,ARAD-ti-⸢ia⸣,ardūtiya,wardūtu,vassalage,N,"['𒀴', '𒋾', '𒅀']",𒀴𒋾𒅀,ARAD-ti-⸢ia⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,9,3
+55382,Q007586.9.4,uṣallâ[beseech]V,[u₂-ṣal-la-a,uṣallâ,ṣullû,beseech,V,"['𒌑', '𒉌', '𒆷', '𒀀']",𒌑𒉌𒆷𒀀,[u₂-ṣal-la-a],"['missing', 'missing', 'missing', 'missing']",1.0,,Q007586,9,4
+55383,Q007586.9.5,bēlūtī[lordship]N,be]-⸢lu⸣-[ti],bēlūtī,bēlūtu,lordship,N,"['𒁁', '𒇻', '𒋾']",𒁁𒇻𒋾,[be]-⸢lu⸣-[ti],"['missing', 'damaged', 'missing']",0.83,,Q007586,9,5
+55384,Q007586.11.1,"Ummanigaš[Humban-nikas II, king of Elam]RN",{[m]}⸢um⸣-man-i-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{[m]}⸢um⸣-man-i-gaš,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,RN,Q007586,11,1
+55385,Q007586.11.2,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007586,11,2
+55386,Q007586.11.3,ṭābti[goodness]N,⸢MUN⸣,ṭābti,ṭābtu,goodness,N,['𒁵'],𒁵,⸢MUN⸣,['damaged'],0.5,,Q007586,11,3
+55387,Q007586.11.4,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{[m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{[m]}[AN].[ŠAR₂-DU₃-A],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,RN,Q007586,11,4
+55388,Q007586.11.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,Q007586,11,5
+55389,Q007586.11.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q007586,11,6
+55390,Q007586.11.7,Aššur[Assyria]GN,aš]-⸢šur⸣,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,[aš]-⸢šur⸣,"['missing', 'damaged']",0.75,GN,Q007586,11,7
+55391,Q007586.11.8,bēlišu[lord]N,EN-šu₂,bēlišu,bēlu,lord,N,"['𒂗', '𒋙']",𒂗𒋙,EN-šu₂,"['complete', 'complete']",0.0,,Q007586,11,8
+55392,Q007586.11.9,inšû[forget]V,in-šu₂-⸢u⸣,inšû,mašû,forget,V,"['𒅔', '𒋙', '𒌋']",𒅔𒋙𒌋,in-šu₂-⸢u⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,11,9
+55393,Q007586.12.1,lā[not]MOD,[la],lā,lā,not,MOD,['𒆷'],𒆷,[la],['missing'],1.0,,Q007586,12,1
+55394,Q007586.12.2,iṣṣuru[keep]V,⸢iṣ⸣-ṣu-ru,iṣṣuru,naṣāru,keep,V,"['𒄑', '𒍮', '𒊒']",𒄑𒍮𒊒,⸢iṣ⸣-ṣu-ru,"['damaged', 'complete', 'complete']",0.17,,Q007586,12,2
+55395,Q007586.12.3,adêšu[treaty]N,⸢a-de-e⸣-[šu₂,adêšu,adû,treaty,N,"['𒀀', '𒁲', '𒂊', '𒋙']",𒀀𒁲𒂊𒋙,⸢a-de-e⸣-[šu₂],"['damaged', 'damaged', 'damaged', 'missing']",0.62,,Q007586,12,3
+55396,Q007586.12.4,u,...,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,12,4
+55397,Q007586.12.5,adê[treaty]N,a-de]-e,adê,adû,treaty,N,"['𒀀', '𒁲', '𒂊']",𒀀𒁲𒂊,[a-de]-e,"['missing', 'missing', 'complete']",0.67,,Q007586,12,5
+55398,Q007586.12.6,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,Q007586,12,6
+55399,Q007586.12.7,māmīti[oath]N,ma-miti,māmīti,māmītu,oath,N,"['𒈠', '𒁁']",𒈠𒁁,ma-miti,"['complete', 'complete']",0.0,,Q007586,12,7
+55400,Q007586.12.8,nišī[people]N,UN.MEŠ,nišī,nišu,people,N,"['𒌦', '𒎌']",𒌦𒎌,UN.MEŠ,"['complete', 'complete']",0.0,,Q007586,12,8
+55401,Q007586.12.9,mātišu[land]N,KUR-šu₂,mātišu,mātu,land,N,"['𒆳', '𒋙']",𒆳𒋙,KUR-šu₂,"['complete', 'complete']",0.0,,Q007586,12,9
+55402,Q007586.13.1,ša[who]REL,[ša],ša,ša,who,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,Q007586,13,1
+55403,Q007586.13.2,ittišu[with]PRP,⸢it⸣-[ti]-šu₂,ittišu,itti,with,PRP,"['𒀉', '𒋾', '𒋙']",𒀉𒋾𒋙,⸢it⸣-[ti]-šu₂,"['damaged', 'missing', 'complete']",0.5,,Q007586,13,2
+55404,Q007586.13.3,ušbalkitū[foment rebellion]V,uš-⸢bal⸣-[ki-tu,ušbalkitū,nabalkutu,foment rebellion,V,"['𒍑', '𒁄', '𒆠', '𒌅']",𒍑𒁄𒆠𒌅,uš-⸢bal⸣-[ki-tu],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q007586,13,3
+55405,Q007586.13.4,lapān[from before]PRP,la-pa]-⸢an⸣,lapān,lapāni,from before,PRP,"['𒆷', '𒉺', '𒀭']",𒆷𒉺𒀭,[la-pa]-⸢an⸣,"['missing', 'missing', 'damaged']",0.83,,Q007586,13,4
+55406,Q007586.13.5,nišī[people]N,UN.MEŠ,nišī,nišu,people,N,"['𒌦', '𒎌']",𒌦𒎌,UN.MEŠ,"['complete', 'complete']",0.0,,Q007586,13,5
+55407,Q007586.13.6,mātišu[land]N,KUR-šu₂,mātišu,mātu,land,N,"['𒆳', '𒋙']",𒆳𒋙,KUR-šu₂,"['complete', 'complete']",0.0,,Q007586,13,6
+55408,Q007586.14.1,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,14,1
+55409,Q007586.14.2,u,x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,14,2
+55410,Q007586.14.3,u,(x)]-ma,,,,u,"['x', '𒈠']",x𒈠,[x]-ma,"['missing', 'complete']",0.5,,Q007586,14,3
+55411,Q007586.14.4,innabit[run away]V,in-na-[bit,innabit,abātu,run away,V,"['𒅔', '𒈾', '𒂍']",𒅔𒈾𒂍,in-na-[bit],"['complete', 'complete', 'missing']",0.33,,Q007586,14,4
+55412,Q007586.14.5,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,14,5
+55413,Q007586.14.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,14,6
+55414,Q007586.14.7,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007586,14,7
+55415,Q007586.14.8,qereb[interior]N,qe₂-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,qe₂-reb,"['complete', 'complete']",0.0,,Q007586,14,8
+55416,Q007586.14.9,šadî[mountain]N,KUR-i,šadî,šadû,mountain,N,"['𒆳', '𒄿']",𒆳𒄿,KUR-i,"['complete', 'complete']",0.0,,Q007586,14,9
+55417,Q007586.15.1,"Ummanigaš[Humban-nikas II, king of Elam]RN",{[m}um-man]-⸢i⸣-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{[m]}[um-man]-⸢i⸣-gaš,"['missing', 'missing', 'missing', 'damaged', 'complete']",0.7,RN,Q007586,15,1
+55418,Q007586.15.2,urassib[smite]V,u₂-⸢ra⸣-[sib,urassib,rasābu,smite,V,"['𒌑', '𒊏', '𒈨']",𒌑𒊏𒈨,u₂-⸢ra⸣-[sib],"['complete', 'damaged', 'missing']",0.5,,Q007586,15,2
+55419,Q007586.15.3,ina[with]PRP,ina,ina,ina,with,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q007586,15,3
+55420,Q007586.15.4,kakki[weapon]N,{giš}TUKUL],kakki,kakku,weapon,N,"['𒄑', '𒆪']",𒄑𒆪,{[GIŠ]}[TUKUL],"['missing', 'missing']",1.0,,Q007586,15,4
+55421,Q007586.15.5,qaqqassu[head]N,⸢SAG⸣.DU-su,qaqqassu,qaqqadu,head,N,"['𒊕', '𒁺', '𒋢']",𒊕𒁺𒋢,⸢SAG⸣.DU-su,"['damaged', 'complete', 'complete']",0.17,,Q007586,15,5
+55422,Q007586.15.6,idīšu[side]N,A₂.II-šu₂,idīšu,idu,side,N,"['𒀉', '𒅀', '𒋙']",𒀉𒅀𒋙,A₂.II-šu₂,"['complete', 'complete', 'complete']",0.0,,Q007586,15,6
+55423,Q007586.15.7,šēpīšu[foot]N,GIR₃.II.MEŠ-šu₂,šēpīšu,šēpu,foot,N,"['𒄊', '𒅀', '𒎌', '𒋙']",𒄊𒅀𒎌𒋙,GIR₃.II.MEŠ-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,15,7
+55424,Q007586.16.1,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,16,1
+55425,Q007586.16.2,u,x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,16,2
+55426,Q007586.16.3,u,(x)],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,16,3
+55427,Q007586.16.4,x,⸢TI⸣,,,,,['𒋾'],𒋾,⸢TI⸣,['damaged'],0.5,,Q007586,16,4
+55428,Q007586.16.5,x,SAG,,,,,['𒊕'],𒊕,SAG,['complete'],0.0,,Q007586,16,5
+55429,Q007586.16.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,16,6
+55430,Q007586.16.7,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,16,7
+55431,Q007586.16.8,Tammaritu[king of Elam]RN,{m]}⸢tam⸣-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{[m]}⸢tam⸣-ma-ri-tu₂,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,RN,Q007586,16,8
+55432,Q007586.16.9,iššâmma[carry]V,iš-ša₂-am-ma,iššâmma,našû,carry,V,"['𒅖', '𒃻', '𒄠', '𒈠']",𒅖𒃻𒄠𒈠,iš-ša₂-am-ma,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,16,9
+55433,Q007586.17.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,17,1
+55434,Q007586.17.2,šūt[who(m)]DET,{lu₂]}šu-ut,šūt,šūt,who(m),DET,"['𒇽', '𒋗', '𒌓']",𒇽𒋗𒌓,{[LU₂]}šu-ut,"['missing', 'complete', 'complete']",0.33,,Q007586,17,2
+55435,Q007586.17.3,rēšiya[head]N,SAG-⸢ia⸣,rēšiya,rēšu,head,N,"['𒊕', '𒅀']",𒊕𒅀,SAG-⸢ia⸣,"['complete', 'damaged']",0.25,,Q007586,17,3
+55436,Q007586.19.1,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,19,1
+55437,Q007586.19.2,u,x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,19,2
+55438,Q007586.19.3,u,(x)],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,19,3
+55439,Q007586.19.4,u,x-⸢na⸣-a,,,,u,"['x', '𒈾', '𒀀']",x𒈾𒀀,x-⸢na⸣-a,"['complete', 'damaged', 'complete']",0.17,,Q007586,19,4
+55440,Q007586.19.5,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,19,5
+55441,Q007586.19.6,Tammaritu[king of Elam]RN,{m]}⸢tam⸣-ma-⸢ri⸣-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{[m]}⸢tam⸣-ma-⸢ri⸣-tu₂,"['missing', 'damaged', 'complete', 'damaged', 'complete']",0.4,RN,Q007586,19,6
+55442,Q007586.20.1,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,20,1
+55443,Q007586.20.2,u,x],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,20,2
+55444,Q007586.20.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,20,3
+55445,Q007586.20.4,x,MU,,,,,['𒈬'],𒈬,MU,['complete'],0.0,,Q007586,20,4
+55446,Q007586.20.5,qēpu[representative]N,{lu₂}⸢qe⸣-[e-pu,qēpu,qīpu,representative,N,"['𒇽', '𒆥', '𒂊', '𒁍']",𒇽𒆥𒂊𒁍,{LU₂}⸢qe⸣-[e-pu],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q007586,20,5
+55447,Q007586.20.6,Samʾunu[1]SN,{uru]}⸢sa⸣-am-u₂-[nu],Samʾunu,Samʾuna,1,SN,"['𒌷', '𒊓', '𒄠', '𒌑', '𒉡']",𒌷𒊓𒄠𒌑𒉡,{[URU]}⸢sa⸣-am-u₂-[nu],"['missing', 'damaged', 'complete', 'complete', 'missing']",0.5,,Q007586,20,6
+55448,Q007586.21.1,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,21,1
+55449,Q007586.21.2,u,x],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,21,2
+55450,Q007586.21.3,u,x-gu-gu,,,,u,"['x', '𒄖', '𒄖']",x𒄖𒄖,x-gu-gu,"['complete', 'complete', 'complete']",0.0,,Q007586,21,3
+55451,Q007586.21.4,qēpu[representative]N,{lu₂}qe-⸢e⸣-[pu],qēpu,qīpu,representative,N,"['𒇽', '𒆥', '𒂊', '𒁍']",𒇽𒆥𒂊𒁍,{LU₂}qe-⸢e⸣-[pu],"['complete', 'complete', 'damaged', 'missing']",0.38,,Q007586,21,4
+55452,Q007586.21.5,u,{⸢uru}a⸣-[x,,,,u,"['𒌷', '𒀀', 'x']",𒌷𒀀x,{⸢URU⸣}⸢a⸣-[x],"['damaged', 'damaged', 'missing']",0.67,,Q007586,21,5
+55453,Q007586.21.6,u,x],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,21,6
+55454,Q007586.22.1,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,22,1
+55455,Q007586.22.2,u,x],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,22,2
+55456,Q007586.22.3,u,x-⸢ka⸣-lu,,,,u,"['x', '𒅗', '𒇻']",x𒅗𒇻,x-⸢ka⸣-lu,"['complete', 'damaged', 'complete']",0.17,,Q007586,22,3
+55457,Q007586.22.4,x,A,,,,,['𒀀'],𒀀,A,['complete'],0.0,,Q007586,22,4
+55458,Q007586.22.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,22,5
+55459,Q007586.22.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,22,6
+55460,Q007586.22.7,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q007586,22,7
+55461,Q007586.22.8,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,22,8
+55462,Q007586.23.1,"Ummanaldasu[son of Atta-metu and king of Elam, Humban-haltaš III]RN",{[m}um-man]-⸢al⸣-da-⸢su,Ummanaldasu,Ummanaldašu,"son of Atta-metu and king of Elam, Humban-haltaš III",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒋢']",𒁹𒌝𒎙𒀠𒁕𒋢,{[m]}[um-man]-⸢al⸣-da-⸢su⸣,"['missing', 'missing', 'missing', 'damaged', 'complete', 'damaged']",0.67,RN,Q007586,23,1
+55463,Q007586.23.2,ahašu[brother]N,ŠEŠ⸣-šu₂,ahašu,ahu,brother,N,"['𒋀', '𒋙']",𒋀𒋙,⸢ŠEŠ⸣-šu₂,"['damaged', 'complete']",0.25,,Q007586,23,2
+55464,Q007586.23.3,ša[who]REL,⸢ša₂⸣,ša,ša,who,REL,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,,Q007586,23,3
+55465,Q007586.23.4,Tammaritu[king of Elam]RN,{m}⸢tam⸣-[ma-ri]-⸢tu₂⸣,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}⸢tam⸣-[ma-ri]-⸢tu₂⸣,"['complete', 'damaged', 'missing', 'missing', 'damaged']",0.6,RN,Q007586,23,4
+55466,Q007586.23.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,23,5
+55467,Q007586.23.6,Elamti[Elam]GN,{kur}[ELAM{ki]},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}[ELAM]{[KI]},"['complete', 'missing', 'missing']",0.67,GN,Q007586,23,6
+55468,Q007586.24.1,u,{[m]}x-⸢te⸣-DI,,,,u,"['𒁹', 'x', '𒋼', '𒁲']",𒁹x𒋼𒁲,{[m]}x-⸢te⸣-DI,"['missing', 'complete', 'damaged', 'complete']",0.38,,Q007586,24,1
+55469,Q007586.24.2,rab[chief]N,{⸢lu₂}GAL⸣,rab,rabû,chief,N,"['𒇽', '𒃲']",𒇽𒃲,{⸢LU₂⸣}⸢GAL⸣,"['damaged', 'damaged']",0.5,,Q007586,24,2
+55470,Q007586.24.3,qašti[bow]N,{giš}[PAN],qašti,qaštu,bow,N,"['𒄑', '𒉼']",𒄑𒉼,{GIŠ}[PAN],"['complete', 'missing']",0.5,,Q007586,24,3
+55471,Q007586.25.1,Teumman[chief archer of the cavalry]PN,{⸢m}te-um⸣-man,Teumman,Teumman,chief archer of the cavalry,PN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{⸢m⸣}⸢te-um⸣-man,"['damaged', 'damaged', 'damaged', 'complete']",0.38,PN,Q007586,25,1
+55472,Q007586.25.2,rab[chief]N,{⸢lu₂⸣}GAL,rab,rabû,chief,N,"['𒇽', '𒃲']",𒇽𒃲,{⸢LU₂⸣}GAL,"['damaged', 'complete']",0.25,,Q007586,25,2
+55473,Q007586.25.3,qašti[bow]N,{giš}PAN,qašti,qaštu,bow,N,"['𒄑', '𒉼']",𒄑𒉼,{GIŠ}PAN,"['complete', 'complete']",0.0,,Q007586,25,3
+55474,Q007586.25.4,ša[of]DET,⸢ša₂,ša,ša,of,DET,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,,Q007586,25,4
+55475,Q007586.25.5,pēthallāti[cavalry]N,pet⸣-hal-⸢la-a⸣-[ti],pēthallāti,pēthallu,cavalry,N,"['𒂍', '𒄬', '𒆷', '𒀀', '𒋾']",𒂍𒄬𒆷𒀀𒋾,⸢pet⸣-hal-⸢la-a⸣-[ti],"['damaged', 'complete', 'damaged', 'damaged', 'missing']",0.5,,Q007586,25,5
+55476,Q007586.27.1,Tammaritu[king of Elam]RN,{m}tam-ma-⸢ri⸣-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}tam-ma-⸢ri⸣-tu₂,"['complete', 'complete', 'complete', 'damaged', 'complete']",0.1,RN,Q007586,27,1
+55477,Q007586.27.2,šar[king]N,⸢MAN⸣,šar,šarru,king,N,['𒎙'],𒎙,⸢MAN⸣,['damaged'],0.5,,Q007586,27,2
+55478,Q007586.27.3,Elamti[Elam]GN,{kur}ELAM{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}ELAM{KI},"['complete', 'complete', 'complete']",0.0,GN,Q007586,27,3
+55479,Q007586.27.4,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q007586,27,4
+55480,Q007586.27.5,ana[to]PRP,a-⸢na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-⸢na⸣,"['complete', 'damaged']",0.25,,Q007586,27,5
+55481,Q007586.27.6,kitri[help]N,kit-ri,kitri,kitru,help,N,"['𒆤', '𒊑']",𒆤𒊑,⸢kit-ri⸣,"['damaged', 'damaged']",0.5,,Q007586,27,6
+55482,Q007586.27.7,Šamaš-šuma-ukin[king of Babylon]RN,{m}{d}GIŠ.NU₁₁-MU⸣-[GI.NA],Šamaš-šuma-ukin,Šamaš-šuma-ukin,king of Babylon,RN,"['𒁹', '𒀭', '𒄑', '𒉢', '𒈬', '𒄀', '𒈾']",𒁹𒀭𒄑𒉢𒈬𒄀𒈾,{⸢m⸣}{⸢d⸣}⸢GIŠ⸣.⸢NU₁₁-MU⸣-[GI].[NA],"['damaged', 'damaged', 'damaged', 'damaged', 'damaged', 'missing', 'missing']",0.64,RN,Q007586,27,7
+55483,Q007586.28.1,illikamma[go]V,⸢il⸣-li-⸢ka-am-ma⸣,illikamma,alāku,go,V,"['𒅋', '𒇷', '𒅗', '𒄠', '𒈠']",𒅋𒇷𒅗𒄠𒈠,⸢il⸣-li-⸢ka-am-ma⸣,"['damaged', 'complete', 'damaged', 'damaged', 'damaged']",0.4,,Q007586,28,1
+55484,Q007586.28.2,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007586,28,2
+55485,Q007586.28.3,mithuṣ[fighting]'N,mit-hu-⸢uṣ,mithuṣ,mahāṣu,fighting,V,"['𒁁', '𒄷', '𒊻']",𒁁𒄷𒊻,mit-hu-⸢uṣ⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,28,3
+55486,Q007586.28.4,ummānātiya[troops]N,ERIM.HI.A-ia⸣,ummānātiya,ummānu,troops,N,"['𒂟', '𒄭', '𒀀', '𒅀']",𒂟𒄭𒀀𒅀,⸢ERIM⸣.⸢HI⸣.⸢A-ia⸣,"['damaged', 'damaged', 'damaged', 'damaged']",0.5,,Q007586,28,4
+55487,Q007586.29.1,anāku[I]IP,a-⸢na⸣-ku,anāku,anāku,I,IP,"['𒀀', '𒈾', '𒆪']",𒀀𒈾𒆪,a-⸢na⸣-ku,"['complete', 'damaged', 'complete']",0.17,,Q007586,29,1
+55488,Q007586.29.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-⸢A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-⸢A⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,RN,Q007586,29,2
+55489,Q007586.29.3,šar[king]N,MAN⸣,šar,šarru,king,N,['𒎙'],𒎙,⸢MAN⸣,['damaged'],0.5,,Q007586,29,3
+55490,Q007586.29.4,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q007586,29,4
+55491,Q007586.29.5,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,Q007586,29,5
+55492,Q007586.29.6,Aššur[1]DN,AN.⸢ŠAR₂⸣,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.⸢ŠAR₂⸣,"['complete', 'damaged']",0.25,DN,Q007586,29,6
+55493,Q007586.29.7,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,Q007586,29,7
+55494,Q007586.29.8,Ištar[1]DN,{d}15,Ištar,Ištar,1,DN,"['𒀭', '𒌋𒐊']",𒀭𒌋𒐊,{d}15,"['complete', 'complete']",0.0,DN,Q007586,29,8
+55495,Q007586.29.9,amhurma[appeal to]V,[am]-hu-⸢ur-ma⸣,amhurma,mahāru,appeal to,V,"['𒄠', '𒄷', '𒌨', '𒈠']",𒄠𒄷𒌨𒈠,[am]-hu-⸢ur-ma⸣,"['missing', 'complete', 'damaged', 'damaged']",0.5,,Q007586,29,9
+55496,Q007586.30.1,išmû[hear]V,iš-⸢mu⸣-u,išmû,šemû,hear,V,"['𒅖', '𒈬', '𒌋']",𒅖𒈬𒌋,iš-⸢mu⸣-u,"['complete', 'damaged', 'complete']",0.17,,Q007586,30,1
+55497,Q007586.30.2,suppîya[prayer]N,su-up-⸢pi-ia⸣,suppîya,supû,prayer,N,"['𒋢', '𒌒', '𒉿', '𒅀']",𒋢𒌒𒉿𒅀,su-up-⸢pi-ia⸣,"['complete', 'complete', 'damaged', 'damaged']",0.25,,Q007586,30,2
+55498,Q007586.30.3,Indabibi[king of Elam]RN,{m}in-da-bi-bi,Indabibi,Indabibi,king of Elam,RN,"['𒁹', '𒅔', '𒁕', '𒁉', '𒁉']",𒁹𒅔𒁕𒁉𒁉,{m}in-da-bi-bi,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007586,30,3
+55499,Q007586.30.4,arassu[servant]N,⸢ARAD-su,arassu,wardu,servant,N,"['𒀴', '𒋢']",𒀴𒋢,⸢ARAD-su⸣,"['damaged', 'damaged']",0.5,,Q007586,30,4
+55500,Q007586.30.5,ṣēruššu[against]'PRP,EDIN-uš⸣-[šu₂],ṣēruššu,ṣēru,against,N,"['𒂔', '𒍑', '𒋙']",𒂔𒍑𒋙,⸢EDIN-uš⸣-[šu₂],"['damaged', 'damaged', 'missing']",0.67,,Q007586,30,5
+55501,Q007586.31.1,ibbalkitma[foment rebellion]V,ib-⸢bal-kit⸣-ma,ibbalkitma,nabalkutu,foment rebellion,V,"['𒅁', '𒁄', '𒆤', '𒈠']",𒅁𒁄𒆤𒈠,ib-⸢bal-kit⸣-ma,"['complete', 'damaged', 'damaged', 'complete']",0.25,,Q007586,31,1
+55502,Q007586.31.2,ina[during]PRP,ina,ina,ina,during,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007586,31,2
+55503,Q007586.31.3,tāhāz[battle]N,ME₃,tāhāz,tāhāzu,battle,N,['𒀞'],𒀞,ME₃,['complete'],0.0,,Q007586,31,3
+55504,Q007586.31.4,ṣēri[open country]N,⸢EDIN⸣,ṣēri,ṣēru,open country,N,['𒂔'],𒂔,⸢EDIN⸣,['damaged'],0.5,,Q007586,31,4
+55505,Q007586.31.5,iškunū[establish]V,iš-ku-⸢nu⸣,iškunū,šakānu,establish,V,"['𒅖', '𒆪', '𒉡']",𒅖𒆪𒉡,iš-ku-⸢nu⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,31,5
+55506,Q007586.31.6,dabdâšu[defeat]N,BAD₅.BAD₅-šu,dabdâšu,dabdû,defeat,N,"['𒅆', '𒅆', '𒋗']",𒅆𒅆𒋗,BAD₅.BAD₅-šu,"['complete', 'complete', 'complete']",0.0,,Q007586,31,6
+55507,Q007586.32.1,nišī[people]N,UN.⸢MEŠ⸣,nišī,nišu,people,N,"['𒌦', '𒎌']",𒌦𒎌,UN.⸢MEŠ⸣,"['complete', 'damaged']",0.25,,Q007586,32,1
+55508,Q007586.32.2,Tammaritu[king of Elam]RN,{m}⸢tam⸣-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}⸢tam⸣-ma-ri-tu₂,"['complete', 'damaged', 'complete', 'complete', 'complete']",0.1,RN,Q007586,32,2
+55509,Q007586.32.3,ultu[from]PRP,⸢TA,ultu,ištu,from,PRP,['𒋫'],𒋫,⸢TA⸣,['damaged'],0.5,,Q007586,32,3
+55510,Q007586.32.4,qabal[centre]N,MURUB₄⸣,qabal,qablu,centre,N,['𒉠'],𒉠,⸢MURUB₄⸣,['damaged'],0.5,,Q007586,32,4
+55511,Q007586.32.5,tamhāri[battle]N,tam-ha-⸢ri⸣,tamhāri,tamhāru,battle,N,"['𒌓', '𒄩', '𒊑']",𒌓𒄩𒊑,tam-ha-⸢ri⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,32,5
+55512,Q007586.32.6,innabtūnimma[run away]V,in-nab-tu₂-nim-⸢ma⸣,innabtūnimma,abātu,run away,V,"['𒅔', '𒀮', '𒌓', '𒉏', '𒈠']",𒅔𒀮𒌓𒉏𒈠,in-nab-tu₂-nim-⸢ma⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,,Q007586,32,6
+55513,Q007586.33.1,dabdê[defeat]N,BAD₅.BAD₅,dabdê,dabdû,defeat,N,"['𒅆', '𒅆']",𒅆𒅆,BAD₅.BAD₅,"['complete', 'complete']",0.0,,Q007586,33,1
+55514,Q007586.33.2,ummānātišu[troops]N,ERIM.HI.A-šu₂,ummānātišu,ummānu,troops,N,"['𒂟', '𒄭', '𒀀', '𒋙']",𒂟𒄭𒀀𒋙,ERIM.HI.A-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,33,2
+55515,Q007586.33.3,iqbûšuma[say]V,iq-bu-šu₂-⸢ma⸣,iqbûšuma,qabû,say,V,"['𒅅', '𒁍', '𒋙', '𒈠']",𒅅𒁍𒋙𒈠,iq-bu-šu₂-⸢ma⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,,Q007586,33,3
+55516,Q007586.33.4,innabta[run away]V,in-nab-⸢ta,innabta,abātu,run away,V,"['𒅔', '𒀮', '𒋫']",𒅔𒀮𒋫,in-nab-⸢ta⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,33,4
+55517,Q007586.33.5,uruh[road]N,u₂-ru-uh,uruh,urhu,road,N,"['𒌑', '𒊒', '𒄴']",𒌑𒊒𒄴,⸢u₂-ru-uh⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q007586,33,5
+55518,Q007586.33.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,⸢KUR⸣,['damaged'],0.5,,Q007586,33,6
+55519,Q007586.33.7,tâmtim[sea]N,tam⸣-tim,tâmtim,tiāmtu,sea,N,"['𒌓', '𒁴']",𒌓𒁴,⸢tam⸣-tim,"['damaged', 'complete']",0.25,,Q007586,33,7
+55520,Q007586.34.1,arkišu[after]PRP,⸢EGIR-šu₂⸣,arkišu,warki,after,PRP,"['𒂕', '𒋙']",𒂕𒋙,⸢EGIR-šu₂⸣,"['damaged', 'damaged']",0.5,,Q007586,34,1
+55521,Q007586.34.2,Indabibi[king of Elam]RN,{m}in-da-bi-⸢bi,Indabibi,Indabibi,king of Elam,RN,"['𒁹', '𒅔', '𒁕', '𒁉', '𒁉']",𒁹𒅔𒁕𒁉𒁉,{m}in-da-bi-⸢bi⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,RN,Q007586,34,2
+55522,Q007586.34.3,arassu[servant]N,ARAD-su,arassu,wardu,servant,N,"['𒀴', '𒋢']",𒀴𒋢,⸢ARAD-su⸣,"['damaged', 'damaged']",0.5,,Q007586,34,3
+55523,Q007586.34.4,ūšib[sit]V,u₂⸣-šib,ūšib,wašābu,sit,V,"['𒌑', '𒈨']",𒌑𒈨,⸢u₂⸣-šib,"['damaged', 'complete']",0.25,,Q007586,34,4
+55524,Q007586.34.5,ina[on]PRP,ina,ina,ina,on,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007586,34,5
+55525,Q007586.34.6,kussîšu[throne]N,{giš}⸢GU.ZA-šu₂⸣,kussîšu,kussû,throne,N,"['𒄑', '𒄖', '𒍝', '𒋙']",𒄑𒄖𒍝𒋙,{GIŠ}⸢GU⸣.⸢ZA-šu₂⸣,"['complete', 'damaged', 'damaged', 'damaged']",0.38,,Q007586,34,6
+55526,Q007586.36.1,eleppi[ship]N,{⸢giš}MA₂⸣,eleppi,eleppu,ship,N,"['𒄑', '𒈣']",𒄑𒈣,{⸢GIŠ⸣}⸢MA₂⸣,"['damaged', 'damaged']",0.5,,Q007586,36,1
+55527,Q007586.36.2,Tammaritu[king of Elam]RN,{m}tam-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}tam-ma-ri-tu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007586,36,2
+55528,Q007586.36.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,36,3
+55529,Q007586.36.4,Elamti[Elam]GN,{kur}ELAM{⸢ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}ELAM{⸢KI⸣},"['complete', 'complete', 'damaged']",0.17,GN,Q007586,36,4
+55530,Q007586.36.5,ahhūšu[brother]N,ŠEŠ.MEŠ⸣-šu₂,ahhūšu,ahu,brother,N,"['𒋀', '𒎌', '𒋙']",𒋀𒎌𒋙,⸢ŠEŠ⸣.⸢MEŠ⸣-šu₂,"['damaged', 'damaged', 'complete']",0.33,,Q007586,36,5
+55531,Q007586.36.6,qinnīšu[clan]N,qin-ni-šu₂,qinnīšu,qinnu,clan,N,"['𒆥', '𒉌', '𒋙']",𒆥𒉌𒋙,qin-ni-šu₂,"['complete', 'complete', 'complete']",0.0,,Q007586,36,6
+55532,Q007586.36.7,zēr[seed]N,NUMUN,zēr,zēru,seed,N,['𒆰'],𒆰,NUMUN,['complete'],0.0,,Q007586,36,7
+55533,Q007586.36.8,bīt[house]N,⸢E₂,bīt,bītu,house,N,['𒂍'],𒂍,⸢E₂⸣,['damaged'],0.5,,Q007586,36,8
+55534,Q007586.36.9,abišu[father]N,AD⸣-šu₂,abišu,abu,father,N,"['𒀜', '𒋙']",𒀜𒋙,⸢AD⸣-šu₂,"['damaged', 'complete']",0.25,,Q007586,36,9
+55535,Q007586.37.1,rubê[noble]N,⸢NUN⸣.MEŠ,rubê,rubû,noble,N,"['𒉣', '𒎌']",𒉣𒎌,⸢NUN⸣.MEŠ,"['damaged', 'complete']",0.25,,Q007586,37,1
+55536,Q007586.37.2,ālik[goer]N,⸢a-lik,ālik,āliku,goer,N,"['𒀀', '𒌨']",𒀀𒌨,⸢a-lik⸣,"['damaged', 'damaged']",0.5,,Q007586,37,2
+55537,Q007586.37.3,idīšu[side]N,A₂.II⸣-šu₂,idīšu,idu,side,N,"['𒀉', '𒅀', '𒋙']",𒀉𒅀𒋙,⸢A₂⸣.⸢II⸣-šu₂,"['damaged', 'damaged', 'complete']",0.33,,Q007586,37,3
+55538,Q007586.37.4,ša[that]REL,ša,ša,ša,that,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007586,37,4
+55539,Q007586.37.5,šiknu[deposit]N,⸢ši-ik⸣-nu,šiknu,šiknu,deposit,N,"['𒅆', '𒅅', '𒉡']",𒅆𒅅𒉡,⸢ši-ik⸣-nu,"['damaged', 'damaged', 'complete']",0.33,,Q007586,37,5
+55540,Q007586.37.6,ṭēru[mud]N,⸢ṭe⸣-ru,ṭēru,ṭēru,mud,N,"['𒁲', '𒊒']",𒁲𒊒,⸢ṭe⸣-ru,"['damaged', 'complete']",0.25,,Q007586,37,6
+55541,Q007586.37.7,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,Q007586,37,7
+55542,Q007586.37.8,rušumtu[wet mud]N,ru-šum-tu₂,rušumtu,rušumtu,wet mud,N,"['𒊒', '𒋳', '𒌓']",𒊒𒋳𒌓,ru-šum-tu₂,"['complete', 'complete', 'complete']",0.0,,Q007586,37,8
+55543,Q007586.37.9,iṣbatū[seize]V,iṣ-⸢ba-tu₂⸣,iṣbatū,ṣabātu,seize,V,"['𒄑', '𒁀', '𒌓']",𒄑𒁀𒌓,iṣ-⸢ba-tu₂⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007586,37,9
+55544,Q007586.38.1,niqilpâ[sailing]'N,ni-qi₂-il-⸢pa-a,niqilpâ,neqelpû,sailing,V,"['𒉌', '𒆠', '𒅋', '𒉺', '𒀀']",𒉌𒆠𒅋𒉺𒀀,ni-qi₂-il-⸢pa-a⸣,"['complete', 'complete', 'complete', 'damaged', 'damaged']",0.2,,Q007586,38,1
+55545,Q007586.38.2,lā[not]MOD,la,lā,lā,not,MOD,['𒆷'],𒆷,⸢la⸣,['damaged'],0.5,,Q007586,38,2
+55546,Q007586.38.3,tīšû[have]V,ti⸣-šu₂-u,tīšû,išû,have,V,"['𒋾', '𒋙', '𒌋']",𒋾𒋙𒌋,⸢ti⸣-šu₂-u,"['damaged', 'complete', 'complete']",0.17,,Q007586,38,3
+55547,Q007586.38.4,ultu[from]PRP,⸢ul⸣-tu₂,ultu,ištu,from,PRP,"['𒌌', '𒌓']",𒌌𒌓,⸢ul⸣-tu₂,"['damaged', 'complete']",0.25,,Q007586,38,4
+55548,Q007586.38.5,qereb[interior]N,⸢qe₂⸣-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,⸢qe₂⸣-reb,"['damaged', 'complete']",0.25,,Q007586,38,5
+55549,Q007586.38.6,eleppi[ship]N,{giš}MA₂,eleppi,eleppu,ship,N,"['𒄑', '𒈣']",𒄑𒈣,{GIŠ}MA₂,"['complete', 'complete']",0.0,,Q007586,38,6
+55550,Q007586.38.7,šuātu[that]IP,šu₂-⸢a-tu₂⸣,šuātu,šuāti,that,IP,"['𒋙', '𒀀', '𒌓']",𒋙𒀀𒌓,šu₂-⸢a-tu₂⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007586,38,7
+55551,Q007586.38.8,u,{m}⸢ki⸣-x,,,,u,"['𒁹', '𒆠', 'x']",𒁹𒆠x,{m}⸢ki⸣-x,"['complete', 'damaged', 'complete']",0.17,,Q007586,38,8
+55552,Q007586.38.9,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,38,9
+55553,Q007586.38.10,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q007586,38,10
+55554,Q007586.39.1,Tammaritu[king of Elam]RN,{m}tam-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}tam-ma-ri-tu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007586,39,1
+55555,Q007586.39.2,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007586,39,2
+55556,Q007586.39.3,arkišu[after]PRP,⸢EGIR-šu₂,arkišu,warki,after,PRP,"['𒂕', '𒋙']",𒂕𒋙,⸢EGIR-šu₂⸣,"['damaged', 'damaged']",0.5,,Q007586,39,3
+55557,Q007586.39.4,išši[carry]V,iš-ši,išši,našû,carry,V,"['𒅖', '𒅆']",𒅖𒅆,⸢iš-ši⸣,"['damaged', 'damaged']",0.5,,Q007586,39,4
+55558,Q007586.39.5,maruštu[evil]N,ma-ru⸣-uš-tu₂,maruštu,maruṣtu,evil,N,"['𒈠', '𒊒', '𒍑', '𒌓']",𒈠𒊒𒍑𒌓,⸢ma-ru⸣-uš-tu₂,"['damaged', 'damaged', 'complete', 'complete']",0.25,,Q007586,39,5
+55559,Q007586.39.6,qaqqar[ground]N,qaq-qar,qaqqar,qaqqaru,ground,N,"['𒆕', '𒃼']",𒆕𒃼,qaq-qar,"['complete', 'complete']",0.0,,Q007586,39,6
+55560,Q007586.39.7,namrāṣi[hardship]N,nam-⸢ra-ṣi⸣,namrāṣi,namrāṣu,hardship,N,"['𒉆', '𒊏', '𒍢']",𒉆𒊏𒍢,nam-⸢ra-ṣi⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007586,39,7
+55561,Q007586.40.1,X,u₂-par-ri-($traces$),,,,X,"['𒌑', '𒌓', '𒊑']",𒌑𒌓𒊑,u₂-par-ri-,"['complete', 'complete', 'complete']",0.0,,Q007586,40,1
+55562,Q007586.44.1,Tammaritu[king of Elam]RN,{m}tam-ma-⸢ri⸣-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}tam-ma-⸢ri⸣-tu₂,"['complete', 'complete', 'complete', 'damaged', 'complete']",0.1,RN,Q007586,44,1
+55563,Q007586.44.2,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,44,2
+55564,Q007586.44.3,Elamti[Elam]GN,{kur}⸢ELAM{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}⸢ELAM⸣{⸢KI⸣},"['complete', 'damaged', 'damaged']",0.33,GN,Q007586,44,3
+55565,Q007586.44.4,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,,Q007586,44,4
+55566,Q007586.44.5,pān[front]N,pa-an⸣,pān,pānu,front,N,"['𒉺', '𒀭']",𒉺𒀭,⸢pa-an⸣,"['damaged', 'damaged']",0.5,,Q007586,44,5
+55567,Q007586.44.6,Indabibi[king of Elam]RN,{m}⸢in-da-bi-bi,Indabibi,Indabibi,king of Elam,RN,"['𒁹', '𒅔', '𒁕', '𒁉', '𒁉']",𒁹𒅔𒁕𒁉𒁉,{m}⸢in-da-bi-bi⸣,"['complete', 'damaged', 'damaged', 'damaged', 'damaged']",0.4,RN,Q007586,44,6
+55568,Q007586.44.7,innabtūma[run away]V,in-nab⸣-[tu₂]-⸢ma⸣,innabtūma,abātu,run away,V,"['𒅔', '𒀮', '𒌓', '𒈠']",𒅔𒀮𒌓𒈠,⸢in-nab⸣-[tu₂]-⸢ma⸣,"['damaged', 'damaged', 'missing', 'damaged']",0.62,,Q007586,44,7
+55569,Q007586.45.1,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007586,45,1
+55570,Q007586.45.2,qereb[interior]N,⸢qe₂⸣-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,⸢qe₂⸣-reb,"['damaged', 'complete']",0.25,,Q007586,45,2
+55571,Q007586.45.3,marrati[sea]N,mar-ra-ti,marrati,marratu,sea,N,"['𒈥', '𒊏', '𒋾']",𒈥𒊏𒋾,mar-ra-ti,"['complete', 'complete', 'complete']",0.0,,Q007586,45,3
+55572,Q007586.45.4,iqqilpâ[sail]V,i-⸢qi₂-il⸣-pa-a,iqqilpâ,neqelpû,sail,V,"['𒄿', '𒆠', '𒅋', '𒉺', '𒀀']",𒄿𒆠𒅋𒉺𒀀,i-⸢qi₂-il⸣-pa-a,"['complete', 'damaged', 'damaged', 'complete', 'complete']",0.2,,Q007586,45,4
+55573,Q007586.45.5,ēmurū[meet]V,e-⸢mu-ru,ēmurū,amāru,meet,V,"['𒂊', '𒈬', '𒊒']",𒂊𒈬𒊒,e-⸢mu-ru⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007586,45,5
+55574,Q007586.45.6,maruštu[evil]N encountered,ma-ru⸣-[uš]-⸢tu₂⸣,maruštu,maruṣtu,evil,N,"['𒈠', '𒊒', '𒍑', '𒌓']",𒈠𒊒𒍑𒌓,⸢ma-ru⸣-[uš]-⸢tu₂⸣,"['damaged', 'damaged', 'missing', 'damaged']",0.62,,Q007586,45,6
+55575,Q007586.46.1,anāku[I]IP,a-na-ku,anāku,anāku,I,IP,"['𒀀', '𒈾', '𒆪']",𒀀𒈾𒆪,a-na-ku,"['complete', 'complete', 'complete']",0.0,,Q007586,46,1
+55576,Q007586.46.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.⸢ŠAR₂-DU₃-A⸣,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.⸢ŠAR₂-DU₃-A⸣,"['complete', 'complete', 'damaged', 'damaged', 'damaged']",0.3,RN,Q007586,46,2
+55577,Q007586.46.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,46,3
+55578,Q007586.46.4,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q007586,46,4
+55579,Q007586.46.5,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,Q007586,46,5
+55580,Q007586.46.6,rēhēti[remainder]N,⸢re-he-e⸣-ti,rēhēti,rēhtu,remainder,N,"['𒊑', '𒄭', '𒂊', '𒋾']",𒊑𒄭𒂊𒋾,⸢re-he-e⸣-ti,"['damaged', 'damaged', 'damaged', 'complete']",0.38,,Q007586,46,6
+55581,Q007586.46.7,šarrūtiya[kingship]N,LUGAL-ti-⸢ia,šarrūtiya,šarrūtu,kingship,N,"['𒈗', '𒋾', '𒅀']",𒈗𒋾𒅀,LUGAL-ti-⸢ia⸣,"['complete', 'complete', 'damaged']",0.17,,Q007586,46,7
+55582,Q007586.46.8,ušēbilšu[send]V,u₂-še-bil⸣-[šu₂],ušēbilšu,wabālu,send,V,"['𒌑', '𒊺', '𒉈', '𒋙']",𒌑𒊺𒉈𒋙,⸢u₂-še-bil⸣-[šu₂],"['damaged', 'damaged', 'damaged', 'missing']",0.62,,Q007586,46,8
+55583,Q007586.47.1,rēhēti[remainder]N,re-he-⸢e⸣-[ti],rēhēti,rēhtu,remainder,N,"['𒊑', '𒄭', '𒂊', '𒋾']",𒊑𒄭𒂊𒋾,re-he-⸢e⸣-[ti],"['complete', 'complete', 'damaged', 'missing']",0.38,,Q007586,47,1
+55584,Q007586.47.2,šâtina[those]IP,⸢ša₂-a⸣-ti-na,šâtina,šâtina,those,IP,"['𒃻', '𒀀', '𒋾', '𒈾']",𒃻𒀀𒋾𒈾,⸢ša₂-a⸣-ti-na,"['damaged', 'damaged', 'complete', 'complete']",0.25,,Q007586,47,2
+55585,Q007586.47.3,imhurma[receive]V,⸢im⸣-hur-ma,imhurma,mahāru,receive,V,"['𒅎', '𒄯', '𒈠']",𒅎𒄯𒈠,⸢im⸣-hur-ma,"['damaged', 'complete', 'complete']",0.17,,Q007586,47,3
+55586,Q007586.47.4,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007586,47,4
+55587,Q007586.47.5,pān[front]N,IGI,pān,pānu,front,N,['𒅆'],𒅆,IGI,['complete'],0.0,,Q007586,47,5
+55588,Q007586.47.6,šūt[who(m)]DET,{lu₂}⸢šu⸣-ut,šūt,šūt,who(m),DET,"['𒇽', '𒋗', '𒌓']",𒇽𒋗𒌓,{LU₂}⸢šu⸣-ut,"['complete', 'damaged', 'complete']",0.17,,Q007586,47,6
+55589,Q007586.47.7,rēšiya[head]N,⸢SAG-ia⸣,rēšiya,rēšu,head,N,"['𒊕', '𒅀']",𒊕𒅀,⸢SAG-ia⸣,"['damaged', 'damaged']",0.5,,Q007586,47,7
+55590,Q007586.48.1,unaššiqa[kiss]V,u₂-na-aš₂-ši-qa,unaššiqa,našāqu,kiss,V,"['𒌑', '𒈾', '𒀾', '𒅆', '𒋡']",𒌑𒈾𒀾𒅆𒋡,u₂-na-aš₂-ši-qa,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q007586,48,1
+55591,Q007586.48.2,qaqqaru[ground]N,qaq-qa-ru,qaqqaru,qaqqaru,ground,N,"['𒆕', '𒋡', '𒊒']",𒆕𒋡𒊒,qaq-qa-ru,"['complete', 'complete', 'complete']",0.0,,Q007586,48,2
+55592,Q007586.50.1,sidru[line of battle]N,si-id-ru,sidru,sidru,line of battle,N,"['𒋛', '𒀉', '𒊒']",𒋛𒀉𒊒,si-id-ru,"['complete', 'complete', 'complete']",0.0,,Q007586,50,1
+55593,Q007586.50.2,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q007586,50,2
+55594,Q007586.50.3,"Ummanigaš[Humban-nikas II, king of Elam]RN",{m}⸢um⸣-man-i-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{m}⸢um⸣-man-i-gaš,"['complete', 'damaged', 'complete', 'complete', 'complete']",0.1,RN,Q007586,50,3
+55595,Q007586.50.4,lā[not]MOD,la,lā,lā,not,MOD,['𒆷'],𒆷,la,['complete'],0.0,,Q007586,50,4
+55596,Q007586.50.5,nāṣir[guard]N,na-ṣir,nāṣir,nāṣiru,guard,N,"['𒈾', '𒈲']",𒈾𒈲,na-ṣir,"['complete', 'complete']",0.0,,Q007586,50,5
+55597,Q007586.50.6,ṭābti[goodness]N,⸢MUN⸣,ṭābti,ṭābtu,goodness,N,['𒁵'],𒁵,⸢MUN⸣,['damaged'],0.5,,Q007586,50,6
+55598,Q007586.51.1,ša[of]DET,⸢ša⸣,ša,ša,of,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,,Q007586,51,1
+55599,Q007586.51.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007586,51,2
+55600,Q007586.51.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,51,3
+55601,Q007586.51.4,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q007586,51,4
+55602,Q007586.51.5,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,Q007586,51,5
+55603,Q007586.51.6,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007586,51,6
+55604,Q007586.51.7,qereb[interior]N,qe₂-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,qe₂-reb,"['complete', 'complete']",0.0,,Q007586,51,7
+55605,Q007586.51.8,Elamti[Elam]GN,{kur}ELAM.[(MA)]{⸢ki⸣},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.[MA]{⸢KI⸣},"['complete', 'complete', 'missing', 'damaged']",0.38,GN,Q007586,51,8
+55606,Q007586.52.1,iškunušu[establish]V,iš-ku-nu-šu₂,iškunušu,šakānu,establish,V,"['𒅖', '𒆪', '𒉡', '𒋙']",𒅖𒆪𒉡𒋙,iš-ku-nu-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,52,1
+55607,Q007586.52.2,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007586,52,2
+55608,Q007586.52.3,šarrūti[kingship]N,[LUGAL]-⸢ti⸣,šarrūti,šarrūtu,kingship,N,"['𒈗', '𒋾']",𒈗𒋾,[LUGAL]-⸢ti⸣,"['missing', 'damaged']",0.75,,Q007586,52,3
+55609,Q007586.53.1,Tammaritu[king of Elam]RN,{⸢m⸣}tam-ma-ri-⸢tu₂⸣,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{⸢m⸣}tam-ma-ri-⸢tu₂⸣,"['damaged', 'complete', 'complete', 'complete', 'damaged']",0.2,RN,Q007586,53,1
+55610,Q007586.53.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,53,2
+55611,Q007586.53.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,53,3
+55612,Q007586.53.4,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,53,4
+55613,Q007586.53.5,u,x],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,53,5
+55614,Q007586.53.6,u,x-ma,,,,u,"['x', '𒈠']",x𒈠,x-ma,"['complete', 'complete']",0.0,,Q007586,53,6
+55615,Q007586.53.7,iškunū[establishing]'N,⸢iš⸣-ku-nu,iškunū,šakānu,establishing,V,"['𒅖', '𒆪', '𒉡']",𒅖𒆪𒉡,⸢iš⸣-ku-nu,"['damaged', 'complete', 'complete']",0.17,,Q007586,53,7
+55616,Q007586.53.8,dabdâšu[defeat]N,⸢BAD₅.BAD₅-šu₂⸣,dabdâšu,dabdû,defeat,N,"['𒅆', '𒅆', '𒋙']",𒅆𒅆𒋙,⸢BAD₅⸣.⸢BAD₅-šu₂⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q007586,53,8
+55617,Q007586.54.1,uparriru[scatter]V,⸢u₂⸣-par-ri-[ru],uparriru,parāru,scatter,V,"['𒌑', '𒌓', '𒊑', '𒊒']",𒌑𒌓𒊑𒊒,⸢u₂⸣-par-ri-[ru],"['damaged', 'complete', 'complete', 'missing']",0.38,,Q007586,54,1
+55618,Q007586.54.2,ellatsu[group (of soldiers)]N,el-⸢lat-su⸣,ellatsu,illatu,group (of soldiers),N,"['𒂖', '𒆳', '𒋢']",𒂖𒆳𒋢,el-⸢lat-su⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007586,54,2
+55619,Q007586.56.1,nikis[cutting (off)]N,[ni]-⸢kis,nikis,niksu,cutting (off),N,"['𒉌', '𒆧']",𒉌𒆧,[ni]-⸢kis⸣,"['missing', 'damaged']",0.75,,Q007586,56,1
+55620,Q007586.56.2,qaqqad[head]N,SAG⸣.DU,qaqqad,qaqqadu,head,N,"['𒊕', '𒁺']",𒊕𒁺,⸢SAG⸣.DU,"['damaged', 'complete']",0.25,,Q007586,56,2
+55621,Q007586.56.3,ša[of]DET,[ša₂,ša,ša,of,DET,['𒃻'],𒃻,[ša₂],['missing'],1.0,,Q007586,56,3
+55622,Q007586.56.4,"Ummanigaš[Humban-nikas II, king of Elam]RN",{m]}um-man-i-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{[m]}um-man-i-gaš,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,RN,Q007586,56,4
+55623,Q007586.56.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,56,5
+55624,Q007586.56.6,Elamti[Elam]GN,{kur}ELAM{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}ELAM{KI},"['complete', 'complete', 'complete']",0.0,GN,Q007586,56,6
+55625,Q007586.57.1,ša[who]REL,[ša₂],ša,ša,who,REL,['𒃻'],𒃻,[ša₂],['missing'],1.0,,Q007586,57,1
+55626,Q007586.57.2,yâti[me]IP,⸢ia⸣-a-ti,yâti,yâti,me,IP,"['𒅀', '𒀀', '𒋾']",𒅀𒀀𒋾,⸢ia⸣-a-ti,"['damaged', 'complete', 'complete']",0.17,,Q007586,57,2
+55627,Q007586.57.3,bēl[lord]N,[EN,bēl,bēlu,lord,N,['𒂗'],𒂗,[EN],['missing'],1.0,,Q007586,57,3
+55628,Q007586.57.4,adêšu[treaty]N,a-de]-⸢e⸣-šu₂,adêšu,adû,treaty,N,"['𒀀', '𒁲', '𒂊', '𒋙']",𒀀𒁲𒂊𒋙,[a-de]-⸢e⸣-šu₂,"['missing', 'missing', 'damaged', 'complete']",0.62,,Q007586,57,4
+55629,Q007586.57.5,umašširanni[abandon]V,⸢u₂⸣-maš-šir-⸢an⸣-ni,umašširanni,wašāru,abandon,V,"['𒌑', '𒈦', '𒋓', '𒀭', '𒉌']",𒌑𒈦𒋓𒀭𒉌,⸢u₂⸣-maš-šir-⸢an⸣-ni,"['damaged', 'complete', 'complete', 'damaged', 'complete']",0.2,,Q007586,57,5
+55630,Q007586.58.1,ana[to]PRP,[a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q007586,58,1
+55631,Q007586.58.2,kitri[help]N,kit]-⸢ri⸣,kitri,kitru,help,N,"['𒆤', '𒊑']",𒆤𒊑,[kit]-⸢ri⸣,"['missing', 'damaged']",0.75,,Q007586,58,2
+55632,Q007586.58.3,Šamaš-šuma-ukin[king of Babylon]RN,{[m}{d}GIŠ.NU₁₁]-⸢MU⸣-GI.NA,Šamaš-šuma-ukin,Šamaš-šuma-ukin,king of Babylon,RN,"['𒁹', '𒀭', '𒄑', '𒉢', '𒈬', '𒄀', '𒈾']",𒁹𒀭𒄑𒉢𒈬𒄀𒈾,{[m]}{[d]}[GIŠ].[NU₁₁]-⸢MU⸣-GI.NA,"['missing', 'missing', 'missing', 'missing', 'damaged', 'complete', 'complete']",0.64,RN,Q007586,58,3
+55633,Q007586.58.4,bēl[lord]N,EN,bēl,bēlu,lord,N,['𒂗'],𒂗,EN,['complete'],0.0,,Q007586,58,4
+55634,Q007586.58.5,nakirīya[enemy]N,{lu₂}KUR₂.MEŠ-ia,nakirīya,nakru,enemy,N,"['𒇽', '𒉽', '𒎌', '𒅀']",𒇽𒉽𒎌𒅀,{LU₂}KUR₂.MEŠ-ia,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,58,5
+55635,Q007586.59.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,59,1
+55636,Q007586.59.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,59,2
+55637,Q007586.59.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007586,59,3
+55638,Q007586.59.4,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007586,59,4
+55639,Q007586.59.5,u,(x)],,,,u,['x'],x,[x],['missing'],1.0,,Q007586,59,5
+55640,Q007586.59.6,Tammaritu[king of Elam]RN,{m}tam-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}tam-ma-ri-tu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007586,59,6
+55641,Q007586.59.7,ikkisu[cut off]V,ik-ki-su,ikkisu,nakāsu,cut off,V,"['𒅅', '𒆠', '𒋢']",𒅅𒆠𒋢,ik-ki-su,"['complete', 'complete', 'complete']",0.0,,Q007586,59,7
+55642,Q007586.59.8,qabal[centre]N,MURUB₄,qabal,qablu,centre,N,['𒉠'],𒉠,MURUB₄,['complete'],0.0,,Q007586,59,8
+55643,Q007586.59.9,tamhāri[battle]N,⸢tam⸣-[ha-ri],tamhāri,tamhāru,battle,N,"['𒌓', '𒄩', '𒊑']",𒌓𒄩𒊑,⸢tam⸣-[ha-ri],"['damaged', 'missing', 'missing']",0.83,,Q007586,59,9
+55644,Q007586.60.1,ana[for]PRP,[a-na],ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q007586,60,1
+55645,Q007586.60.2,tāmarti[spectacle]N,⸢ta⸣-mar-⸢ti,tāmarti,tāmartu,spectacle,N,"['𒋫', '𒈥', '𒋾']",𒋫𒈥𒋾,⸢ta⸣-mar-⸢ti⸣,"['damaged', 'complete', 'damaged']",0.33,,Q007586,60,2
+55646,Q007586.60.3,šūt[who(m)]DET,{lu₂}šu-ut,šūt,šūt,who(m),DET,"['𒇽', '𒋗', '𒌓']",𒇽𒋗𒌓,{⸢LU₂⸣}⸢šu-ut⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q007586,60,3
+55647,Q007586.60.4,rēšiya[head]N,SAG⸣-ia,rēšiya,rēšu,head,N,"['𒊕', '𒅀']",𒊕𒅀,⸢SAG⸣-ia,"['damaged', 'complete']",0.25,,Q007586,60,4
+55648,Q007586.60.5,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q007586,60,5
+55649,Q007586.60.6,"Ummanigaš[Humban-nikas II, king of Elam]RN",{m}⸢um⸣-man-i-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{m}⸢um⸣-man-i-gaš,"['complete', 'damaged', 'complete', 'complete', 'complete']",0.1,RN,Q007586,60,6
+55650,Q007586.61.1,iklû[detain]V,[ik]-⸢lu⸣-u,iklû,kalû,detain,V,"['𒅅', '𒇻', '𒌋']",𒅅𒇻𒌋,[ik]-⸢lu⸣-u,"['missing', 'damaged', 'complete']",0.5,,Q007586,61,1
+55651,Q007586.61.2,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007586,61,2
+55652,Q007586.61.3,Elamti[Elam]GN,{kur}ELAM{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}ELAM{KI},"['complete', 'complete', 'complete']",0.0,GN,Q007586,61,3
+55653,Q007586.61.4,qereb[interior]N,qe₂-⸢reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,qe₂-⸢reb⸣,"['complete', 'damaged']",0.25,,Q007586,61,4
+55654,Q007586.61.5,Madakti[1]SN,{uru⸣}ma-dak-ti,Madakti,Madaktu,1,SN,"['𒌷', '𒈠', '𒁖', '𒋾']",𒌷𒈠𒁖𒋾,{⸢URU⸣}ma-dak-ti,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q007586,61,5
+55655,Q007586.62.1,ušēbilšu[send]V,⸢u₂⸣-še-bil-šu₂,ušēbilšu,wabālu,send,V,"['𒌑', '𒊺', '𒉈', '𒋙']",𒌑𒊺𒉈𒋙,⸢u₂⸣-še-bil-šu₂,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q007586,62,1
+55656,Q007586.62.2,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007586,62,2
+55657,Q007586.62.3,pusrati[message]N,⸢pu-us⸣-ra-a-ti,pusrati,bussurtu,message,N,"['𒁍', '𒊻', '𒊏', '𒀀', '𒋾']",𒁍𒊻𒊏𒀀𒋾,⸢pu-us⸣-ra-a-ti,"['damaged', 'damaged', 'complete', 'complete', 'complete']",0.2,,Q007586,62,3
+55658,Q007586.64.1,x,{[m}x]-NU-NU/BAD,,,,,"['𒁹', 'x', '𒉡', '𒉡', '𒁁']",𒁹x𒉡𒉡𒁁,{[m]}[x]-NU-NU/BAD,"['missing', 'missing', 'complete', 'complete', 'complete']",0.4,,Q007586,64,1
+55659,Q007586.64.2,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q007586,64,2
+55660,Q007586.64.3,Ummanappi[son of Urtaku]RN,{m}um-man-ap-pi,Ummanappi,Ummanappa,son of Urtaku,RN,"['𒁹', '𒌝', '𒎙', '𒀊', '𒉿']",𒁹𒌝𒎙𒀊𒉿,{m}um-man-ap-pi,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007586,64,3
+55661,Q007586.64.4,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q007586,64,4
+55662,Q007586.64.5,Urtaki[king of Elam]RN,{m}⸢ur⸣-ta-ki,Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{m}⸢ur⸣-ta-ki,"['complete', 'damaged', 'complete', 'complete']",0.12,RN,Q007586,64,5
+55663,Q007586.64.6,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,64,6
+55664,Q007586.64.7,Elamti[Elam]GN,{kur}ELAM.⸢MA⸣{[ki]},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.⸢MA⸣{[KI]},"['complete', 'complete', 'damaged', 'missing']",0.38,GN,Q007586,64,7
+55665,Q007586.66.1,"Ummanaldasu[Humban-haltaš, son of Teumman]RN",{[m]}⸢um⸣-man-al-da-su,Ummanaldasu,Ummanaldašu,"Humban-haltaš, son of Teumman",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒋢']",𒁹𒌝𒎙𒀠𒁕𒋢,{[m]}⸢um⸣-man-al-da-su,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.25,RN,Q007586,66,1
+55666,Q007586.66.2,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q007586,66,2
+55667,Q007586.66.3,Teumman[king of Elam]RN,{m}⸢te⸣-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{m}⸢te⸣-um-man,"['complete', 'damaged', 'complete', 'complete']",0.12,RN,Q007586,66,3
+55668,Q007586.66.4,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007586,66,4
+55669,Q007586.66.5,Elamti[Elam]GN,{kur}ELAM.MA{⸢ki⸣},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.MA{⸢KI⸣},"['complete', 'complete', 'complete', 'damaged']",0.12,GN,Q007586,66,5
+55670,Q007586.68.1,Umbakidennu[son of Ummanappa]RN,{[m]}⸢um⸣-ba-ki-den-nu,Umbakidennu,Umbakidinu,son of Ummanappa,RN,"['𒁹', '𒌝', '𒁀', '𒆠', '𒁷', '𒉡']",𒁹𒌝𒁀𒆠𒁷𒉡,{[m]}⸢um⸣-ba-ki-den-nu,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.25,RN,Q007586,68,1
+55671,Q007586.68.2,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q007586,68,2
+55672,Q007586.68.3,Ummanappi[son of Urtaku]RN,{[m]}um-man-ap-pi,Ummanappi,Ummanappa,son of Urtaku,RN,"['𒁹', '𒌝', '𒎙', '𒀊', '𒉿']",𒁹𒌝𒎙𒀊𒉿,{[m]}um-man-ap-pi,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,RN,Q007586,68,3
+55673,Q007586.69.1,mār[son]N,[A],mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,Q007586,69,1
+55674,Q007586.69.2,Urtaki[king of Elam]RN,{⸢m⸣}ur-ta-ki,Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{⸢m⸣}ur-ta-ki,"['damaged', 'complete', 'complete', 'complete']",0.12,RN,Q007586,69,2
+55675,Q007586.69.3,šar[king]N,⸢MAN⸣,šar,šarru,king,N,['𒎙'],𒎙,⸢MAN⸣,['damaged'],0.5,,Q007586,69,3
+55676,Q007586.69.4,Elamti[Elam]GN,{kur}ELAM{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒆠']",𒆳𒉏𒆠,{KUR}ELAM{KI},"['complete', 'complete', 'complete']",0.0,GN,Q007586,69,4
+55677,Q007586.71.1,u,{[m}(x)],,,,u,"['𒁹', 'x']",𒁹x,{[m]}[x],"['missing', 'missing']",1.0,,Q007586,71,1
+55678,Q007586.71.2,u,x-NAG-di-nu,,,,u,"['x', '𒅘', '𒁲', '𒉡']",x𒅘𒁲𒉡,x-NAG-di-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,71,2
+55679,Q007586.71.3,nāgiru[herald]N,{lu₂}NIMGIR₂,nāgiru,nāgiru,herald,N,"['𒇽', '𒂈']",𒇽𒂈,{LU₂}NIMGIR₂,"['complete', 'complete']",0.0,,Q007586,71,3
+55680,Q007586.73.1,ša[of]DET,[ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,Q007586,73,1
+55681,Q007586.73.2,ina[on]PRP,ina],ina,ina,on,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q007586,73,2
+55682,Q007586.73.3,muhhi[skull]N,⸢UGU⸣,muhhi,muhhu,skull,N,['𒌋𒅗'],𒌋𒅗,⸢UGU⸣,['damaged'],0.5,,Q007586,73,3
+55683,Q007586.73.4,igārāti[wall]N,E₂.⸢GAR₈⸣.[MEŠ,igārāti,igāru,wall,N,"['𒂍', '𒋞', '𒎌']",𒂍𒋞𒎌,E₂.⸢GAR₈⸣.[MEŠ],"['complete', 'damaged', 'missing']",0.5,,Q007586,73,4
+55684,Q007586.73.5,ša[of]DET,ša],ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,Q007586,73,5
+55685,Q007586.73.6,bīt[house]N,E₂,bīt,bītu,house,N,['𒂍'],𒂍,E₂,['complete'],0.0,,Q007586,73,6
+55686,Q007586.73.7,ridûti[succession]N,ri-du-u-ti,ridûti,ridûtu,succession,N,"['𒊑', '𒁺', '𒌋', '𒋾']",𒊑𒁺𒌋𒋾,ri-du-u-ti,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007586,73,7
+55687,Q007586.74.1,ša[of]DET,⸢ša⸣,ša,ša,of,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,,Q007586,74,1
+55688,Q007586.74.2,bīt[house]N,[E₂],bīt,bītu,house,N,['𒂍'],𒂍,[E₂],['missing'],1.0,,Q007586,74,2
+55689,Q007586.74.3,šūti[south]N,{⸢im⸣}šu-u-⸢ti⸣,šūti,šūtu,south,N,"['𒅎', '𒋗', '𒌋', '𒋾']",𒅎𒋗𒌋𒋾,{⸢IM⸣}šu-u-⸢ti⸣,"['damaged', 'complete', 'complete', 'damaged']",0.25,,Q007586,74,3

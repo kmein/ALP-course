@@ -1,0 +1,24 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+51942,Q008340.1.1,Asari[Marduk]DN,{d}asar-ri,,Asari,Marduk,DN,"['𒀭', '𒍂', '𒊑']",𒀭𒍂𒊑,{d}asar-ri,"['complete', 'complete', 'complete']",0.0,DN,Q008340,1,1
+51943,Q008340.1.2,en[lord]N,umun,,en,lord,N,['𒌋'],𒌋,umun,['complete'],0.0,,Q008340,1,2
+51944,Q008340.1.3,gal[big]V/i,gal,,gal,big,V/i,['𒃲'],𒃲,gal,['complete'],0.0,,Q008340,1,3
+51945,Q008340.1.4,lugal[king]N,lugal-a-ni-ir,,lugal,king,N,"['𒈗', '𒀀', '𒉌', '𒅕']",𒈗𒀀𒉌𒅕,lugal-a-ni-ir,"['complete', 'complete', 'complete', 'complete']",0.0,,Q008340,1,4
+51946,Q008340.1.5,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008340,1,5
+51947,Q008340.2.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008340,2,1
+51948,Q008340.2.2,imin[seven]NU,imin,,imin,seven,NU,['𒅓'],𒅓,imin,['complete'],0.0,,Q008340,2,2
+51949,Q008340.2.3,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008340,2,3
+51950,Q008340.2.4,mada[land]N,ma-da,,mada,land,N,"['𒈠', '𒁕']",𒈠𒁕,ma-da,"['complete', 'complete']",0.0,,Q008340,2,4
+51951,Q008340.2.5,Aššur[Assyria]GN,aš-šur{ki},Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩', '𒆠']",𒀸𒋩𒆠,aš-šur{KI},"['complete', 'complete', 'complete']",0.0,GN,Q008340,2,5
+51952,Q008340.2.6,dumu[son]N,dumu,,dumu,son,N,['𒌉'],𒌉,dumu,['complete'],0.0,,Q008340,2,6
+51953,Q008340.2.7,"Aššur-ahu-iddina[Esarhaddon, king of Assyria]RN",{m}AN.ŠAR₂-PAP-AŠ,Aššur-ahu-iddina,Aššur-ahu-iddina,"Esarhaddon, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒉽', '𒀸']",𒁹𒀭𒊹𒉽𒀸,{m}AN.ŠAR₂-PAP-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008340,2,7
+51954,Q008340.3.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008340,3,1
+51955,Q008340.3.2,imin[seven]NU,imin,,imin,seven,NU,['𒅓'],𒅓,imin,['complete'],0.0,,Q008340,3,2
+51956,Q008340.3.3,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008340,3,3
+51957,Q008340.3.4,mada[land]N,ma-da,,mada,land,N,"['𒈠', '𒁕']",𒈠𒁕,ma-da,"['complete', 'complete']",0.0,,Q008340,3,4
+51958,Q008340.3.5,Aššur[Assyria]GN,aš-šur{ki},Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩', '𒆠']",𒀸𒋩𒆠,aš-šur{KI},"['complete', 'complete', 'complete']",0.0,GN,Q008340,3,5
+51959,Q008340.3.6,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008340,3,6
+51960,Q008340.3.7,Babili[Babylon]SN,TIN.TIR{ki},Babili,Babili,Babylon,SN,"['𒁷', '𒌁', '𒆠']",𒁷𒌁𒆠,TIN.TIR{KI},"['complete', 'complete', 'complete']",0.0,,Q008340,3,7
+51961,Q008340.4.1,"namtil[life//life]N$namtil,ak.bi.eše/nam-ti-la #~,ak.bi.eše",nam-ti-la-bi-še₃,,namtil,life,N,"['𒉆', '𒋾', '𒆷', '𒁉', '𒂠']",𒉆𒋾𒆷𒁉𒂠,nam-ti-la-bi-še₃,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q008340,4,1
+51962,Q008340.4.2,Etemenanki[1]TN,e₂-temen-an-ki,,Etemenanki,1,TN,"['𒂍', '𒋼', '𒀭', '𒆠']",𒂍𒋼𒀭𒆠,e₂-temen-an-ki,"['complete', 'complete', 'complete', 'complete']",0.0,,Q008340,4,2
+51963,Q008340.4.3,eššiš[anew]AV,eš-šiš,eššiš,eššiš,anew,AV,"['𒌍', '𒋀']",𒌍𒋀,eš-šiš,"['complete', 'complete']",0.0,,Q008340,4,3
+51964,Q008340.4.4,dim[create]V/t,mu-na-dim₂,,dim,create,V/t,"['𒈬', '𒈾', '𒁶']",𒈬𒈾𒁶,mu-na-dim₂,"['complete', 'complete', 'complete']",0.0,,Q008340,4,4

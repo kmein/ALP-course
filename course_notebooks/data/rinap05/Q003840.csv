@@ -1,0 +1,12 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+60479,Q003840.1.1,ṣalam[effigy]N,⸢ṣa-lam⸣,ṣalam,ṣalmu,effigy,N,"['𒍝', '𒇴']",𒍝𒇴,⸢ṣa-lam⸣,"['damaged', 'damaged']",0.5,,Q003840,1,1
+60480,Q003840.2.1,Libbali-šarrat[wife of Ashurbanipal]RN,{[f]}{uru}⸢ŠA₃⸣.URU-⸢šar⸣-[rat],Libbali-šarrat,Libbali-šarrat,wife of Ashurbanipal,RN,"['𒊩', '𒌷', '𒊮', '𒌷', '𒊬', '𒋥']",𒊩𒌷𒊮𒌷𒊬𒋥,{[f]}{URU}⸢ŠA₃⸣.URU-⸢šar⸣-[rat],"['missing', 'complete', 'damaged', 'complete', 'damaged', 'missing']",0.5,RN,Q003840,2,1
+60481,Q003840.3.1,ša[of]DET&ēkalli[palace]N,⸢MUNUS⸣.E₂.[GAL],ša,ša,of,DET,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,⸢MUNUS⸣.E₂.[GAL],"['damaged', 'complete', 'missing']",0.5,,Q003840,3,1
+60482,Q003840.3.1,ša[of]DET&ēkalli[palace]N,⸢MUNUS⸣.E₂.[GAL],ēkalli,ēkallu,palace,N,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,⸢MUNUS⸣.E₂.[GAL],"['damaged', 'complete', 'missing']",0.5,,Q003840,3,1
+60483,Q003840.4.1,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003840,4,1
+60484,Q003840.4.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-[A],Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-[A],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,RN,Q003840,4,2
+60485,Q003840.5.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003840,5,1
+60486,Q003840.5.2,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003840,5,2
+60487,Q003840.5.3,šar[king]N,⸢MAN⸣,šar,šarru,king,N,['𒎙'],𒎙,⸢MAN⸣,['damaged'],0.5,,Q003840,5,3
+60488,Q003840.5.4,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003840,5,4
+60489,Q003840.5.5,Aššur[Assyria]GN,aš-[šur],Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-[šur],"['complete', 'missing']",0.5,GN,Q003840,5,5

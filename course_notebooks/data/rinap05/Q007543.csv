@@ -1,0 +1,76 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+19640,Q007543.3.1,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007543,3,1
+19641,Q007543.3.2,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q007543,3,2
+19642,Q007543.3.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,3,3
+19643,Q007543.4.1,ultu[from]PRP,ul-tu,ultu,ištu,from,PRP,"['𒌌', '𒌅']",𒌌𒌅,ul-tu,"['complete', 'complete']",0.0,,Q007543,4,1
+19644,Q007543.4.2,qātī[hand]N,ŠU.II,qātī,qātu,hand,N,"['𒋗', '𒅀']",𒋗𒅀,ŠU.II,"['complete', 'complete']",0.0,,Q007543,4,2
+19645,Q007543.4.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007543,4,3
+19646,Q007543.4.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,4,4
+19647,Q007543.5.1,"Ummanigaš[Humban-nikas II, king of Elam]RN",{m}um-man-i-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{m}um-man-i-gaš,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007543,5,1
+19648,Q007543.5.2,Ummanappa[son of Urtaku]RN,{m}⸢um⸣-[man-ap-pa,Ummanappa,Ummanappa,son of Urtaku,RN,"['𒁹', '𒌝', '𒎙', '𒀊', '𒉺']",𒁹𒌝𒎙𒀊𒉺,{m}⸢um⸣-[man-ap-pa],"['complete', 'damaged', 'missing', 'missing', 'missing']",0.7,RN,Q007543,5,2
+19649,Q007543.5.3,Tammaritu[son of Urtaku and king of Hidalu]RN,{m}tam-ma-ri-tu,Tammaritu,Tammaritu,son of Urtaku and king of Hidalu,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌅']",𒁹𒌓𒈠𒊑𒌅,{[m]}[tam-ma-ri-tu],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,RN,Q007543,5,3
+19650,Q007543.5.4,mārī[son]N,DUMU.MEŠ,mārī,māru,son,N,"['𒌉', '𒎌']",𒌉𒎌,[DUMU].[MEŠ],"['missing', 'missing']",1.0,,Q007543,5,4
+19651,Q007543.5.5,Urtaki[king of Elam]RN,{m}ur-ta-ki,Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{[m]}[ur-ta-ki],"['missing', 'missing', 'missing', 'missing']",1.0,RN,Q007543,5,5
+19652,Q007543.5.6,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,[LUGAL],['missing'],1.0,,Q007543,5,6
+19653,Q007543.5.7,Elamti[Elam]GN,{kur}ELAM.MA{ki]},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q007543,5,7
+19654,Q007543.6.1,Kudurru[son of Ummanaldašu II]RN,{m}ku-dur₂-ru,Kudurru,Kudurru,son of Ummanaldašu II,RN,"['𒁹', '𒆪', '𒂉', '𒊒']",𒁹𒆪𒂉𒊒,{m}ku-dur₂-ru,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q007543,6,1
+19655,Q007543.6.2,Parru[son of Ummanaldašu II]RN,{m}⸢pa⸣-ru-u₂,Parru,Parru,son of Ummanaldašu II,RN,"['𒁹', '𒉺', '𒊒', '𒌑']",𒁹𒉺𒊒𒌑,{m}⸢pa⸣-ru-u₂,"['complete', 'damaged', 'complete', 'complete']",0.12,RN,Q007543,6,2
+19656,Q007543.6.3,mārī[son]N,⸢DUMU.MEŠ⸣,mārī,māru,son,N,"['𒌉', '𒎌']",𒌉𒎌,⸢DUMU⸣.⸢MEŠ⸣,"['damaged', 'damaged']",0.5,,Q007543,6,3
+19657,Q007543.6.4,"Ummanaldaše[king of Elam and brother of Urtaku, Humban-haltaš II]RN",{[m}um-man-al-da-še,Ummanaldaše,Ummanaldašu,"king of Elam and brother of Urtaku, Humban-haltaš II",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒊺']",𒁹𒌝𒎙𒀠𒁕𒊺,{[m]}[um-man-al-da-še],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,RN,Q007543,6,4
+19658,Q007543.6.5,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,[LUGAL],['missing'],1.0,,Q007543,6,5
+19659,Q007543.6.6,ālik[goer]N,a-lik,ālik,āliku,goer,N,"['𒀀', '𒌨']",𒀀𒌨,[a-lik],"['missing', 'missing']",1.0,,Q007543,6,6
+19660,Q007543.6.7,pāni[front]N,pa-ni,pāni,pānu,front,N,"['𒉺', '𒉌']",𒉺𒉌,[pa-ni],"['missing', 'missing']",1.0,,Q007543,6,7
+19661,Q007543.6.8,Urtaki[king of Elam]RN,{m}ur-ta-ki],Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{[m]}[ur-ta-ki],"['missing', 'missing', 'missing', 'missing']",1.0,RN,Q007543,6,8
+19662,Q007543.7.1,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q007543,7,1
+19663,Q007543.7.2,n,60,,,,n,['𒐕'],𒐕,60,['complete'],0.0,NUMBER,Q007543,7,2
+19664,Q007543.7.3,zērī[seed]N,NUMUN.MEŠ,zērī,zēru,seed,N,"['𒆰', '𒎌']",𒆰𒎌,NUMUN.MEŠ,"['complete', 'complete']",0.0,,Q007543,7,3
+19665,Q007543.7.4,šarri[king]N,LUGAL,šarri,šarru,king,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,,Q007543,7,4
+19666,Q007543.7.5,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007543,7,5
+19667,Q007543.7.6,lā[not]MOD,la,lā,lā,not,MOD,['𒆷'],𒆷,la,['complete'],0.0,,Q007543,7,6
+19668,Q007543.7.7,mīni[number]N,mi₃-ni,mīni,mīnu,number,N,"['𒈨', '𒉌']",𒈨𒉌,mi₃-ni,"['complete', 'complete']",0.0,,Q007543,7,7
+19669,Q007543.7.8,ṣābī[troops]N,{⸢lu₂}ERIM.MEŠ,ṣābī,ṣābu,troops,N,"['𒇽', '𒂟', '𒎌']",𒇽𒂟𒎌,{⸢LU₂⸣}⸢ERIM⸣.⸢MEŠ⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q007543,7,8
+19670,Q007543.7.9,qašti[bow]N,{giš}PAN,qašti,qaštu,bow,N,"['𒄑', '𒉼']",𒄑𒉼,{⸢GIŠ⸣}⸢PAN⸣,"['damaged', 'damaged']",0.5,,Q007543,7,9
+19671,Q007543.7.10,mār[son]N,DUMU,mār,māru,son,N,['𒌉'],𒌉,⸢DUMU⸣,['damaged'],0.5,,Q007543,7,10
+19672,Q007543.7.11,banê[something good]N,ba⸣-ne₂-⸢e⸣,banê,banû,something good,N,"['𒁀', '𒉌', '𒂊']",𒁀𒉌𒂊,⸢ba⸣-ne₂-⸢e⸣,"['damaged', 'complete', 'damaged']",0.33,,Q007543,7,11
+19673,Q007543.7.12,ša[of]DET,[ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,Q007543,7,12
+19674,Q007543.7.13,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q007543,7,13
+19675,Q007543.7.14,u,(...)],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,7,14
+19676,Q007543.9.1,qaqqad[head]N,SAG.DU,qaqqad,qaqqadu,head,N,"['𒊕', '𒁺']",𒊕𒁺,SAG.DU,"['complete', 'complete']",0.0,,Q007543,9,1
+19677,Q007543.9.2,Teumman[king of Elam]RN,{m}te-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{m}te-um-man,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q007543,9,2
+19678,Q007543.9.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q007543,9,3
+19679,Q007543.9.4,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.MA{KI},"['complete', 'complete', 'complete', 'complete']",0.0,GN,Q007543,9,4
+19680,Q007543.9.5,erhu[aggressive]AJ,er-hu,erhu,erhu,aggressive,AJ,"['𒅕', '𒄷']",𒅕𒄷,er-hu,"['complete', 'complete']",0.0,,Q007543,9,5
+19681,Q007543.9.6,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007543,9,6
+19682,Q007543.9.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,9,7
+19683,Q007543.10.1,Tammaritu[king of Elam]RN,{m}tam-ma-ri-tu₂,Tammaritu,Tammaritu,king of Elam,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌓']",𒁹𒌓𒈠𒊑𒌓,{m}tam-ma-ri-tu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007543,10,1
+19684,Q007543.10.2,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007543,10,2
+19685,Q007543.10.3,arki[after]PRP,EGIR,arki,warki,after,PRP,['𒂕'],𒂕,EGIR,['complete'],0.0,,Q007543,10,3
+19686,Q007543.10.4,"Ummanigaš[Humban-nikas II, king of Elam]RN",{m}um-man-i-gaš,Ummanigaš,Ummanigaš,"Humban-nikas II, king of Elam",RN,"['𒁹', '𒌝', '𒎙', '𒄿', '𒁉']",𒁹𒌝𒎙𒄿𒁉,{m}um-man-i-gaš,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007543,10,4
+19687,Q007543.10.5,ūšibu[sit]V,u₂-ši-[bu,ūšibu,wašābu,sit,V,"['𒌑', '𒅆', '𒁍']",𒌑𒅆𒁍,u₂-ši-[bu],"['complete', 'complete', 'missing']",0.33,,Q007543,10,5
+19688,Q007543.10.6,ina[on]PRP,ina,ina,ina,on,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q007543,10,6
+19689,Q007543.10.7,kussî[throne]N,{giš}GU.ZA,kussî,kussû,throne,N,"['𒄑', '𒄖', '𒍝']",𒄑𒄖𒍝,{[GIŠ]}[GU].[ZA],"['missing', 'missing', 'missing']",1.0,,Q007543,10,7
+19690,Q007543.10.8,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q007543,10,8
+19691,Q007543.10.9,innabtamma[run away]V,in-nab-tam-ma],innabtamma,abātu,run away,V,"['𒅔', '𒀮', '𒌓', '𒈠']",𒅔𒀮𒌓𒈠,[in-nab-tam-ma],"['missing', 'missing', 'missing', 'missing']",1.0,,Q007543,10,9
+19692,Q007543.11.1,lapān[from before]PRP,⸢la⸣-pa-an,lapān,lapāni,from before,PRP,"['𒆷', '𒉺', '𒀭']",𒆷𒉺𒀭,⸢la⸣-pa-an,"['damaged', 'complete', 'complete']",0.17,,Q007543,11,1
+19693,Q007543.11.2,Indabibi[king of Elam]RN,{m}in-da-bi-bi,Indabibi,Indabibi,king of Elam,RN,"['𒁹', '𒅔', '𒁕', '𒁉', '𒁉']",𒁹𒅔𒁕𒁉𒁉,{m}in-da-bi-bi,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q007543,11,2
+19694,Q007543.11.3,ardišu[servant]N,ARAD-šu₂,ardišu,wardu,servant,N,"['𒀴', '𒋙']",𒀴𒋙,ARAD-šu₂,"['complete', 'complete']",0.0,,Q007543,11,3
+19695,Q007543.11.4,mīrânuššu[nakedness]N,mi-ra-⸢nu⸣-[uš-šu₂,mīrânuššu,mērênu,nakedness,N,"['𒈪', '𒊏', '𒉡', '𒍑', '𒋙']",𒈪𒊏𒉡𒍑𒋙,mi-ra-⸢nu⸣-[uš-šu₂],"['complete', 'complete', 'damaged', 'missing', 'missing']",0.5,,Q007543,11,4
+19696,Q007543.11.5,ina[on]PRP,ina,ina,ina,on,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q007543,11,5
+19697,Q007543.11.6,muhhi[skull]N,UGU,muhhi,muhhu,skull,N,['𒌋𒅗'],𒌋𒅗,[UGU],['missing'],1.0,,Q007543,11,6
+19698,Q007543.11.7,libbišu[interior]N,lib₃-bi-šu₂,libbišu,libbu,interior,N,"['𒊮', '𒁉', '𒋙']",𒊮𒁉𒋙,[lib₃-bi-šu₂],"['missing', 'missing', 'missing']",1.0,,Q007543,11,7
+19699,Q007543.11.8,ipšilamma[crawl]V,ip-ši-lam-ma,ipšilamma,pašālu,crawl,V,"['𒅁', '𒅆', '𒇴', '𒈠']",𒅁𒅆𒇴𒈠,[ip-ši-lam-ma],"['missing', 'missing', 'missing', 'missing']",1.0,,Q007543,11,8
+19700,Q007543.11.9,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,11,9
+19701,Q007543.12.1,akšud[conquer]V,ak-šu-ud,akšud,kašādu,conquer,V,"['𒀝', '𒋗', '𒌓']",𒀝𒋗𒌓,ak-šu-ud,"['complete', 'complete', 'complete']",0.0,,Q007543,12,1
+19702,Q007543.12.2,Bit-Imbi[1]SN,{uru}⸢E₂⸣-{m}im-bi-i,Bit-Imbi,Bit-Imbi,1,SN,"['𒌷', '𒂍', '𒁹', '𒅎', '𒁉', '𒄿']",𒌷𒂍𒁹𒅎𒁉𒄿,{URU}⸢E₂⸣-{m}im-bi-i,"['complete', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.08,,Q007543,12,2
+19703,Q007543.12.3,Šušan[Susa]SN,{uru}šu-ša₂-⸢an⸣,Šušan,Šušan,Susa,SN,"['𒌷', '𒋗', '𒃻', '𒀭']",𒌷𒋗𒃻𒀭,{URU}šu-ša₂-⸢an⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,,Q007543,12,3
+19704,Q007543.12.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,12,4
+19705,Q007543.13.1,Aššan[1]SN,{uru}aš₂-ša₂-an,Aššan,Aššan,1,SN,"['𒌷', '𒀾', '𒃻', '𒀭']",𒌷𒀾𒃻𒀭,{URU}aš₂-ša₂-an,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007543,13,1
+19706,Q007543.13.2,ana[to]PRP,a-⸢na⸣,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-⸢na⸣,"['complete', 'damaged']",0.25,,Q007543,13,2
+19707,Q007543.13.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,13,3
+19708,Q007543.14.1,ilānišu[god]N,DINGIR.MEŠ-šu₂,ilānišu,ilu,god,N,"['𒀭', '𒎌', '𒋙']",𒀭𒎌𒋙,DINGIR.MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,,Q007543,14,1
+19709,Q007543.14.2,ištarātišu[goddess]N,{⸢d⸣}15.MEŠ-šu₂,ištarātišu,ištaru,goddess,N,"['𒀭', '𒌋𒐊', '𒎌', '𒋙']",𒀭𒌋𒐊𒎌𒋙,{⸢d⸣}[15].[MEŠ-šu₂],"['damaged', 'missing', 'missing', 'missing']",0.88,,Q007543,14,2
+19710,Q007543.14.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,14,3
+19711,Q007543.15.1,"Ummanaldasi[son of Atta-metu and king of Elam, Humban-haltaš III]RN",{m}um-man-⸢al⸣-[da-si,Ummanaldasi,Ummanaldašu,"son of Atta-metu and king of Elam, Humban-haltaš III",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒋛']",𒁹𒌝𒎙𒀠𒁕𒋛,{m}um-man-⸢al⸣-[da-si],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.42,RN,Q007543,15,1
+19712,Q007543.15.2,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,15,2
+19713,Q007543.16.1,arki[after]PRP,⸢EGIR⸣,arki,warki,after,PRP,['𒂕'],𒂕,⸢EGIR⸣,['damaged'],0.5,,Q007543,16,1
+19714,Q007543.16.2,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007543,16,2

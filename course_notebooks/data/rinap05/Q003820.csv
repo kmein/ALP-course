@@ -1,0 +1,39 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+23260,Q003820.2.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q003820,2,1
+23261,Q003820.2.2,Ummanappa[son of Urtaku]RN,{m}um-man]-⸢ap-pa,Ummanappa,Ummanappa,son of Urtaku,RN,"['𒁹', '𒌝', '𒎙', '𒀊', '𒉺']",𒁹𒌝𒎙𒀊𒉺,{[m]}[um-man]-⸢ap-pa⸣,"['missing', 'missing', 'missing', 'damaged', 'damaged']",0.8,RN,Q003820,2,2
+23262,Q003820.2.3,Tammaritu[son of Urtaku and king of Hidalu]RN,{m}tam-ma-ri⸣-[tu,Tammaritu,Tammaritu,son of Urtaku and king of Hidalu,RN,"['𒁹', '𒌓', '𒈠', '𒊑', '𒌅']",𒁹𒌓𒈠𒊑𒌅,{⸢m⸣}⸢tam-ma-ri⸣-[tu],"['damaged', 'damaged', 'damaged', 'damaged', 'missing']",0.6,RN,Q003820,2,3
+23263,Q003820.2.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,2,4
+23264,Q003820.3.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q003820,3,1
+23265,Q003820.3.2,Parru[son of Ummanaldašu II]RN,{m}pa-ru]-u₂,Parru,Parru,son of Ummanaldašu II,RN,"['𒁹', '𒉺', '𒊒', '𒌑']",𒁹𒉺𒊒𒌑,{[m]}[pa-ru]-u₂,"['missing', 'missing', 'missing', 'complete']",0.75,RN,Q003820,3,2
+23266,Q003820.3.3,mār[son]N,DUMU,mār,māru,son,N,['𒌉'],𒌉,DUMU,['complete'],0.0,,Q003820,3,3
+23267,Q003820.3.4,"Ummanaldaše[king of Elam and brother of Urtaku, Humban-haltaš II]RN",{m}um-man-⸢al⸣-[da-še,Ummanaldaše,Ummanaldašu,"king of Elam and brother of Urtaku, Humban-haltaš II",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒊺']",𒁹𒌝𒎙𒀠𒁕𒊺,{m}um-man-⸢al⸣-[da-še],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.42,RN,Q003820,3,4
+23268,Q003820.3.5,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,3,5
+23269,Q003820.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,4,1
+23270,Q003820.4.2,ina[in]PRP,⸢ina⸣,ina,ina,in,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,,Q003820,4,2
+23271,Q003820.4.3,lā[not]MOD,la,lā,lā,not,MOD,['𒆷'],𒆷,la,['complete'],0.0,,Q003820,4,3
+23272,Q003820.4.4,mīni[number]N,mi₃-ni,mīni,mīnu,number,N,"['𒈨', '𒉌']",𒈨𒉌,mi₃-ni,"['complete', 'complete']",0.0,,Q003820,4,4
+23273,Q003820.4.5,ṣābī[troops]N,{lu₂}ERIM.MEŠ,ṣābī,ṣābu,troops,N,"['𒇽', '𒂟', '𒎌']",𒇽𒂟𒎌,{LU₂}ERIM.MEŠ,"['complete', 'complete', 'complete']",0.0,,Q003820,4,5
+23274,Q003820.4.6,qašti[bow]N,{giš}[PAN,qašti,qaštu,bow,N,"['𒄑', '𒉼']",𒄑𒉼,{GIŠ}[PAN],"['complete', 'missing']",0.5,,Q003820,4,6
+23275,Q003820.4.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,4,7
+23276,Q003820.5.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q003820,5,1
+23277,Q003820.5.2,Teumman[king of Elam]RN,{m]}⸢te⸣-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{[m]}⸢te⸣-um-man,"['missing', 'damaged', 'complete', 'complete']",0.38,RN,Q003820,5,2
+23278,Q003820.5.3,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,,Q003820,5,3
+23279,Q003820.5.4,Elamti[Elam]GN,{kur}e-lam-ti,Elamti,Elamtu,Elam,GN,"['𒆳', '𒂊', '𒇴', '𒋾']",𒆳𒂊𒇴𒋾,{KUR}e-lam-ti,"['complete', 'complete', 'complete', 'complete']",0.0,GN,Q003820,5,4
+23280,Q003820.5.5,ahi[brother]N,ŠEŠ,ahi,ahu,brother,N,['𒋀'],𒋀,ŠEŠ,['complete'],0.0,,Q003820,5,5
+23281,Q003820.5.6,abušunu[father]N,AD-šu₂-[nu,abušunu,abu,father,N,"['𒀜', '𒋙', '𒉡']",𒀜𒋙𒉡,AD-šu₂-[nu],"['complete', 'complete', 'missing']",0.33,,Q003820,5,6
+23282,Q003820.5.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,5,7
+23283,Q003820.6.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q003820,6,1
+23284,Q003820.6.2,"URdammaneʾ[Tanutamon, pharaoh of Egypt]RN",{m}UR-da-ma-ne₂]-e,URdammaneʾ,URdammaniʾ,"Tanutamon, pharaoh of Egypt",RN,"['𒁹', '𒌨', '𒁕', '𒈠', '𒉌', '𒂊']",𒁹𒌨𒁕𒈠𒉌𒂊,{[m]}[UR-da-ma-ne₂]-e,"['missing', 'missing', 'missing', 'missing', 'missing', 'complete']",0.83,RN,Q003820,6,2
+23285,Q003820.6.3,mār[son]N,DUMU,mār,māru,son,N,['𒌉'],𒌉,DUMU,['complete'],0.0,,Q003820,6,3
+23286,Q003820.6.4,ahātišu[sister]N,NIN₉-šu₂,ahātišu,ahātu,sister,N,"['𒎐', '𒋙']",𒎐𒋙,NIN₉-šu₂,"['complete', 'complete']",0.0,,Q003820,6,4
+23287,Q003820.6.5,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003820,6,5
+23288,Q003820.6.6,"Tarqu[Taharqa, pharaoh of Egypt]RN",{m}tar-qu-u,Tarqu,Tarqu,"Taharqa, pharaoh of Egypt",RN,"['𒁹', '𒋻', '𒄣', '𒌋']",𒁹𒋻𒄣𒌋,{m}tar-qu-u,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003820,6,6
+23289,Q003820.6.7,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,,Q003820,6,7
+23290,Q003820.6.8,Muṣur[Egypt]GN,{kur}⸢mu⸣-[ṣur,Muṣur,Muṣur,Egypt,GN,"['𒆳', '𒈬', '𒀫']",𒆳𒈬𒀫,{KUR}⸢mu⸣-[ṣur],"['complete', 'damaged', 'missing']",0.5,GN,Q003820,6,8
+23291,Q003820.6.9,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,6,9
+23292,Q003820.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,7,1
+23293,Q003820.7.2,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,7,2
+23294,Q003820.9.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,9,1
+23295,Q003820.9.2,X,TI,,,,X,['𒋾'],𒋾,TI,['complete'],0.0,,Q003820,9,2
+23296,Q003820.9.3,X,ŠA₂,,,,X,['𒃻'],𒃻,ŠA₂,['complete'],0.0,,Q003820,9,3
+23297,Q003820.9.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003820,9,4

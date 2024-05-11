@@ -1,0 +1,32 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+25442,Q003755.1.1,anāku[I]IP,a-na-ku,anāku,anāku,I,IP,"['𒀀', '𒈾', '𒆪']",𒀀𒈾𒆪,a-na-ku,"['complete', 'complete', 'complete']",0.0,,Q003755,1,1
+25443,Q003755.1.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003755,1,2
+25444,Q003755.1.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003755,1,3
+25445,Q003755.1.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003755,1,4
+25446,Q003755.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003755,1,5
+25447,Q003755.1.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003755,1,6
+25448,Q003755.1.7,Aššur[Assyria]GN,AN.ŠAR₂{ki},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,AN.ŠAR₂{KI},"['complete', 'complete', 'complete']",0.0,GN,Q003755,1,7
+25449,Q003755.1.8,ina[during]PRP,ina,ina,ina,during,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003755,1,8
+25450,Q003755.1.9,multaʾʾûtiya[leisure]N,mul-ta-ʾu-ti-ia,multaʾʾûtiya,muštaʾʾûtu,leisure,N,"['𒀯', '𒋫', '𒀪', '𒋾', '𒅀']",𒀯𒋫𒀪𒋾𒅀,mul-ta-ʾu-ti-ia,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003755,1,9
+25451,Q003755.1.10,ina[on]PRP,ina,ina,ina,on,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003755,1,10
+25452,Q003755.1.11,šēpīya[foot]N,GIR₃.II-ia,šēpīya,šēpu,foot,N,"['𒄊', '𒅀', '𒅀']",𒄊𒅀𒅀,GIR₃.II-ia,"['complete', 'complete', 'complete']",0.0,,Q003755,1,11
+25453,Q003755.1.12,nēšu[lion]N,UR.MAH,nēšu,nēšu,lion,N,"['𒌨', '𒈤']",𒌨𒈤,UR.MAH,"['complete', 'complete']",0.0,,Q003755,1,12
+25454,Q003755.1.13,ezzu[furious]AJ,ez-zu,ezzu,ezzu,furious,AJ,"['𒄑', '𒍪']",𒄑𒍪,ez-zu,"['complete', 'complete']",0.0,,Q003755,1,13
+25455,Q003755.2.1,ša[of]DET,⸢ša₂⸣,ša,ša,of,DET,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,,Q003755,2,1
+25456,Q003755.2.2,ṣērišu[open country]N,EDIN-šu₂,ṣērišu,ṣēru,open country,N,"['𒂔', '𒋙']",𒂔𒋙,EDIN-šu₂,"['complete', 'complete']",0.0,,Q003755,2,2
+25457,Q003755.2.3,ina[by]PRP,ina,ina,ina,by,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003755,2,3
+25458,Q003755.2.4,uznu[ear]N$uznīšu,GEŠTU.II-šu₂,uznīšu,uznu,ear,N,"['𒉿', '𒅀', '𒋙']",𒉿𒅀𒋙,GEŠTU.II-šu₂,"['complete', 'complete', 'complete']",0.0,,Q003755,2,4
+25459,Q003755.2.5,aṣbatma[seize]V,aṣ-bat-ma,aṣbatma,ṣabātu,seize,V,"['𒊍', '𒁁', '𒈠']",𒊍𒁁𒈠,aṣ-bat-ma,"['complete', 'complete', 'complete']",0.0,,Q003755,2,5
+25460,Q003755.2.6,ina[through]PRP,ina,ina,ina,through,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003755,2,6
+25461,Q003755.2.7,tukulti[help]N,tukul-ti,tukulti,tukultu,help,N,"['𒆪', '𒋾']",𒆪𒋾,tukul-ti,"['complete', 'complete']",0.0,,Q003755,2,7
+25462,Q003755.2.8,Aššur[1]DN,AN.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.ŠAR₂,"['complete', 'complete']",0.0,DN,Q003755,2,8
+25463,Q003755.2.9,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q003755,2,9
+25464,Q003755.2.10,Ištar[1]DN,{d}iš-tar,Ištar,Ištar,1,DN,"['𒀭', '𒅖', '𒋻']",𒀭𒅖𒋻,{d}iš-tar,"['complete', 'complete', 'complete']",0.0,DN,Q003755,2,10
+25465,Q003755.2.11,bēlet[lady]N,be-let,bēlet,bēltu,lady,N,"['𒁁', '𒀖']",𒁁𒀖,be-let,"['complete', 'complete']",0.0,,Q003755,2,11
+25466,Q003755.2.12,tāhāzi[battle]N,ta-ha-zi,tāhāzi,tāhāzu,battle,N,"['𒋫', '𒄩', '𒍣']",𒋫𒄩𒍣,ta-ha-zi,"['complete', 'complete', 'complete']",0.0,,Q003755,2,12
+25467,Q003755.3.1,ina[through]PRP,ina,ina,ina,through,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003755,3,1
+25468,Q003755.3.2,azmarû[lance]N$azmarê,{giš}az-mar-e,azmarê,azmarû,lance,N,"['𒄑', '𒊍', '𒈥', '𒂊']",𒄑𒊍𒈥𒂊,{GIŠ}az-mar-e,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003755,3,2
+25469,Q003755.3.3,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,Q003755,3,3
+25470,Q003755.3.4,qātīya[hand]N,ŠU.II-ia,qātīya,qātu,hand,N,"['𒋗', '𒅀', '𒅀']",𒋗𒅀𒅀,ŠU.II-ia,"['complete', 'complete', 'complete']",0.0,,Q003755,3,4
+25471,Q003755.3.5,sahālu[prick//pierce]V'V$ashul,as-hul,ashul,sahālu,pierce,V,"['𒊍', '𒅆𒌨']",𒊍𒅆𒌨,as-hul,"['complete', 'complete']",0.0,,Q003755,3,5
+25472,Q003755.3.6,zumuršu[body]N,zu-mur-šu₂,zumuršu,zumru,body,N,"['𒍪', '𒄯', '𒋙']",𒍪𒄯𒋙,zu-mur-šu₂,"['complete', 'complete', 'complete']",0.0,,Q003755,3,6

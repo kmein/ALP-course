@@ -1,0 +1,39 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+22940,Q003833.3.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,3,1
+22941,Q003833.3.2,bēliya[lord]N,⸢EN-ia⸣,bēliya,bēlu,lord,N,"['𒂗', '𒅀']",𒂗𒅀,⸢EN-ia⸣,"['damaged', 'damaged']",0.5,,Q003833,3,2
+22942,Q003833.3.3,Aššur[1]DN,AN.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.ŠAR₂,"['complete', 'complete']",0.0,DN,Q003833,3,3
+22943,Q003833.3.4,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003833,3,4
+22944,Q003833.3.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,3,5
+22945,Q003833.4.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q003833,4,1
+22946,Q003833.4.2,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q003833,4,2
+22947,Q003833.4.3,bēlūt[lordship]N,be]-⸢lu⸣-ut,bēlūt,bēlūtu,lordship,N,"['𒁁', '𒇻', '𒌓']",𒁁𒇻𒌓,[be]-⸢lu⸣-ut,"['missing', 'damaged', 'complete']",0.5,,Q003833,4,3
+22948,Q003833.4.4,mātāti[land]N,KUR.KUR,mātāti,mātu,land,N,"['𒆳', '𒆳']",𒆳𒆳,KUR.KUR,"['complete', 'complete']",0.0,,Q003833,4,4
+22949,Q003833.4.5,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q003833,4,5
+22950,Q003833.4.6,nišī[people]N,UN.MEŠ,nišī,nišu,people,N,"['𒌦', '𒎌']",𒌦𒎌,UN.MEŠ,"['complete', 'complete']",0.0,,Q003833,4,6
+22951,Q003833.4.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,4,7
+22952,Q003833.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,5,1
+22953,Q003833.5.2,itbâ[rise up]V,⸢it⸣-ba-a,itbâ,tebû,rise up,V,"['𒀉', '𒁀', '𒀀']",𒀉𒁀𒀀,⸢it⸣-ba-a,"['damaged', 'complete', 'complete']",0.17,,Q003833,5,2
+22954,Q003833.5.3,"Tarqu[Taharqa, pharaoh of Egypt]RN",{m}tar-qu-u,Tarqu,Tarqu,"Taharqa, pharaoh of Egypt",RN,"['𒁹', '𒋻', '𒄣', '𒌋']",𒁹𒋻𒄣𒌋,{m}tar-qu-u,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003833,5,3
+22955,Q003833.5.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,5,4
+22956,Q003833.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,6,1
+22957,Q003833.6.2,pīhāti[governor]N,{⸢lu₂⸣}NAM.⸢MEŠ⸣,pīhāti,pīhātu,governor,N,"['𒇽', '𒉆', '𒎌']",𒇽𒉆𒎌,{⸢LU₂⸣}NAM.⸢MEŠ⸣,"['damaged', 'complete', 'damaged']",0.33,,Q003833,6,2
+22958,Q003833.6.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,6,3
+22959,Q003833.10.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,10,1
+22960,Q003833.10.2,x,KUR,,,,,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003833,10,2
+22961,Q003833.10.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003833,10,3
+22962,Q003833.10.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,10,4
+22963,Q003833.11.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,11,1
+22964,Q003833.11.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003833,11,2
+22965,Q003833.11.3,X,IB,,,,X,['𒅁'],𒅁,IB,['complete'],0.0,,Q003833,11,3
+22966,Q003833.11.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003833,11,4
+22967,Q003833.11.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,11,5
+22968,Q003833.12.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,12,1
+22969,Q003833.12.2,X,NA,,,,X,['𒈾'],𒈾,NA,['complete'],0.0,,Q003833,12,2
+22970,Q003833.12.3,itti[with]PRP,it-ti,itti,itti,with,PRP,"['𒀉', '𒋾']",𒀉𒋾,it-ti,"['complete', 'complete']",0.0,,Q003833,12,3
+22971,Q003833.12.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,12,4
+22972,Q003833.14.1,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q003833,14,1
+22973,Q003833.14.2,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003833,14,2
+22974,Q003833.14.3,muhhi[skull]N,UGU,muhhi,muhhu,skull,N,['𒌋𒅗'],𒌋𒅗,UGU,['complete'],0.0,,Q003833,14,3
+22975,Q003833.14.4,atman[cella]N,at-man,atman,watmanu,cella,N,"['𒀜', '𒎙']",𒀜𒎙,at-man,"['complete', 'complete']",0.0,,Q003833,14,4
+22976,Q003833.14.5,bīt[temple]N,E₂,bīt,bītu,temple,N,['𒂍'],𒂍,E₂,['complete'],0.0,,Q003833,14,5
+22977,Q003833.14.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003833,14,6

@@ -1,0 +1,36 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+69338,Q003846.3.1,gabarê[copy]N,GABA.RI,gabarê,gabarû,copy,N,"['𒃮', '𒊑']",𒃮𒊑,GABA.RI,"['complete', 'complete']",0.0,,Q003846,3,1
+69339,Q003846.3.2,agurri[baked brick]N,⸢SIG₄⸣.AL.UR₃.RA,agurri,agurru,baked brick,N,"['𒋞', '𒀠', '𒃡', '𒊏']",𒋞𒀠𒃡𒊏,⸢SIG₄⸣.AL.UR₃.RA,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q003846,3,2
+69340,Q003846.4.1,nappaltu[(building) rubble//debris]N'N$nappalti,nap-pal-ti,nappalti,nappaltu,debris,N,"['𒀮', '𒁄', '𒋾']",𒀮𒁄𒋾,nap-pal-ti,"['complete', 'complete', 'complete']",0.0,,Q003846,4,1
+69341,Q003846.4.2,Uri[Ur]SN,URI₂{ki},Uri,Uri,Ur,SN,"['𒋀𒀕', '𒆠']",𒋀𒀕𒆠,URI₂{KI},"['complete', 'complete']",0.0,,Q003846,4,2
+69342,Q003846.5.1,epšēt[deed]N,ep-šet,epšēt,epištu,deed,N,"['𒅁', '𒋃']",𒅁𒋃,ep-šet,"['complete', 'complete']",0.0,,Q003846,5,1
+69343,Q003846.5.2,Amar-Suen[king of Ur]RN$,amar-{d}EN.ZU,Amar-Suen,Amar-Suen,king of Ur,RN,"['𒀫', '𒀭', '𒂗', '𒍪']",𒀫𒀭𒂗𒍪,amar-{d}EN.ZU,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003846,5,2
+69344,Q003846.5.3,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,,Q003846,5,3
+69345,Q003846.5.4,Uru[Ur]SN$Uri,u₂-ri,Uri,Uru,Ur,SN,"['𒌑', '𒊑']",𒌑𒊑,u₂-ri,"['complete', 'complete']",0.0,,Q003846,5,4
+69346,Q003846.6.1,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003846,6,1
+69347,Q003846.6.2,šeʾû[seek (out)//seeking constantly for]V'N$šiteʾʾû,ši-te-ʾe-u₂,šiteʾʾû,šeʾû,seeking constantly for,V,"['𒅆', '𒋼', '𒀪', '𒌑']",𒅆𒋼𒀪𒌑,ši-te-ʾe-u₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003846,6,2
+69348,Q003846.6.3,uṣurtu[drawing//ground-plan]N'N$uṣurāti,u₂-ṣu-ra-a-ti,uṣurāti,uṣurtu,ground-plan,N,"['𒌑', '𒍮', '𒊏', '𒀀', '𒋾']",𒌑𒍮𒊏𒀀𒋾,u₂-ṣu-ra-a-ti,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003846,6,3
+69349,Q003846.7.1,Ekišnugal[1]TN,e₂-giš-nu₁₁-gal,Egišnugal,Ekišnugal,1,TN,"['𒂍', '𒄑', '𒉢', '𒃲']",𒂍𒄑𒉢𒃲,e₂-giš-nu₁₁-gal,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003846,7,1
+69350,Q003846.7.2,Sin-balassu-iqbi[governor of Ur]PN$,{m}{d}EN.ZU-TIN-su-⸢iq-bi⸣,Sin-balassu-iqbi,Sin-balassu-iqbi,governor of Ur,PN,"['𒁹', '𒀭', '𒂗', '𒍪', '𒁷', '𒋢', '𒅅', '𒁉']",𒁹𒀭𒂗𒍪𒁷𒋢𒅅𒁉,{m}{d}EN.ZU-TIN-su-⸢iq-bi⸣,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'damaged', 'damaged']",0.12,PN,Q003846,7,2
+69351,Q003846.8.1,šakkanak[(military) governor]N,GIR₃.NITA₂,šakkanak,šakkanakku,(military) governor,N,"['𒄊', '𒀴']",𒄊𒀴,GIR₃.NITA₂,"['complete', 'complete']",0.0,,Q003846,8,1
+69352,Q003846.8.2,Uri[Ur]SN$Uri,⸢URI₅⸣{ki},Uri,Uri,Ur,SN,"['𒋀𒀊', '𒆠']",𒋀𒀊𒆠,⸢URI₅⸣{KI},"['damaged', 'complete']",0.25,,Q003846,8,2
+69353,Q003846.8.3,šeʾû[seek (out)//seek constantly for]V'N$išteʾû,iš-te-⸢ʾu-u₂⸣,išteʾû,šeʾû,seek constantly for,V,"['𒅖', '𒋼', '𒀪', '𒌑']",𒅖𒋼𒀪𒌑,iš-te-⸢ʾu-u₂⸣,"['complete', 'complete', 'damaged', 'damaged']",0.25,,Q003846,8,3
+69354,Q003846.9.1,"Nabu-šuma-iddin[lamentation-priest of Sin, son of Iddin-Papsukkal]PN$",{m}{d}AG-MU-SUM.NA,Nabu-šuma-iddin,Nabu-šuma-iddin,"lamentation-priest of Sin, son of Iddin-Papsukkal",PN,"['𒁹', '𒀭', '𒀝', '𒈬', '𒋧', '𒈾']",𒁹𒀭𒀝𒈬𒋧𒈾,{m}{d}AG-MU-SUM.NA,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,Q003846,9,1
+69355,Q003846.9.2,mār[son]N,DUMU,mār,māru,son,N,['𒌉'],𒌉,DUMU,['complete'],0.0,,Q003846,9,2
+69356,Q003846.9.3,"Iddin-Papsukkal[lamentation-priest of Sin, father of Nabu-šuma-iddin]PN$",{m}MU-{d}pap-sukkal,Iddin-Papsukkal,Iddin-Papsukkal,"lamentation-priest of Sin, father of Nabu-šuma-iddin",PN,"['𒁹', '𒈬', '𒀭', '𒉽', '𒈛']",𒁹𒈬𒀭𒉽𒈛,{m}MU-{d}pap-sukkal,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,Q003846,9,3
+69357,Q003846.10.1,kalû[lamentation-priest]N$kali,{lu₂}GALA,kali,kalû,lamentation-priest,N,"['𒇽', '𒍑𒆪']",𒇽𒍑𒆪,{LU₂}GALA,"['complete', 'complete']",0.0,,Q003846,10,1
+69358,Q003846.10.2,Sin[1]DN,{d}EN.($erasure$).ZU,Sin,Sin,1,DN,"['𒀭', '𒂗', '𒍪']",𒀭𒂗𒍪,{d}EN.ZU,"['complete', 'complete', 'complete']",0.0,DN,Q003846,10,2
+69359,Q003846.11.1,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q003846,11,1
+69360,Q003846.11.2,tāmartu[spectacle//display]N'N$tāmarti,ta-mar-($erasure$)-ti,tāmarti,tāmartu,display,N,"['𒋫', '𒈥', '𒋾']",𒋫𒈥𒋾,ta-mar-ti,"['complete', 'complete', 'complete']",0.0,,Q003846,11,2
+69361,Q003846.12.1,amāru[see//read]V'V$īmurma,i-mur-ma,īmurma,amāru,read,V,"['𒄿', '𒄯', '𒈠']",𒄿𒄯𒈠,i-mur-ma,"['complete', 'complete', 'complete']",0.0,,Q003846,12,1
+69362,Q003846.12.2,išṭur[write]V,iš-ṭur,išṭur,šaṭāru,write,V,"['𒅖', '𒄙']",𒅖𒄙,iš-ṭur,"['complete', 'complete']",0.0,,Q003846,12,2
+69363,Q003846.14.1,u,[(x)],,,,u,['x'],x,[x],['missing'],1.0,,Q003846,14,1
+69364,Q003846.14.2,u,{d}BARA₂,,,,u,"['𒀭', '𒁈']",𒀭𒁈,{d}BARA₂,"['complete', 'complete']",0.0,,Q003846,14,2
+69365,Q003846.14.3,Enlil[1]DN,{d}EN.LIL₂,Enlil,Enlil,1,DN,"['𒀭', '𒂗', '𒆤']",𒀭𒂗𒆤,{d}EN.LIL₂,"['complete', 'complete', 'complete']",0.0,DN,Q003846,14,3
+69366,Q003846.14.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003846,14,4
+69367,Q003846.15.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003846,15,1
+69368,Q003846.15.2,u,⸢AN⸣,,,,u,['𒀭'],𒀭,⸢AN⸣,['damaged'],0.5,,Q003846,15,2
+69369,Q003846.15.3,u,ME,,,,u,['𒈨'],𒈨,ME,['complete'],0.0,,Q003846,15,3
+69370,Q003846.16.1,u,[...]-⸢u₂⸣,,,,u,"['x', '𒌑']",x𒌑,[x]⸢u₂⸣,"['missing', 'damaged']",0.75,,Q003846,16,1
+69371,Q003846.17.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003846,17,1
+69372,Q003846.17.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003846,17,2

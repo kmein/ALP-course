@@ -1,0 +1,31 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+41797,Q003757.1.1,anāku[I]IP,a-na-ku,anāku,anāku,I,IP,"['𒀀', '𒈾', '𒆪']",𒀀𒈾𒆪,a-na-ku,"['complete', 'complete', 'complete']",0.0,,Q003757,1,1
+41798,Q003757.1.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003757,1,2
+41799,Q003757.1.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003757,1,3
+41800,Q003757.1.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003757,1,4
+41801,Q003757.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003757,1,5
+41802,Q003757.1.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003757,1,6
+41803,Q003757.1.7,Aššur[Assyria]GN,AN.ŠAR₂{⸢ki⸣},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,AN.ŠAR₂{⸢KI⸣},"['complete', 'complete', 'damaged']",0.17,GN,Q003757,1,7
+41804,Q003757.1.8,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003757,1,8
+41805,Q003757.1.9,Aššur[1]DN,AN.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.ŠAR₂,"['complete', 'complete']",0.0,DN,Q003757,1,9
+41806,Q003757.1.10,Mullissu[1]DN,{d}NIN.LIL₂,Mullissu,Mullissu,1,DN,"['𒀭', '𒎏', '𒆤']",𒀭𒎏𒆤,{d}NIN.LIL₂,"['complete', 'complete', 'complete']",0.0,DN,Q003757,1,10
+41807,Q003757.1.11,emūqī[strength]N,e-mu-qi₂,emūqī,emūqu,strength,N,"['𒂊', '𒈬', '𒆠']",𒂊𒈬𒆠,e-mu-qi₂,"['complete', 'complete', 'complete']",0.0,,Q003757,1,11
+41808,Q003757.1.12,ṣīrāti[exalted]AJ,ṣi-ra-a-ti,ṣīrāti,ṣīru,exalted,AJ,"['𒍢', '𒊏', '𒀀', '𒋾']",𒍢𒊏𒀀𒋾,ṣi-ra-a-ti,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003757,1,12
+41809,Q003757.2.1,šutlumu[grant generously]V$ušatlimuš,u₂-šat-li-mu-uš,ušatlimuš,šutlumu,grant generously,V,"['𒌑', '𒆳', '𒇷', '𒈬', '𒍑']",𒌑𒆳𒇷𒈬𒍑,u₂-šat-li-mu-uš,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003757,2,1
+41810,Q003757.2.2,nēšu[lion]N$nēšī,UR.MAH.MEŠ,nēšī,nēšu,lion,N,"['𒌨', '𒈤', '𒎌']",𒌨𒈤𒎌,UR.MAH.MEŠ,"['complete', 'complete', 'complete']",0.0,,Q003757,2,2
+41811,Q003757.2.3,ša[that]REL,ša₂,ša,ša,that,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003757,2,3
+41812,Q003757.2.4,dâku[kill]V$addūku,ad-du-ku,addūku,dâku,kill,V,"['𒀜', '𒁺', '𒆪']",𒀜𒁺𒆪,ad-du-ku,"['complete', 'complete', 'complete']",0.0,,Q003757,2,4
+41813,Q003757.2.5,tilpānu[bow]N$,{giš}til-pa-a-nu,tilpānu,tilpānu,bow,N,"['𒄑', '𒌀', '𒉺', '𒀀', '𒉡']",𒄑𒌀𒉺𒀀𒉡,{GIŠ}til-pa-a-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003757,2,5
+41814,Q003757.2.6,ezzetu[furious]AJ,ez-ze-tu₂,ezzetu,ezzu,furious,AJ,"['𒄑', '𒍣', '𒌓']",𒄑𒍣𒌓,ez-ze-tu₂,"['complete', 'complete', 'complete']",0.0,,Q003757,2,6
+41815,Q003757.2.7,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003757,2,7
+41816,Q003757.2.8,Ištar[1]DN,{d}15,Ištar,Ištar,1,DN,"['𒀭', '𒌋𒐊']",𒀭𒌋𒐊,{d}15,"['complete', 'complete']",0.0,DN,Q003757,2,8
+41817,Q003757.2.9,bēlet[lady]N,be-let,bēlet,bēltu,lady,N,"['𒁁', '𒀖']",𒁁𒀖,be-let,"['complete', 'complete']",0.0,,Q003757,2,9
+41818,Q003757.2.10,tāhāzi[battle]N,ME₃,tāhāzi,tāhāzu,battle,N,['𒀞'],𒀞,ME₃,['complete'],0.0,,Q003757,2,10
+41819,Q003757.3.1,elišun[over]PRP,UGU-šu₂-un,elišun,eli,over,PRP,"['𒌋𒅗', '𒋙', '𒌦']",𒌋𒅗𒋙𒌦,UGU-šu₂-un,"['complete', 'complete', 'complete']",0.0,,Q003757,3,1
+41820,Q003757.3.2,azqup[plant]V,az-qu-up,azqup,zaqāpu,plant,V,"['𒊍', '𒄣', '𒌒']",𒊍𒄣𒌒,az-qu-up,"['complete', 'complete', 'complete']",0.0,,Q003757,3,2
+41821,Q003757.3.3,muhhuru[offering]N$,muh-hu-ru,muhhuru,muhhuru,offering,N,"['𒌋𒅗', '𒄷', '𒊒']",𒌋𒅗𒄷𒊒,muh-hu-ru,"['complete', 'complete', 'complete']",0.0,,Q003757,3,3
+41822,Q003757.3.4,eli[on//over]PRP'PRP$elišunu,e-li-šu₂-nu,elišunu,eli,over,PRP,"['𒂊', '𒇷', '𒋙', '𒉡']",𒂊𒇷𒋙𒉡,e-li-šu₂-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003757,3,4
+41823,Q003757.3.5,mahāru[face//present]V'V$umahhir,u₂-ma-hir,umahhir,mahāru,present,V,"['𒌑', '𒈠', '𒆟']",𒌑𒈠𒆟,u₂-ma-hir,"['complete', 'complete', 'complete']",0.0,,Q003757,3,5
+41824,Q003757.3.6,karānu[wine]N,GEŠTIN,karānu,karānu,wine,N,['𒃾'],𒃾,GEŠTIN,['complete'],0.0,,Q003757,3,6
+41825,Q003757.3.7,naqû[pour (a libation)]V$aqqâ,aq-qa-a,aqqâ,naqû,pour (a libation),V,"['𒀝', '𒋡', '𒀀']",𒀝𒋡𒀀,aq-qa-a,"['complete', 'complete', 'complete']",0.0,,Q003757,3,7
+41826,Q003757.3.8,eli[on//over]PRP'PRP$elišun,e-li-šu₂-un,elišun,eli,over,PRP,"['𒂊', '𒇷', '𒋙', '𒌦']",𒂊𒇷𒋙𒌦,e-li-šu₂-un,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003757,3,8

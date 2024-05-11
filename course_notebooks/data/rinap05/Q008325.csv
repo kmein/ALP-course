@@ -1,0 +1,18 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+54376,Q008325.2.1,x,[...,,,,,['x'],x,[x],['missing'],1.0,,Q008325,2,1
+54377,Q008325.2.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m]}⸢AN⸣.ŠAR₂-DU₃-IBILA,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒌉𒍑']",𒁹𒀭𒊹𒆕𒌉𒍑,{[m]}⸢AN⸣.ŠAR₂-DU₃-IBILA,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,RN,Q008325,2,2
+54378,Q008325.2.3,šarru[king]N,⸢LUGAL⸣,šarru,šarru,king,N,['𒈗'],𒈗,⸢LUGAL⸣,['damaged'],0.5,,Q008325,2,3
+54379,Q008325.2.4,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q008325,2,4
+54380,Q008325.3.1,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q008325,3,1
+54381,Q008325.3.2,šar[king]N,⸢LUGAL⸣,šar,šarru,king,N,['𒈗'],𒈗,⸢LUGAL⸣,['damaged'],0.5,,Q008325,3,2
+54382,Q008325.3.3,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q008325,3,3
+54383,Q008325.3.4,Šumeri[Sumer]GN,šu-me-ri,Šumeri,Šumeru,Sumer,GN,"['𒋗', '𒈨', '𒊑']",𒋗𒈨𒊑,šu-me-ri,"['complete', 'complete', 'complete']",0.0,GN,Q008325,3,4
+54384,Q008325.3.5,u[and]CNJ,[u,u,u,and,CNJ,['𒌋'],𒌋,[u],['missing'],1.0,,Q008325,3,5
+54385,Q008325.3.6,Akkadi[1]GN,URI{ki},Akkadi,Akkad,1,GN,"['𒌵', '𒆠']",𒌵𒆠,[URI]{[KI]},"['missing', 'missing']",1.0,GN,Q008325,3,6
+54386,Q008325.3.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q008325,3,7
+54387,Q008325.4.1,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q008325,4,1
+54388,Q008325.4.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q008325,4,2
+54389,Q008325.4.3,x,KI,,,,,['𒆠'],𒆠,KI,['complete'],0.0,,Q008325,4,3
+54390,Q008325.4.4,x,x,,,,,['x'],x,x,['complete'],0.0,,Q008325,4,4
+54391,Q008325.4.5,x,(x),,,,,['x'],x,x,['complete'],0.0,,Q008325,4,5
+54392,Q008325.4.6,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q008325,4,6

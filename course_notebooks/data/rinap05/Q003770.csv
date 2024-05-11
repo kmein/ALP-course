@@ -1,0 +1,4 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+1500,Q003770.1.1,šākin[one who places]N,[ša₂]-⸢kin⸣,šākin,šākinu,one who places,N,"['𒃻', '𒆥']",𒃻𒆥,[ša₂]-⸢kin⸣,"['missing', 'damaged']",0.75,,Q003770,1,1
+1501,Q003770.1.2,dabdê[defeat]N,BAD₅.BAD₅,dabdê,dabdû,defeat,N,"['𒅆', '𒅆']",𒅆𒅆,BAD₅.BAD₅,"['complete', 'complete']",0.0,,Q003770,1,2
+1502,Q003770.2.1,Elamti[Elam]GN,{[kur]}⸢ELAM⸣.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}⸢ELAM⸣.MA{KI},"['missing', 'damaged', 'complete', 'complete']",0.38,GN,Q003770,2,1

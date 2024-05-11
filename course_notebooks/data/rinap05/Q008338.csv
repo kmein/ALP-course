@@ -1,0 +1,16 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+9325,Q008338.1.1,ana[to]PRP,ana,ana,ana,to,PRP,['𒁹'],𒁹,ana,['complete'],0.0,,Q008338,1,1
+9326,Q008338.1.2,Marduk[1]DN,{⸢d⸣}AMAR.UTU,Marduk,Marduk,1,DN,"['𒀭', '𒀫', '𒌓']",𒀭𒀫𒌓,{⸢d⸣}AMAR.UTU,"['damaged', 'complete', 'complete']",0.17,DN,Q008338,1,2
+9327,Q008338.1.3,bēlišu[lord]N,UMUN-šu₂,bēlišu,bēlu,lord,N,"['𒌋', '𒋙']",𒌋𒋙,UMUN-šu₂,"['complete', 'complete']",0.0,,Q008338,1,3
+9328,Q008338.1.4,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008338,1,4
+9329,Q008338.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008338,1,5
+9330,Q008338.1.6,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q008338,1,6
+9331,Q008338.2.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008338,2,1
+9332,Q008338.2.2,māt[land]N,⸢KUR⸣,māt,mātu,land,N,['𒆳'],𒆳,⸢KUR⸣,['damaged'],0.5,,Q008338,2,2
+9333,Q008338.2.3,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,Q008338,2,3
+9334,Q008338.2.4,agurrī[baked brick]N,a-gur-ri,agurrī,agurru,baked brick,N,"['𒀀', '𒄥', '𒊑']",𒀀𒄥𒊑,a-gur-ri,"['complete', 'complete', 'complete']",0.0,,Q008338,2,4
+9335,Q008338.2.5,Etemenanki[1]TN,e₂-temen-an-ki,Etemenanki,Etemenanki,1,TN,"['𒂍', '𒋼', '𒀭', '𒆠']",𒂍𒋼𒀭𒆠,e₂-temen-an-ki,"['complete', 'complete', 'complete', 'complete']",0.0,,Q008338,2,5
+9336,Q008338.3.1,ana[for]PRP,a-⸢na⸣,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-⸢na⸣,"['complete', 'damaged']",0.25,,Q008338,3,1
+9337,Q008338.3.2,balāṭišu[life]N,TIN-⸢šu₂,balāṭišu,balāṭu,life,N,"['𒁷', '𒋙']",𒁷𒋙,TIN-⸢šu₂⸣,"['complete', 'damaged']",0.25,,Q008338,3,2
+9338,Q008338.3.3,eššiš[anew]AV,eš⸣-šiš,eššiš,eššiš,anew,AV,"['𒌍', '𒋀']",𒌍𒋀,⸢eš⸣-šiš,"['damaged', 'complete']",0.25,,Q008338,3,3
+9339,Q008338.3.4,ušalbin[have bricks made]V,⸢u₂⸣-šal-bi-in,ušalbin,labānu,have bricks made,V,"['𒌑', '𒊩', '𒁉', '𒅔']",𒌑𒊩𒁉𒅔,⸢u₂⸣-šal-bi-in,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q008338,3,4

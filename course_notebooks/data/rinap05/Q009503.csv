@@ -1,0 +1,9 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+35604,Q009503.1.1,ša[who]REL,[ša₂,ša,ša,who,REL,['𒃻'],𒃻,[ša₂],['missing'],1.0,,Q009503,1,1
+35605,Q009503.1.2,Ana-Tašmetum-taklak[queen of Assyria]RN$,{f}ana-{d}taš]-me-tum-⸢tak⸣-lak,Ana-Tašmetum-taklak,Ana-Tašmetum-taklak,queen of Assyria,RN,"['𒊩', '𒁹', '𒀭', '𒌨', '𒈨', '𒌈', '𒋳', '𒋃']",𒊩𒁹𒀭𒌨𒈨𒌈𒋳𒋃,{[f]}[ana]-{[d]}[taš]-me-tum-⸢tak⸣-lak,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete', 'damaged', 'complete']",0.56,RN,Q009503,1,2
+35606,Q009503.1.3,ša[of]DET&ēkalli[palace]N,MUNUS.⸢E₂⸣.GAL,ša,ša,of,DET,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MUNUS.⸢E₂⸣.GAL,"['complete', 'damaged', 'complete']",0.17,,Q009503,1,3
+35607,Q009503.1.3,ša[of]DET&ēkalli[palace]N,MUNUS.⸢E₂⸣.GAL,ēkalli,ēkallu,palace,N,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MUNUS.⸢E₂⸣.GAL,"['complete', 'damaged', 'complete']",0.17,,Q009503,1,3
+35608,Q009503.1.4,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q009503,1,4
+35609,Q009503.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,Q009503,1,5
+35610,Q009503.1.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q009503,1,6
+35611,Q009503.1.7,Aššur[Assyria]GN,AŠ],Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,[AŠ],['missing'],1.0,GN,Q009503,1,7

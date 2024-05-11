@@ -1,0 +1,44 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+72245,Q007546.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,2,1
+72246,Q007546.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,2,2
+72247,Q007546.2.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,2,3
+72248,Q007546.2.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,2,4
+72249,Q007546.2.5,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q007546,2,5
+72250,Q007546.2.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,2,6
+72251,Q007546.3.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007546,3,1
+72252,Q007546.3.2,umašširma[abandon]V,u₂]-maš-šir-ma,umašširma,wašāru,abandon,V,"['𒌑', '𒈦', '𒋓', '𒈠']",𒌑𒈦𒋓𒈠,[u₂]-maš-šir-ma,"['missing', 'complete', 'complete', 'complete']",0.25,,Q007546,3,2
+72253,Q007546.3.3,innabit[run away]V,in-na-[bit,innabit,abātu,run away,V,"['𒅔', '𒈾', '𒂍']",𒅔𒈾𒂍,in-na-[bit],"['complete', 'complete', 'missing']",0.33,,Q007546,3,3
+72254,Q007546.3.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,3,4
+72255,Q007546.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,4,1
+72256,Q007546.4.2,nāri[river]N,⸢ID₂⸣,nāri,nāru,river,N,['𒀀𒇉'],𒀀𒇉,⸢ID₂⸣,['damaged'],0.5,,Q007546,4,2
+72257,Q007546.4.3,šuātu[that]IP,šu-a-tu,šuātu,šuāti,that,IP,"['𒋗', '𒀀', '𒌅']",𒋗𒀀𒌅,šu-a-tu,"['complete', 'complete', 'complete']",0.0,,Q007546,4,3
+72258,Q007546.4.4,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007546,4,4
+72259,Q007546.4.5,dannūtišu[fortress]N,dan-[nu-ti-šu₂,dannūtišu,dannūtu,fortress,N,"['𒆗', '𒉡', '𒋾', '𒋙']",𒆗𒉡𒋾𒋙,dan-[nu-ti-šu₂],"['complete', 'missing', 'missing', 'missing']",0.75,,Q007546,4,5
+72260,Q007546.4.6,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,4,6
+72261,Q007546.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,5,1
+72262,Q007546.5.2,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007546,5,2
+72263,Q007546.5.3,ṣāltiya[combat]N,⸢ṣa⸣-[al-ti-ia,ṣāltiya,ṣāltu,combat,N,"['𒍝', '𒀠', '𒋾', '𒅀']",𒍝𒀠𒋾𒅀,⸢ṣa⸣-[al-ti-ia],"['damaged', 'missing', 'missing', 'missing']",0.88,,Q007546,5,3
+72264,Q007546.5.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,5,4
+72265,Q007546.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,6,1
+72266,Q007546.6.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,6,2
+72267,Q007546.6.3,šadê[mountain]N,ša₂-de-e,šadê,šadû,mountain,N,"['𒃻', '𒁲', '𒂊']",𒃻𒁲𒂊,ša₂-de-e,"['complete', 'complete', 'complete']",0.0,,Q007546,6,3
+72268,Q007546.6.4,šapkat[heaped up]AJ,šap-kat₃,šapkat,šapku,heaped up,AJ,"['𒉺𒅁', '𒆑']",𒉺𒅁𒆑,šap-kat₃,"['complete', 'complete']",0.0,,Q007546,6,4
+72269,Q007546.6.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,6,5
+72270,Q007546.6.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,6,6
+72271,Q007546.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,7,1
+72272,Q007546.7.2,X,⸢BI⸣,,,,X,['𒁉'],𒁉,⸢BI⸣,['damaged'],0.5,,Q007546,7,2
+72273,Q007546.7.3,mātāti[land]N,KUR.KUR,mātāti,mātu,land,N,"['𒆳', '𒆳']",𒆳𒆳,KUR.KUR,"['complete', 'complete']",0.0,,Q007546,7,3
+72274,Q007546.7.4,lā[not]MOD,la,lā,lā,not,MOD,['𒆷'],𒆷,la,['complete'],0.0,,Q007546,7,4
+72275,Q007546.7.5,pālih[one who reveres]N,pa-lih,pālih,pālihu,one who reveres,N,"['𒉺', '𒌓']",𒉺𒌓,pa-lih,"['complete', 'complete']",0.0,,Q007546,7,5
+72276,Q007546.7.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,7,6
+72277,Q007546.7.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,7,7
+72278,Q007546.9.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,9,1
+72279,Q007546.9.2,"Ummanaldasi[son of Atta-metu and king of Elam, Humban-haltaš III]RN",{⸢m⸣}um-man-al-da-⸢si⸣,Ummanaldasi,Ummanaldašu,"son of Atta-metu and king of Elam, Humban-haltaš III",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒋛']",𒁹𒌝𒎙𒀠𒁕𒋛,{⸢m⸣}um-man-al-da-⸢si⸣,"['damaged', 'complete', 'complete', 'complete', 'complete', 'damaged']",0.17,RN,Q007546,9,2
+72280,Q007546.9.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,9,3
+72281,Q007546.9.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,9,4
+72282,Q007546.10.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,10,1
+72283,Q007546.10.2,šalmiš[in safety]AV,šal-mi₃-⸢iš⸣,šalmiš,šalmiš,in safety,AV,"['𒊩', '𒈨', '𒅖']",𒊩𒈨𒅖,šal-mi₃-⸢iš⸣,"['complete', 'complete', 'damaged']",0.17,,Q007546,10,2
+72284,Q007546.10.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,10,3
+72285,Q007546.11.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,11,1
+72286,Q007546.11.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007546,11,2
+72287,Q007546.11.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007546,11,3

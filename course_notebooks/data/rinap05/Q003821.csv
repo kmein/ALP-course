@@ -1,0 +1,56 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+24499,Q003821.2.1,ša[that]REL,[ša,ša,ša,that,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,Q003821,2,1
+24500,Q003821.2.2,Limmer-iššak-Aššur[1]SN,{uru}li]-⸢mer-ENSI₂⸣-[aš-šur,Limmer-iššak-Aššur,Limmer-iššak-Aššur,1,SN,"['𒌷', '𒇷', '𒂇', '𒉺𒋼𒋛', '𒀸', '𒋩']",𒌷𒇷𒂇𒉺𒋼𒋛𒀸𒋩,{[URU]}[li]-⸢mer-ENSI₂⸣-[aš-šur],"['missing', 'missing', 'damaged', 'damaged', 'missing', 'missing']",0.83,,Q003821,2,2
+24501,Q003821.2.3,šumšu[name]N,MU-šu₂,šumšu,šumu,name,N,"['𒈬', '𒋙']",𒈬𒋙,[MU-šu₂],"['missing', 'missing']",1.0,,Q003821,2,3
+24502,Q003821.2.4,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q003821,2,4
+24503,Q003821.2.5,šarrūtu[kingship]N$šarrūte,LUGAL-u₂-te,šarrūte,šarrūtu,kingship,N,"['𒈗', '𒌑', '𒋼']",𒈗𒌑𒋼,[LUGAL-u₂-te],"['missing', 'missing', 'missing']",1.0,,Q003821,2,5
+24504,Q003821.2.6,aškun[establish]V,aš₂-kun],aškun,šakānu,establish,V,"['𒀾', '𒆲']",𒀾𒆲,[aš₂-kun],"['missing', 'missing']",1.0,,Q003821,2,6
+24505,Q003821.3.1,"Tarqu[Taharqa, pharaoh of Egypt]RN",{[m}tar]-⸢qu⸣-u₂,Tarqu,Tarqu,"Taharqa, pharaoh of Egypt",RN,"['𒁹', '𒋻', '𒄣', '𒌑']",𒁹𒋻𒄣𒌑,{[m]}[tar]-⸢qu⸣-u₂,"['missing', 'missing', 'damaged', 'complete']",0.62,RN,Q003821,3,1
+24506,Q003821.3.2,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003821,3,2
+24507,Q003821.3.3,Kusi[Kush]GN,{kur}ku-⸢u⸣-[si,Kusi,Kusu,Kush,GN,"['𒆳', '𒆪', '𒌋', '𒋛']",𒆳𒆪𒌋𒋛,{KUR}ku-⸢u⸣-[si],"['complete', 'complete', 'damaged', 'missing']",0.38,GN,Q003821,3,3
+24508,Q003821.3.4,hattu[terror]N,hat-tu,hattu,hātu,terror,N,"['𒉺', '𒌅']",𒉺𒌅,[hat-tu],"['missing', 'missing']",1.0,,Q003821,3,4
+24509,Q003821.3.5,puluhti[fear]N,pu-luh-ti,puluhti,puluhtu,fear,N,"['𒁍', '𒈛', '𒋾']",𒁍𒈛𒋾,[pu-luh-ti],"['missing', 'missing', 'missing']",1.0,,Q003821,3,5
+24510,Q003821.3.6,bēlūtiya[lordship]N,EN-ti-ia],bēlūtiya,bēlūtu,lordship,N,"['𒂗', '𒋾', '𒅀']",𒂗𒋾𒅀,[EN-ti-ia],"['missing', 'missing', 'missing']",1.0,,Q003821,3,6
+24511,Q003821.4.1,ishupšuma[overwhelm]V,⸢is⸣-hu-up-šu-⸢ma⸣,ishupšuma,sahāpu,overwhelm,V,"['𒄑', '𒄷', '𒌒', '𒋗', '𒈠']",𒄑𒄷𒌒𒋗𒈠,⸢is⸣-hu-up-šu-⸢ma⸣,"['damaged', 'complete', 'complete', 'complete', 'damaged']",0.2,,Q003821,4,1
+24512,Q003821.4.2,illik[go]V,[il-lik,illik,alāku,go,V,"['𒅋', '𒌨']",𒅋𒌨,[il-lik],"['missing', 'missing']",1.0,,Q003821,4,2
+24513,Q003821.4.3,nammušīšu[death]N,nam-mu-ši-šu₂],nammušīšu,nammušīšu,death,N,"['𒉆', '𒈬', '𒅆', '𒋙']",𒉆𒈬𒅆𒋙,[nam-mu-ši-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003821,4,3
+24514,Q003821.5.1,"URdammaneʾ[Tanutamon, pharaoh of Egypt]RN",{[m}UR-da-ma]-⸢ne₂⸣-e,URdammaneʾ,URdammaniʾ,"Tanutamon, pharaoh of Egypt",RN,"['𒁹', '𒌨', '𒁕', '𒈠', '𒉌', '𒂊']",𒁹𒌨𒁕𒈠𒉌𒂊,{[m]}[UR-da-ma]-⸢ne₂⸣-e,"['missing', 'missing', 'missing', 'missing', 'damaged', 'complete']",0.75,RN,Q003821,5,1
+24515,Q003821.5.2,mār[son]N,⸢DUMU⸣,mār,māru,son,N,['𒌉'],𒌉,⸢DUMU⸣,['damaged'],0.5,,Q003821,5,2
+24516,Q003821.5.3,ahātišu[sister]N,NIN₉-⸢šu₂⸣,ahātišu,ahātu,sister,N,"['𒎐', '𒋙']",𒎐𒋙,NIN₉-⸢šu₂⸣,"['complete', 'damaged']",0.25,,Q003821,5,3
+24517,Q003821.5.4,ina[on]PRP,[ina,ina,ina,on,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003821,5,4
+24518,Q003821.5.5,kussîšu[throne]N,{giš}GU.ZA-šu₂,kussîšu,kussû,throne,N,"['𒄑', '𒄖', '𒍝', '𒋙']",𒄑𒄖𒍝𒋙,{[GIŠ]}[GU].[ZA-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003821,5,5
+24519,Q003821.5.6,ūšibma[reside]V,u₂-šib-ma,ūšibma,wašābu,reside,V,"['𒌑', '𒈨', '𒈠']",𒌑𒈨𒈠,[u₂-šib-ma],"['missing', 'missing', 'missing']",1.0,,Q003821,5,6
+24520,Q003821.5.7,umaʾʾer[govern]V,u₂-ma-ʾe-er,umaʾʾer,wâru,govern,V,"['𒌑', '𒈠', '𒀪', '𒅕']",𒌑𒈠𒀪𒅕,[u₂-ma-ʾe-er],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003821,5,7
+24521,Q003821.5.8,mātu[land]N$mātum,ma-a-tum],mātum,mātu,land,N,"['𒈠', '𒀀', '𒌈']",𒈠𒀀𒌈,[ma-a-tum],"['missing', 'missing', 'missing']",1.0,,Q003821,5,8
+24522,Q003821.6.1,Niʾ[Thebes]SN,{[uru}ni-iʾ,Niʾ,Niʾ,Thebes,SN,"['𒌷', '𒉌', '𒀪']",𒌷𒉌𒀪,{[URU]}[ni-iʾ],"['missing', 'missing', 'missing']",1.0,,Q003821,6,1
+24523,Q003821.6.2,ana[for]PRP,a]-⸢na⸣,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a]-⸢na⸣,"['missing', 'damaged']",0.75,,Q003821,6,2
+24524,Q003821.6.3,dannūtišu[fortress]N,dan-nu-⸢ti⸣-[šu₂,dannūtišu,dannūtu,fortress,N,"['𒆗', '𒉡', '𒋾', '𒋙']",𒆗𒉡𒋾𒋙,dan-nu-⸢ti⸣-[šu₂],"['complete', 'complete', 'damaged', 'missing']",0.38,,Q003821,6,3
+24525,Q003821.6.4,iškunma[establish]V,iš-kun-ma,iškunma,šakānu,establish,V,"['𒅖', '𒆲', '𒈠']",𒅖𒆲𒈠,[iš-kun-ma],"['missing', 'missing', 'missing']",1.0,,Q003821,6,4
+24526,Q003821.6.5,upahhir[gather]V,u₂-pa-hir,upahhir,pahāru,gather,V,"['𒌑', '𒉺', '𒆟']",𒌑𒉺𒆟,[u₂-pa-hir],"['missing', 'missing', 'missing']",1.0,,Q003821,6,5
+24527,Q003821.6.6,ellatsu[group (of soldiers)]N,el-lat-su],ellatsu,illatu,group (of soldiers),N,"['𒂖', '𒆳', '𒋢']",𒂖𒆳𒋢,[el-lat-su],"['missing', 'missing', 'missing']",1.0,,Q003821,6,6
+24528,Q003821.7.1,ana[to]PRP,[a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q003821,7,1
+24529,Q003821.7.2,epēš[performing]'N,e-peš],epēš,epēšu,performing,V,"['𒂊', '𒄫']",𒂊𒄫,[e-peš],"['missing', 'missing']",1.0,,Q003821,7,2
+24530,Q003821.7.3,qabli[battle]N,⸢MURUB₄⸣,qabli,qablu,battle,N,['𒉠'],𒉠,⸢MURUB₄⸣,['damaged'],0.5,,Q003821,7,3
+24531,Q003821.7.4,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q003821,7,4
+24532,Q003821.7.5,tāhāzi[battle]N,⸢ME₃⸣,tāhāzi,tāhāzu,battle,N,['𒀞'],𒀞,⸢ME₃⸣,['damaged'],0.5,,Q003821,7,5
+24533,Q003821.7.6,eli[against]PRP,[UGU,eli,eli,against,PRP,['𒌋𒅗'],𒌋𒅗,[UGU],['missing'],1.0,,Q003821,7,6
+24534,Q003821.7.7,ummānātiya[troops]N,ERIM.HI.A-ia,ummānātiya,ummānu,troops,N,"['𒂟', '𒄭', '𒀀', '𒅀']",𒂟𒄭𒀀𒅀,[ERIM].[HI].[A-ia],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003821,7,7
+24535,Q003821.7.8,kakkīšu[weapon]N,{giš}TUKUL.MEŠ-šu₂],kakkīšu,kakku,weapon,N,"['𒄑', '𒆪', '𒎌', '𒋙']",𒄑𒆪𒎌𒋙,{[GIŠ]}[TUKUL].[MEŠ-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003821,7,8
+24536,Q003821.8.1,ušatbâ[make rise up]V,[u₂]-⸢šat⸣-ba-a,ušatbâ,tebû,make rise up,V,"['𒌑', '𒆳', '𒁀', '𒀀']",𒌑𒆳𒁀𒀀,[u₂]-⸢šat⸣-ba-a,"['missing', 'damaged', 'complete', 'complete']",0.38,,Q003821,8,1
+24537,Q003821.8.2,iṣbata[take]V,[iṣ-ba-ta,iṣbata,ṣabātu,take,V,"['𒄑', '𒁀', '𒋫']",𒄑𒁀𒋫,[iṣ-ba-ta],"['missing', 'missing', 'missing']",1.0,,Q003821,8,2
+24538,Q003821.8.3,harrāna[way]N,har-ra-na],harrāna,harrānu,way,N,"['𒄯', '𒊏', '𒈾']",𒄯𒊏𒈾,[har-ra-na],"['missing', 'missing', 'missing']",1.0,,Q003821,8,3
+24539,Q003821.9.1,ina[through]PRP,[ina,ina,ina,through,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003821,9,1
+24540,Q003821.9.2,tukulti[help]N,tu-kul-ti],tukulti,tukultu,help,N,"['𒌅', '𒆰', '𒋾']",𒌅𒆰𒋾,[tu-kul-ti],"['missing', 'missing', 'missing']",1.0,,Q003821,9,2
+24541,Q003821.9.3,Aššur[1]DN,⸢AN⸣.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,⸢AN⸣.ŠAR₂,"['damaged', 'complete']",0.25,DN,Q003821,9,3
+24542,Q003821.9.4,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q003821,9,4
+24543,Q003821.9.5,ilāni[god]N,⸢DINGIR⸣.[MEŠ,ilāni,ilu,god,N,"['𒀭', '𒎌']",𒀭𒎌,⸢DINGIR⸣.[MEŠ],"['damaged', 'missing']",0.75,,Q003821,9,5
+24544,Q003821.9.6,rabûti[great]AJ,GAL.MEŠ,rabûti,rabû,great,AJ,"['𒃲', '𒎌']",𒃲𒎌,[GAL].[MEŠ],"['missing', 'missing']",1.0,,Q003821,9,6
+24545,Q003821.9.7,bēlīya[lord]N,EN.MEŠ-ia],bēlīya,bēlu,lord,N,"['𒂗', '𒎌', '𒅀']",𒂗𒎌𒅀,[EN].[MEŠ-ia],"['missing', 'missing', 'missing']",1.0,,Q003821,9,7
+24546,Q003821.10.1,ina[during]PRP,[ina,ina,ina,during,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003821,10,1
+24547,Q003821.10.2,tāhāz[battle]N,ME₃],tāhāz,tāhāzu,battle,N,['𒀞'],𒀞,[ME₃],['missing'],1.0,,Q003821,10,2
+24548,Q003821.10.3,ṣēri[open country]N,⸢EDIN,ṣēri,ṣēru,open country,N,['𒂔'],𒂔,⸢EDIN⸣,['damaged'],0.5,,Q003821,10,3
+24549,Q003821.10.4,rapši[wide]AJ,rap-ši,rapši,rapšu,wide,AJ,"['𒊐', '𒅆']",𒊐𒅆,⸢rap-ši⸣,"['damaged', 'damaged']",0.5,,Q003821,10,4
+24550,Q003821.10.5,dabdâšu[defeat]N,BAD₅⸣.[BAD₅-šu₂,dabdâšu,dabdû,defeat,N,"['𒅆', '𒅆', '𒋙']",𒅆𒅆𒋙,⸢BAD₅⸣.[BAD₅-šu₂],"['damaged', 'missing', 'missing']",0.83,,Q003821,10,5
+24551,Q003821.10.6,iškunū[establish]V,iš-ku-nu,iškunū,šakānu,establish,V,"['𒅖', '𒆪', '𒉡']",𒅖𒆪𒉡,[iš-ku-nu],"['missing', 'missing', 'missing']",1.0,,Q003821,10,6
+24552,Q003821.10.7,parāru[break up//scatter]V'V$uparrirū,u₂-par-ri-ru,uparrirū,parāru,scatter,V,"['𒌑', '𒌓', '𒊑', '𒊒']",𒌑𒌓𒊑𒊒,[u₂-par-ri-ru],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003821,10,7
+24553,Q003821.10.8,ellatsu[group (of soldiers)]N,el-lat-su],ellatsu,illatu,group (of soldiers),N,"['𒂖', '𒆳', '𒋢']",𒂖𒆳𒋢,[el-lat-su],"['missing', 'missing', 'missing']",1.0,,Q003821,10,8

@@ -1,0 +1,18 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+7653,Q003764.1.1,ēkal[palace]N,KUR,ēkal,ēkallu,palace,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003764,1,1
+7654,Q003764.1.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003764,1,2
+7655,Q003764.1.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003764,1,3
+7656,Q003764.1.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003764,1,4
+7657,Q003764.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003764,1,5
+7658,Q003764.1.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003764,1,6
+7659,Q003764.1.7,Aššur[Assyria]GN,AŠ,Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,AŠ,['complete'],0.0,GN,Q003764,1,7
+7660,Q003764.1.8,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q003764,1,8
+7661,Q003764.1.9,"Aššur-ahu-iddina[Esarhaddon, king of Assyria]RN",{m}AN.ŠAR₂-PAP-AŠ,Aššur-ahu-iddina,Aššur-ahu-iddina,"Esarhaddon, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒉽', '𒀸']",𒁹𒀭𒊹𒉽𒀸,{m}AN.ŠAR₂-PAP-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003764,1,9
+7662,Q003764.1.10,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003764,1,10
+7663,Q003764.1.11,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003764,1,11
+7664,Q003764.1.12,Aššur[Assyria]GN,AŠ,Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,AŠ,['complete'],0.0,GN,Q003764,1,12
+7665,Q003764.1.13,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q003764,1,13
+7666,Q003764.1.14,"Sin-ahhe-eriba[Sennacherib, king of Assyria]RN",{m}30-PAP.MEŠ-SU,Sin-ahhe-eriba,Sin-ahhe-eriba,"Sennacherib, king of Assyria",RN,"['𒁹', '𒌍', '𒉽', '𒎌', '𒋢']",𒁹𒌍𒉽𒎌𒋢,{m}30-PAP.MEŠ-SU,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003764,1,14
+7667,Q003764.1.15,šar[king]N,[MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,Q003764,1,15
+7668,Q003764.1.16,māt[land]N,KUR],māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q003764,1,16
+7669,Q003764.1.17,Aššurma[Assyria]GN,AŠ-[ma],Aššurma,Aššur,Assyria,GN,"['𒀸', '𒈠']",𒀸𒈠,AŠ-[ma],"['complete', 'missing']",0.5,GN,Q003764,1,17

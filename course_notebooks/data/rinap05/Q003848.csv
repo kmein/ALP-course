@@ -1,0 +1,15 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+62949,Q003848.1.1,Nanna[1]DN,{[d}nanna],,Nanna,1,DN,"['𒀭', '𒋀𒆠']",𒀭𒋀𒆠,{[d]}[nanna],"['missing', 'missing']",1.0,DN,Q003848,1,1
+62950,Q003848.1.2,lugal[king]N,⸢lugal⸣-a-ni,,lugal,king,N,"['𒈗', '𒀀', '𒉌']",𒈗𒀀𒉌,⸢lugal⸣-a-ni,"['damaged', 'complete', 'complete']",0.17,,Q003848,1,2
+62951,Q003848.2.1,u,[(x),,,,u,['x'],x,[x],['missing'],1.0,,Q003848,2,1
+62952,Q003848.2.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",AN].ŠAR₂-DU₃-⸢A⸣,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒀭', '𒊹', '𒆕', '𒀀']",𒀭𒊹𒆕𒀀,[AN].ŠAR₂-DU₃-⸢A⸣,"['missing', 'complete', 'complete', 'damaged']",0.38,RN,Q003848,2,2
+62953,Q003848.3.1,lugal[king]N,[lugal],,lugal,king,N,['𒈗'],𒈗,[lugal],['missing'],1.0,,Q003848,3,1
+62954,Q003848.3.2,kišar[the whole earth]N,ki-šar₂-ra-ke₄,,kišar,the whole earth,N,"['𒆠', '𒊹', '𒊏', '𒆤']",𒆠𒊹𒊏𒆤,ki-šar₂-ra-ke₄,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003848,3,2
+62955,Q003848.4.1,Sin-balassu-iqbi[governor of Ur]PN,{[m}{d]}30-TIN-su-iq-bi⸣,Sin-balassu-iqbi,Sin-balassu-iqbi,governor of Ur,PN,"['𒁹', '𒀭', '𒌍', '𒁷', '𒋢', '𒅅', '𒁉']",𒁹𒀭𒌍𒁷𒋢𒅅𒁉,{[m]}{[d]}⸢30-TIN-su-iq-bi⸣,"['missing', 'missing', 'damaged', 'damaged', 'damaged', 'damaged', 'damaged']",0.64,PN,Q003848,4,1
+62956,Q003848.5.1,"šakkanak[general, governor-general]N",šagina,,šakkanak,"general, governor-general",N,['𒄊𒀴'],𒄊𒀴,šagina,['complete'],0.0,,Q003848,5,1
+62957,Q003848.5.2,Uri[Ur]SN,⸢uri₂{ki⸣}ma,,Uri,Ur,SN,"['𒋀𒀕', '𒆠', '𒈠']",𒋀𒀕𒆠𒈠,⸢uri₂⸣{⸢KI⸣}ma,"['damaged', 'damaged', 'complete']",0.33,,Q003848,5,2
+62958,Q003848.6.1,Eridu[1]SN,eridu{⸢ki}ga,,Eridu,1,SN,"['𒉣', '𒆠', '𒂵']",𒉣𒆠𒂵,eridu{⸢KI⸣}⸢ga⸣,"['complete', 'damaged', 'damaged']",0.33,,Q003848,6,1
+62959,Q003848.6.2,zi[life]N,zi⸣-ni-<<ki>>-še₃,,zi,life,N,"['𒍣', '𒉌', '𒆠', '𒂠']",𒍣𒉌𒆠𒂠,⸢zi⸣-ni-ki-še₃,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q003848,6,2
+62960,Q003848.7.1,Elugalgalgasisa[1]TN,e₂-⸢lugal⸣-galga-si-sa₂,,Elugalgalgasisa,1,TN,"['𒂍', '𒈗', '𒃌', '𒋛', '𒁲']",𒂍𒈗𒃌𒋛𒁲,e₂-⸢lugal⸣-galga-si-sa₂,"['complete', 'damaged', 'complete', 'complete', 'complete']",0.1,,Q003848,7,1
+62961,Q003848.8.1,gibil[(to be) new]V/i,⸢gibil⸣-bi,,gibil,(to be) new,V/i,"['𒉋', '𒁉']",𒉋𒁉,⸢gibil⸣-bi,"['damaged', 'complete']",0.25,,Q003848,8,1
+62962,Q003848.8.2,"du[to build, make]V/t",mu-na-⸢an-du₃⸣,,du,"to build, make",V/t,"['𒈬', '𒈾', '𒀭', '𒆕']",𒈬𒈾𒀭𒆕,mu-na-⸢an-du₃⸣,"['complete', 'complete', 'damaged', 'damaged']",0.25,,Q003848,8,2

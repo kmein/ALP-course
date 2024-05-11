@@ -1,0 +1,11 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+31270,Q003724.1.1,Teumman[king of Elam]RN,{m}te-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{m}te-um-man,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003724,1,1
+31271,Q003724.1.2,ša[who]REL,<ša>,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q003724,1,2
+31272,Q003724.1.3,ina[during]PRP,ina,ina,ina,during,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003724,1,3
+31273,Q003724.1.4,miqit[fall]N,mi-qit,miqit,miqtu,fall,N,"['𒈪', '𒆤']",𒈪𒆤,mi-qit,"['complete', 'complete']",0.0,,Q003724,1,4
+31274,Q003724.1.5,ṭēme[thought]N,ṭe₃-e-me,ṭēme,ṭēmu,thought,N,"['𒉈', '𒂊', '𒈨']",𒉈𒂊𒈨,ṭe₃-e-me,"['complete', 'complete', 'complete']",0.0,,Q003724,1,5
+31275,Q003724.2.1,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q003724,2,1
+31276,Q003724.2.2,aplu[heir]N$aplišu,⸢IBILA⸣-šu₂,aplišu,aplu,heir,N,"['𒌉𒍑', '𒋙']",𒌉𒍑𒋙,⸢IBILA⸣-šu₂,"['damaged', 'complete']",0.25,,Q003724,2,2
+31277,Q003724.2.3,iqbû[say]V,iq-bu-u₂,iqbû,qabû,say,V,"['𒅅', '𒁍', '𒌑']",𒅅𒁍𒌑,iq-bu-u₂,"['complete', 'complete', 'complete']",0.0,,Q003724,2,3
+31278,Q003724.3.1,šalû[fling//shoot]V'V$šulê,šu-le-e,šulê,šalû,shoot,V,"['𒋗', '𒇷', '𒂊']",𒋗𒇷𒂊,šu-le-e,"['complete', 'complete', 'complete']",0.0,,Q003724,3,1
+31279,Q003724.3.2,qašti[bow]N,{giš}PAN,qašti,qaštu,bow,N,"['𒄑', '𒉼']",𒄑𒉼,{GIŠ}PAN,"['complete', 'complete']",0.0,,Q003724,3,2

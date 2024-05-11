@@ -1,0 +1,37 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+60490,Q007552.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,2,1
+60491,Q007552.2.2,lemuttu[evil]N,⸢HUL-tu⸣,lemuttu,lemuttu,evil,N,"['𒅆𒌨', '𒌅']",𒅆𒌨𒌅,⸢HUL-tu⸣,"['damaged', 'damaged']",0.5,,Q007552,2,2
+60492,Q007552.2.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,2,3
+60493,Q007552.3.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007552,3,1
+60494,Q007552.3.2,illikū[go]V,il]-⸢li⸣-ku,illikū,alāku,go,V,"['𒅋', '𒇷', '𒆪']",𒅋𒇷𒆪,[il]-⸢li⸣-ku,"['missing', 'damaged', 'complete']",0.5,,Q007552,3,2
+60495,Q007552.3.3,ušazizzūinni[make stand]V,⸢u₂⸣-[ša₂-zi-zu-in-ni,ušazizzūinni,izuzzu,make stand,V,"['𒌑', '𒃻', '𒍣', '𒍪', '𒅔', '𒉌']",𒌑𒃻𒍣𒍪𒅔𒉌,⸢u₂⸣-[ša₂-zi-zu-in-ni],"['damaged', 'missing', 'missing', 'missing', 'missing', 'missing']",0.92,,Q007552,3,3
+60496,Q007552.3.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,3,4
+60497,Q007552.4.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007552,4,1
+60498,Q007552.4.2,bārānû[rebel]N,ba-ra-nu]-u₂,bārānû,bārānû,rebel,N,"['𒁀', '𒊏', '𒉡', '𒌑']",𒁀𒊏𒉡𒌑,[ba-ra-nu]-u₂,"['missing', 'missing', 'missing', 'complete']",0.75,,Q007552,4,2
+60499,Q007552.4.3,ibrûma[search]V,ib-ru-[u₂-ma,ibrûma,barû,search,V,"['𒅁', '𒊒', '𒌑', '𒈠']",𒅁𒊒𒌑𒈠,ib-ru-[u₂-ma],"['complete', 'complete', 'missing', 'missing']",0.5,,Q007552,4,3
+60500,Q007552.4.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,4,4
+60501,Q007552.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,5,1
+60502,Q007552.5.2,uterrūniššu[return]V,u₂-ter-ru-⸢niš⸣-[šu₂,uterrūniššu,târu,return,V,"['𒌑', '𒌁', '𒊒', '𒎙', '𒋙']",𒌑𒌁𒊒𒎙𒋙,u₂-ter-ru-⸢niš⸣-[šu₂],"['complete', 'complete', 'complete', 'damaged', 'missing']",0.3,,Q007552,5,2
+60503,Q007552.5.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,5,3
+60504,Q007552.6.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007552,6,1
+60505,Q007552.6.2,qereb[interior]N,qe₂]-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,[qe₂]-reb,"['missing', 'complete']",0.5,,Q007552,6,2
+60506,Q007552.6.3,Elamti[Elam]GN,{kur}ELAM.MA{[ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.MA{[KI]},"['complete', 'complete', 'complete', 'missing']",0.25,GN,Q007552,6,3
+60507,Q007552.6.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,6,4
+60508,Q007552.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,7,1
+60509,Q007552.7.2,sahlê[cress]N,{⸢u₂⸣}ZAG.HI.LI{[sar},sahlê,sahliu,cress,N,"['𒌑', '𒍠', '𒄭', '𒇷', '𒊬']",𒌑𒍠𒄭𒇷𒊬,{⸢U₂⸣}ZAG.HI.LI{[SAR]},"['damaged', 'complete', 'complete', 'complete', 'missing']",0.3,,Q007552,7,2
+60510,Q007552.7.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,7,3
+60511,Q007552.8.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,8,1
+60512,Q007552.8.2,zikar[male]N,⸢NITA⸣,zikar,zikaru,male,N,['𒍑'],𒍑,⸢NITA⸣,['damaged'],0.5,,Q007552,8,2
+60513,Q007552.8.3,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,Q007552,8,3
+60514,Q007552.8.4,sinniš[female]N,MUNUS,sinniš,sinništu,female,N,['𒊩'],𒊩,MUNUS,['complete'],0.0,,Q007552,8,4
+60515,Q007552.8.5,alpī[ox]N,GU₄.[MEŠ,alpī,alpu,ox,N,"['𒄞', '𒎌']",𒄞𒎌,GU₄.[MEŠ],"['complete', 'missing']",0.5,,Q007552,8,5
+60516,Q007552.8.6,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,8,6
+60517,Q007552.9.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007552,9,1
+60518,Q007552.9.2,elišu[against]PRP,UGU]-⸢šu₂⸣,elišu,eli,against,PRP,"['𒌋𒅗', '𒋙']",𒌋𒅗𒋙,[UGU]-⸢šu₂⸣,"['missing', 'damaged']",0.75,,Q007552,9,2
+60519,Q007552.9.3,ēdiššīšu[he/you (etc.) alone]AV,e-diš-ši-šu₂,ēdiššīšu,wēdiššī-,he/you (etc.) alone,AV,"['𒂊', '𒁹', '𒅆', '𒋙']",𒂊𒁹𒅆𒋙,e-diš-ši-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007552,9,3
+60520,Q007552.9.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,9,4
+60521,Q007552.10.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007552,10,1
+60522,Q007552.10.2,ittanapraššidu[escape repeatedly]V,it-ta-nap-raš-ši]-⸢du,ittanapraššidu,naparšudu,escape repeatedly,V,"['𒀉', '𒋫', '𒀮', '𒆜', '𒅆', '𒁺']",𒀉𒋫𒀮𒆜𒅆𒁺,[it-ta-nap-raš-ši]-⸢du⸣,"['missing', 'missing', 'missing', 'missing', 'missing', 'damaged']",0.92,,Q007552,10,2
+60523,Q007552.10.3,kīma[like]PRP,ki-ma,kīma,kīma,like,PRP,"['𒆠', '𒈠']",𒆠𒈠,⸢ki-ma⸣,"['damaged', 'damaged']",0.5,,Q007552,10,3
+60524,Q007552.10.4,surdê[falcon]N,SUR₂⸣.[DU₃{mušen},surdê,surdû,falcon,N,"['𒊨', '𒆕', '𒄷']",𒊨𒆕𒄷,⸢SUR₂⸣.[DU₃]{[MUŠEN]},"['damaged', 'missing', 'missing']",0.83,,Q007552,10,4
+60525,Q007552.10.5,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007552,10,5

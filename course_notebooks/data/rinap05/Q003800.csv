@@ -1,0 +1,53 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+2078,Q003800.6.1,ultu[from]PRP,⸢ul⸣-[tu,ultu,ištu,from,PRP,"['𒌌', '𒌅']",𒌌𒌅,⸢ul⸣-[tu],"['damaged', 'missing']",0.75,,Q003800,6,1
+2079,Q003800.6.2,ṣehru[(time of) youth//childhood]N'N$ṣeheriya,ṣe-he-ri-ia,ṣeheriya,ṣehru,childhood,N,"['𒍢', '𒄭', '𒊑', '𒅀']",𒍢𒄭𒊑𒅀,[ṣe-he-ri-ia],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003800,6,2
+2080,Q003800.6.3,adi[to]PRP,a-di,adi,adi,to,PRP,"['𒀀', '𒁲']",𒀀𒁲,[a-di],"['missing', 'missing']",1.0,,Q003800,6,3
+2081,Q003800.6.4,rabû[great one//adulthood]N'N$rabêya,ra-be₂-ia],rabêya,rabû,adulthood,N,"['𒊏', '𒁉', '𒅀']",𒊏𒁉𒅀,[ra-be₂-ia],"['missing', 'missing', 'missing']",1.0,,Q003800,6,4
+2082,Q003800.7.1,šeʾû[seek (out)//constantly seek out]V'V$ašteʾʾâ,⸢aš₂⸣-[te-ʾa-a,ašteʾʾâ,šeʾû,constantly seek out,V,"['𒀾', '𒋼', '𒀪', '𒀀']",𒀾𒋼𒀪𒀀,⸢aš₂⸣-[te-ʾa-a],"['damaged', 'missing', 'missing', 'missing']",0.88,,Q003800,7,1
+2083,Q003800.7.2,ašrāt[shrine]N,aš₂-rat,ašrāt,ešertu,shrine,N,"['𒀾', '𒋥']",𒀾𒋥,[aš₂-rat],"['missing', 'missing']",1.0,,Q003800,7,2
+2084,Q003800.7.3,ilāni[god]N,DINGIR.MEŠ,ilāni,ilu,god,N,"['𒀭', '𒎌']",𒀭𒎌,[DINGIR].[MEŠ],"['missing', 'missing']",1.0,,Q003800,7,3
+2085,Q003800.7.4,rabûti[great]AJ,GAL.MEŠ],rabûti,rabû,great,AJ,"['𒃲', '𒎌']",𒃲𒎌,[GAL].[MEŠ],"['missing', 'missing']",1.0,,Q003800,7,4
+2086,Q003800.8.1,šangûtu[priesthood//priestly office]N'N$šangûtī,{⸢lu₂⸣}[ša₂-an-gu-ti,šangûtī,šangûtu,priestly office,N,"['𒇽', '𒃻', '𒀭', '𒄖', '𒋾']",𒇽𒃻𒀭𒄖𒋾,{⸢LU₂⸣}[ša₂-an-gu-ti],"['damaged', 'missing', 'missing', 'missing', 'missing']",0.9,,Q003800,8,1
+2087,Q003800.8.2,ihšuhū[desire]V,ih-šu-hu],ihšuhū,hašāhu,desire,V,"['𒄴', '𒋗', '𒄷']",𒄴𒋗𒄷,[ih-šu-hu],"['missing', 'missing', 'missing']",1.0,,Q003800,8,2
+2088,Q003800.9.1,irammū[love]V,⸢i-ram⸣-[mu,irammū,râmu,love,V,"['𒄿', '𒉘', '𒈬']",𒄿𒉘𒈬,⸢i-ram⸣-[mu],"['damaged', 'damaged', 'missing']",0.67,,Q003800,9,1
+2089,Q003800.9.2,nadān[giving]'N,na-dan,nadān,nadānu,giving,V,"['𒈾', '𒆗']",𒈾𒆗,[na-dan],"['missing', 'missing']",1.0,,Q003800,9,2
+2090,Q003800.9.3,zību[food offering]N$zībīya,zi-bi-ia],zībīya,zību,food offering,N,"['𒍣', '𒁉', '𒅀']",𒍣𒁉𒅀,[zi-bi-ia],"['missing', 'missing', 'missing']",1.0,,Q003800,9,3
+2091,Q003800.10.1,Adad[1]DN,{d}⸢IŠKUR⸣,Adad,Adad,1,DN,"['𒀭', '𒅎']",𒀭𒅎,{d}⸢IŠKUR⸣,"['complete', 'damaged']",0.25,DN,Q003800,10,1
+2092,Q003800.10.2,zunnīšu[rain]N,ŠEG₃.⸢MEŠ⸣-[šu₂,zunnīšu,zunnu,rain,N,"['𒀀𒀭', '𒎌', '𒋙']",𒀀𒀭𒎌𒋙,ŠEG₃.⸢MEŠ⸣-[šu₂],"['complete', 'damaged', 'missing']",0.5,,Q003800,10,2
+2093,Q003800.10.3,wašāru[sink down//release]V'V$umaššira,u₂-maš-ši-ra],umaššira,wašāru,release,V,"['𒌑', '𒈦', '𒅆', '𒊏']",𒌑𒈦𒅆𒊏,[u₂-maš-ši-ra],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003800,10,3
+2094,Q003800.11.1,Ea[1]DN,{d}e₂-a,Ea,Ea,1,DN,"['𒀭', '𒂍', '𒀀']",𒀭𒂍𒀀,{d}e₂-a,"['complete', 'complete', 'complete']",0.0,DN,Q003800,11,1
+2095,Q003800.11.2,+paṭāru[untie//loosen]V'V$upattira,u₂-⸢paṭ⸣-[ṭi-ra,upattira,paṭāru,loosen,V,"['𒌑', '𒉻', '𒁲', '𒊏']",𒌑𒉻𒁲𒊏,u₂-⸢paṭ⸣-[ṭi-ra],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q003800,11,2
+2096,Q003800.11.3,nagbu[underground water]N$nagbīšu,IDIM.MEŠ-šu₂],nagbīšu,nagbu,underground water,N,"['𒅂', '𒎌', '𒋙']",𒅂𒎌𒋙,[IDIM].[MEŠ-šu₂],"['missing', 'missing', 'missing']",1.0,,Q003800,11,3
+2097,Q003800.12.1,šattišamma[yearly]AV,šat-ti-šam-⸢ma⸣,šattišamma,šattišamma,yearly,AV,"['𒆳', '𒋾', '𒌑', '𒈠']",𒆳𒋾𒌑𒈠,šat-ti-šam-⸢ma⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,,Q003800,12,1
+2098,Q003800.12.2,ina[in]PRP,[ina,ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003800,12,2
+2099,Q003800.12.3,ṭuhdi[abundance]N,ṭuh-di,ṭuhdi,ṭuhdu,abundance,N,"['𒃮', '𒁲']",𒃮𒁲,[ṭuh-di],"['missing', 'missing']",1.0,,Q003800,12,3
+2100,Q003800.12.4,mīšari[justice]N,mi-ša₂-ri],mīšari,mīšaru,justice,N,"['𒈪', '𒃻', '𒊑']",𒈪𒃻𒊑,[mi-ša₂-ri],"['missing', 'missing', 'missing']",1.0,,Q003800,12,4
+2101,Q003800.13.1,reʾû[pasture//constantly shepherd]V'V$arteʾʾâ,ar-te-ʾa,arteʾʾâ,reʾû,constantly shepherd,V,"['𒅈', '𒋼', '𒀪']",𒅈𒋼𒀪,ar-te-ʾa,"['complete', 'complete', 'complete']",0.0,,Q003800,13,1
+2102,Q003800.13.2,baʾūlāt[subjects]N,⸢ba⸣-[ʾu-lat,baʾūlāt,baʾūlātu,subjects,N,"['𒁀', '𒀪', '𒆳']",𒁀𒀪𒆳,⸢ba⸣-[ʾu-lat],"['damaged', 'missing', 'missing']",0.83,,Q003800,13,2
+2103,Q003800.13.3,Enlil[1]DN,{d}EN.LIL₂],Enlil,Enlil,1,DN,"['𒀭', '𒂗', '𒆤']",𒀭𒂗𒆤,{[d]}[EN].[LIL₂],"['missing', 'missing', 'missing']",1.0,DN,Q003800,13,3
+2104,Q003800.14.1,ilāni[god]N,DINGIR.MEŠ,ilāni,ilu,god,N,"['𒀭', '𒎌']",𒀭𒎌,DINGIR.MEŠ,"['complete', 'complete']",0.0,,Q003800,14,1
+2105,Q003800.14.2,rabûti[great]AJ,⸢GAL⸣.MEŠ,rabûti,rabû,great,AJ,"['𒃲', '𒎌']",𒃲𒎌,⸢GAL⸣.MEŠ,"['damaged', 'complete']",0.25,,Q003800,14,2
+2106,Q003800.14.3,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q003800,14,3
+2107,Q003800.14.4,palāhu[be(come) afraid//constantly revere]V'V$aptallahu,⸢ap⸣-[tal-la-hu,aptallahu,palāhu,constantly revere,V,"['𒀊', '𒊑', '𒆷', '𒄷']",𒀊𒊑𒆷𒄷,⸢ap⸣-[tal-la-hu],"['damaged', 'missing', 'missing', 'missing']",0.88,,Q003800,14,4
+2108,Q003800.14.5,ilūtu[godhead//divinity]N'N$ilūssun,DINGIR-us-su-un],ilūssun,ilūtu,divinity,N,"['𒀭', '𒊻', '𒋢', '𒌦']",𒀭𒊻𒋢𒌦,[DINGIR-us-su-un],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003800,14,5
+2109,Q003800.15.1,dunnu[power]N,⸢dun⸣-nu,dunnu,dunnu,power,N,"['𒂄', '𒉡']",𒂄𒉡,⸢dun⸣-nu,"['damaged', 'complete']",0.25,,Q003800,15,1
+2110,Q003800.15.2,zikrūtu[manliness]N$,[zik-ru-u-tu],zikrūtu,zikrūtu,manliness,N,"['𒍨', '𒊒', '𒌋', '𒌅']",𒍨𒊒𒌋𒌅,[zik-ru-u-tu],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003800,15,2
+2111,Q003800.16.1,emūqī[strength]N,e-mu-qi₂,emūqī,emūqu,strength,N,"['𒂊', '𒈬', '𒆠']",𒂊𒈬𒆠,e-mu-qi₂,"['complete', 'complete', 'complete']",0.0,,Q003800,16,1
+2112,Q003800.16.2,ṣīrāti[exalted]AJ,[ṣi-ra-a-ti],ṣīrāti,ṣīru,exalted,AJ,"['𒍢', '𒊏', '𒀀', '𒋾']",𒍢𒊏𒀀𒋾,[ṣi-ra-a-ti],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003800,16,2
+2113,Q003800.17.1,šutlumu[grant generously]V$ušatlimūinni,u₂-šat-⸢li⸣-[mu-in-ni],ušatlimūinni,šutlumu,grant generously,V,"['𒌑', '𒆳', '𒇷', '𒈬', '𒅔', '𒉌']",𒌑𒆳𒇷𒈬𒅔𒉌,u₂-šat-⸢li⸣-[mu-in-ni],"['complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.58,,Q003800,17,1
+2114,Q003800.21.1,n,60,,,,n,['𒐕'],𒐕,[60],['missing'],1.0,NUMBER,Q003800,21,1
+2115,Q003800.21.2,bēru[double hour]N$bēr,KASKAL.GID₂,bēr,bēru,double hour,N,"['𒆜', '𒁍']",𒆜𒁍,[KASKAL].[GID₂],"['missing', 'missing']",1.0,,Q003800,21,2
+2116,Q003800.21.3,qaqqaru[distance]N,qaq-qa]-ru,qaqqaru,qaqqaru,distance,N,"['𒆕', '𒋡', '𒊒']",𒆕𒋡𒊒,[qaq-qa]-ru,"['missing', 'missing', 'complete']",0.67,,Q003800,21,3
+2117,Q003800.22.1,qereb[interior]N,[qe₂-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,[qe₂-reb],"['missing', 'missing']",1.0,,Q003800,22,1
+2118,Q003800.22.2,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q003800,22,2
+2119,Q003800.22.3,harābu[be(come) deserted//devastate]V'V$ušahrib,u₂-šah]-⸢rib⸣,ušahrib,harābu,devastate,V,"['𒌑', '𒋚', '𒆗']",𒌑𒋚𒆗,[u₂-šah]-⸢rib⸣,"['missing', 'missing', 'damaged']",0.83,,Q003800,22,3
+2120,Q003800.23.1,ṭabtu[salt]N$,[MUN,ṭabtu,ṭabtu,salt,N,['𒁵'],𒁵,[MUN],['missing'],1.0,,Q003800,23,1
+2121,Q003800.23.2,sahliu[(a cultivated plant)//cress]N'N$sahlê,{u₂}ZAG.HI.LI]{⸢sar⸣},sahlê,sahliu,cress,N,"['𒌑', '𒍠', '𒄭', '𒇷', '𒊬']",𒌑𒍠𒄭𒇷𒊬,{[U₂]}[ZAG].[HI].[LI]{⸢SAR⸣},"['missing', 'missing', 'missing', 'missing', 'damaged']",0.9,,Q003800,23,2
+2122,Q003800.24.1,sapāhu[scatter]V$usappiha,[u₂-sap-pi-ha,usappiha,sapāhu,scatter,V,"['𒌑', '𒉺𒅁', '𒉿', '𒄩']",𒌑𒉺𒅁𒉿𒄩,[u₂-sap-pi-ha],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003800,24,1
+2123,Q003800.24.2,ṣēruššun[on]'PRP,EDIN-uš-šu₂]-⸢un⸣,ṣēruššun,ṣēru,on,N,"['𒂔', '𒍑', '𒋙', '𒌦']",𒂔𒍑𒋙𒌦,[EDIN-uš-šu₂]-⸢un⸣,"['missing', 'missing', 'missing', 'damaged']",0.88,,Q003800,24,2
+2124,Q003800.25.1,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q003800,25,1
+2125,Q003800.25.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003800,25,2
+2126,Q003800.26.1,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q003800,26,1
+2127,Q003800.26.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003800,26,2
+2128,Q003800.27.1,x,[...],,,,,['x'],x,[x],['missing'],1.0,,Q003800,27,1
+2129,Q003800.27.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003800,27,2

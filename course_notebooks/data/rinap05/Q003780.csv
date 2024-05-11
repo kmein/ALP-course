@@ -1,0 +1,28 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+20667,Q003780.2.1,šarrūssu[kingship]N,[LUGAL-us-su,šarrūssu,šarrūtu,kingship,N,"['𒈗', '𒊻', '𒋢']",𒈗𒊻𒋢,[LUGAL-us-su],"['missing', 'missing', 'missing']",1.0,,Q003780,2,1
+20668,Q003780.2.2,sakāpu[push down//overthrow]V'V$iškipū,iš-ki-pu],iškipū,sakāpu,overthrow,V,"['𒅖', '𒆠', '𒁍']",𒅖𒆠𒁍,[iš-ki-pu],"['missing', 'missing', 'missing']",1.0,,Q003780,2,2
+20669,Q003780.2.3,ēkimū[take away]V,⸢e-ki-mu,ēkimū,ekēmu,take away,V,"['𒂊', '𒆠', '𒈬']",𒂊𒆠𒈬,⸢e-ki-mu⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003780,2,3
+20670,Q003780.2.4,palâšu[dynasty]N,BALA⸣-[šu₂],palâšu,palû,dynasty,N,"['𒁄', '𒋙']",𒁄𒋙,⸢BALA⸣-[šu₂],"['damaged', 'missing']",0.75,,Q003780,2,4
+20671,Q003780.3.1,bēlūt[lordship]N,[be-lut,bēlūt,bēlūtu,lordship,N,"['𒁁', '𒂁']",𒁁𒂁,[be-lut],"['missing', 'missing']",1.0,,Q003780,3,1
+20672,Q003780.3.2,Elamti[Elam]GN,{kur}ELAM.MA{ki]},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q003780,3,2
+20673,Q003780.3.3,leqû[take//make take]V'V$ušalqû,u₂-šal-qu-u,ušalqû,leqû,make take,V,"['𒌑', '𒊩', '𒄣', '𒌋']",𒌑𒊩𒄣𒌋,u₂-šal-qu-u,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003780,3,3
+20674,Q003780.3.4,šanû[(an)other one]N$šanâmma,ša₂-⸢nam⸣-[ma],šanâmma,šanû,(an)other one,N,"['𒃻', '𒉆', '𒈠']",𒃻𒉆𒈠,ša₂-⸢nam⸣-[ma],"['complete', 'damaged', 'missing']",0.5,,Q003780,3,4
+20675,Q003780.4.1,arka[afterwards]AV,[ar-ka,arka,warka,afterwards,AV,"['𒅈', '𒅗']",𒅈𒅗,[ar-ka],"['missing', 'missing']",1.0,,Q003780,4,1
+20676,Q003780.4.2,Teumman[king of Elam]RN,{m}te-um-man],Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{[m]}[te-um-man],"['missing', 'missing', 'missing', 'missing']",1.0,RN,Q003780,4,2
+20677,Q003780.4.3,hiriṣ[incarnation]N,⸢hi⸣-ri-iṣ,hiriṣ,herṣu,incarnation,N,"['𒄭', '𒊑', '𒄑']",𒄭𒊑𒄑,⸢hi⸣-ri-iṣ,"['damaged', 'complete', 'complete']",0.17,,Q003780,4,3
+20678,Q003780.4.4,gallê[(a demon)]N,GAL₅.LA₂.MEŠ,gallê,gallû,(a demon),N,"['𒋼', '𒇲', '𒎌']",𒋼𒇲𒎌,GAL₅.LA₂.MEŠ,"['complete', 'complete', 'complete']",0.0,,Q003780,4,4
+20679,Q003780.4.5,lemnūti[bad]AJ,lem-[nu-ti],lemnūti,lemnu,evil,AJ,"['𒅆', '𒉡', '𒋾']",𒅆𒉡𒋾,lem-[nu-ti],"['complete', 'missing', 'missing']",0.67,,Q003780,4,5
+20680,Q003780.5.1,ūšib[sit]V,[u₂-šib,ūšib,wašābu,sit,V,"['𒌑', '𒈨']",𒌑𒈨,[u₂-šib],"['missing', 'missing']",1.0,,Q003780,5,1
+20681,Q003780.5.2,ina[on]PRP,ina,ina,ina,on,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003780,5,2
+20682,Q003780.5.3,kussî[throne]N,{giš]}⸢GU⸣.ZA,kussî,kussû,throne,N,"['𒄑', '𒄖', '𒍝']",𒄑𒄖𒍝,{[GIŠ]}⸢GU⸣.ZA,"['missing', 'damaged', 'complete']",0.5,,Q003780,5,3
+20683,Q003780.5.4,Urtaki[king of Elam]RN,{m}ur-ta-⸢ki⸣,Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{m}ur-ta-⸢ki⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,RN,Q003780,5,4
+20684,Q003780.6.1,ana[to]PRP,[a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q003780,6,1
+20685,Q003780.6.2,dâku[kill//killing]V'N$dâki,da-a-ki,dâki,dâku,killing,V,"['𒁕', '𒀀', '𒆠']",𒁕𒀀𒆠,[da-a-ki],"['missing', 'missing', 'missing']",1.0,,Q003780,6,2
+20686,Q003780.6.3,mārī[son]N,DUMU].⸢MEŠ⸣,mārī,māru,son,N,"['𒌉', '𒎌']",𒌉𒎌,[DUMU].⸢MEŠ⸣,"['missing', 'damaged']",0.75,,Q003780,6,3
+20687,Q003780.6.4,Urtaki[king of Elam]RN,{[m]}⸢ur⸣-ta-ki,Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{[m]}⸢ur⸣-ta-ki,"['missing', 'damaged', 'complete', 'complete']",0.38,RN,Q003780,6,4
+20688,Q003780.7.1,mārī[son]N,[DUMU.MEŠ,mārī,māru,son,N,"['𒌉', '𒎌']",𒌉𒎌,[DUMU].[MEŠ],"['missing', 'missing']",1.0,,Q003780,7,1
+20689,Q003780.7.2,"Ummanaldasi[king of Elam and brother of Urtaku, Humban-haltaš II]RN",{m}um-man-al-da]-⸢a⸣-si,Ummanaldasi,Ummanaldašu,"king of Elam and brother of Urtaku, Humban-haltaš II",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒀀', '𒋛']",𒁹𒌝𒎙𒀠𒁕𒀀𒋛,{[m]}[um-man-al-da]-⸢a⸣-si,"['missing', 'missing', 'missing', 'missing', 'missing', 'damaged', 'complete']",0.79,RN,Q003780,7,2
+20690,Q003780.8.1,ahi[brother]N,[ŠEŠ,ahi,ahu,brother,N,['𒋀'],𒋀,[ŠEŠ],['missing'],1.0,,Q003780,8,1
+20691,Q003780.8.2,Urtaki[king of Elam]RN,{m}ur-ta-ki,Urtaki,Urtaku,king of Elam,RN,"['𒁹', '𒌨', '𒋫', '𒆠']",𒁹𒌨𒋫𒆠,{[m]}[ur-ta-ki],"['missing', 'missing', 'missing', 'missing']",1.0,RN,Q003780,8,2
+20692,Q003780.8.3,šeʾû[seek (out)//constantly seek out]V'V$ištaneʾʾi,iš-ta-ne₂-ʾi,ištaneʾʾi,šeʾû,constantly seek out,V,"['𒅖', '𒋫', '𒉌', '𒀪']",𒅖𒋫𒉌𒀪,[iš-ta-ne₂-ʾi],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003780,8,3
+20693,Q003780.8.4,lemuttu[evil]N,le]-⸢mut-tu⸣,lemuttu,lemuttu,evil,N,"['𒇷', '𒄷𒄭', '𒌅']",𒇷𒄷𒄭𒌅,[le]-⸢mut-tu⸣,"['missing', 'damaged', 'damaged']",0.67,,Q003780,8,4

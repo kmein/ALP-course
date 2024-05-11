@@ -1,0 +1,125 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+11085,Q007595.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,2,1
+11086,Q007595.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,2,2
+11087,Q007595.2.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,2,3
+11088,Q007595.2.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,2,4
+11089,Q007595.2.5,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q007595,2,5
+11090,Q007595.2.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,2,6
+11091,Q007595.3.1,šalšu[one-third]NU,[šal]-⸢šu₂,šalšu,šalšu,one-third,NU,"['𒊩', '𒋙']",𒊩𒋙,[šal]-⸢šu₂⸣,"['missing', 'damaged']",0.75,,Q007595,3,1
+11092,Q007595.3.2,kalâti[kidney]N,UZU.ELLAG₂.MEŠ⸣,kalâti,kalītu,kidney,N,"['𒍜', '𒄵', '𒎌']",𒍜𒄵𒎌,⸢UZU⸣.⸢ELLAG₂⸣.⸢MEŠ⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q007595,3,2
+11093,Q007595.3.3,amhaṣma[beat]V,am-ha-aṣ-ma,amhaṣma,mahāṣu,beat,V,"['𒄠', '𒄩', '𒊍', '𒈠']",𒄠𒄩𒊍𒈠,am-ha-aṣ-ma,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,3,3
+11094,Q007595.3.4,ul[not]MOD,ul,ul,ul,not,MOD,['𒌌'],𒌌,ul,['complete'],0.0,,Q007595,3,4
+11095,Q007595.3.5,u,[x,,,,u,['x'],x,[x],['missing'],1.0,,Q007595,3,5
+11096,Q007595.3.6,u,x],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,3,6
+11097,Q007595.3.7,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,3,7
+11098,Q007595.3.8,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,3,8
+11099,Q007595.3.9,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,3,9
+11100,Q007595.4.1,rebû[fourth]AJ,⸢re⸣-bu-u,rebû,rebû,fourth,AJ,"['𒊑', '𒁍', '𒌋']",𒊑𒁍𒌋,⸢re⸣-bu-u,"['damaged', 'complete', 'complete']",0.17,,Q007595,4,1
+11101,Q007595.4.2,muhha[skull]N,muh-ha,muhha,muhhu,skull,N,"['𒌋𒅗', '𒄩']",𒌋𒅗𒄩,muh-ha,"['complete', 'complete']",0.0,,Q007595,4,2
+11102,Q007595.4.3,amhassuma[beat]V,am-ha-as-su-ma,amhassuma,mahāṣu,beat,V,"['𒄠', '𒄩', '𒊍', '𒋢', '𒈠']",𒄠𒄩𒊍𒋢𒈠,am-ha-as-su-ma,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q007595,4,3
+11103,Q007595.4.4,u,[(x)],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,4,4
+11104,Q007595.4.5,x,⸢A⸣,,,,,['𒀀'],𒀀,⸢A⸣,['damaged'],0.5,,Q007595,4,5
+11105,Q007595.4.6,x,ŠU₂,,,,,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q007595,4,6
+11106,Q007595.4.7,X,E,,,,X,['𒂊'],𒂊,E,['complete'],0.0,,Q007595,4,7
+11107,Q007595.4.8,x,x,,,,,['x'],x,x,['complete'],0.0,,Q007595,4,8
+11108,Q007595.4.9,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,4,9
+11109,Q007595.5.1,hanšu[fifth]AJ,ha-an-šu₂,hanšu,hamšu,fifth,AJ,"['𒄩', '𒀭', '𒋙']",𒄩𒀭𒋙,ha-an-šu₂,"['complete', 'complete', 'complete']",0.0,,Q007595,5,1
+11110,Q007595.5.2,matnušu[sinew]N,ma-at-nu-šu₂,matnušu,matnu,sinew,N,"['𒈠', '𒀜', '𒉡', '𒋙']",𒈠𒀜𒉡𒋙,ma-at-nu-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,5,2
+11111,Q007595.5.3,ubattiqma[cut off]V,u₂-bat-ti-⸢iq-ma⸣,ubattiqma,batāqu,cut off,V,"['𒌑', '𒁁', '𒋾', '𒅅', '𒈠']",𒌑𒁁𒋾𒅅𒈠,u₂-bat-ti-⸢iq-ma⸣,"['complete', 'complete', 'complete', 'damaged', 'damaged']",0.2,,Q007595,5,3
+11112,Q007595.5.4,x,A,,,,,['𒀀'],𒀀,A,['complete'],0.0,,Q007595,5,4
+11113,Q007595.5.5,x,RI,,,,,['𒊑'],𒊑,RI,['complete'],0.0,,Q007595,5,5
+11114,Q007595.5.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,5,6
+11115,Q007595.5.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,5,7
+11116,Q007595.6.1,ina[with]PRP,ina,ina,ina,with,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007595,6,1
+11117,Q007595.6.2,n,1-et,,,,n,"['𒁹', '𒀉']",𒁹𒀉,1-et,"['complete', 'complete']",0.0,NUMBER,Q007595,6,2
+11118,Q007595.6.3,urê[team of equids]N,{anše}u₂-re-e,urê,urû,team of equids,N,"['𒀲', '𒌑', '𒊑', '𒂊']",𒀲𒌑𒊑𒂊,{ANŠE}u₂-re-e,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,6,3
+11119,Q007595.6.4,ṣimitti[binding]N,ṣi-mit-ti,ṣimitti,ṣimittu,binding,N,"['𒍢', '𒁁', '𒋾']",𒍢𒁁𒋾,ṣi-mit-ti,"['complete', 'complete', 'complete']",0.0,,Q007595,6,4
+11120,Q007595.6.5,bēlūtiya[lordship]N,be-lu-ti-ia,bēlūtiya,bēlūtu,lordship,N,"['𒁁', '𒇻', '𒋾', '𒅀']",𒁁𒇻𒋾𒅀,be-lu-ti-ia,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,6,5
+11121,Q007595.6.6,rukūb[vehicle]N,⸢ru⸣-[kub,rukūb,rukūbu,vehicle,N,"['𒊒', '𒁺']",𒊒𒁺,⸢ru⸣-[kub],"['damaged', 'missing']",0.75,,Q007595,6,6
+11122,Q007595.6.7,šarrūtiya[kingship]N,LUGAL-ti-ia],šarrūtiya,šarrūtu,kingship,N,"['𒈗', '𒋾', '𒅀']",𒈗𒋾𒅀,[LUGAL-ti-ia],"['missing', 'missing', 'missing']",1.0,,Q007595,6,7
+11123,Q007595.7.1,n,10,,,,n,['𒌋'],𒌋,10,['complete'],0.0,NUMBER,Q007595,7,1
+11124,Q007595.7.2,x,UŠ,,,,,['𒍑'],𒍑,UŠ,['complete'],0.0,,Q007595,7,2
+11125,Q007595.7.3,ūmu[day]N,u₄-mu,ūmu,ūmu,day,N,"['𒌓', '𒈬']",𒌓𒈬,u₄-mu,"['complete', 'complete']",0.0,,Q007595,7,3
+11126,Q007595.7.4,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q007595,7,4
+11127,Q007595.7.5,alāki[going]'N,a-la-ki,alāki,alāku,going,V,"['𒀀', '𒆷', '𒆠']",𒀀𒆷𒆠,a-la-ki,"['complete', 'complete', 'complete']",0.0,,Q007595,7,5
+11128,Q007595.7.6,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007595,7,6
+11129,Q007595.7.7,n,18,,,,n,['𒌋𒐍'],𒌋𒐍,18,['complete'],0.0,NUMBER,Q007595,7,7
+11130,Q007595.7.8,nēšī[lion]N,UR.MAH.MEŠ,nēšī,nēšu,lion,N,"['𒌨', '𒈤', '𒎌']",𒌨𒈤𒎌,UR.MAH.MEŠ,"['complete', 'complete', 'complete']",0.0,,Q007595,7,8
+11131,Q007595.7.9,nadrūti[raging]AJ,⸢na⸣-ad-ru-ti,nadrūti,nadru,raging,AJ,"['𒈾', '𒀜', '𒊒', '𒋾']",𒈾𒀜𒊒𒋾,⸢na⸣-ad-ru-ti,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q007595,7,9
+11132,Q007595.7.10,uzzašunu[anger]N,uz-za-šu₂-nu,uzzašunu,uzzu,anger,N,"['𒊻', '𒍝', '𒋙', '𒉡']",𒊻𒍝𒋙𒉡,uz-za-šu₂-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,7,10
+11133,Q007595.7.11,ušapših[pacify]V,⸢u₂⸣-[šap-ši-ih,ušapših,pašāhu,pacify,V,"['𒌑', '𒉺𒅁', '𒅆', '𒄴']",𒌑𒉺𒅁𒅆𒄴,⸢u₂⸣-[šap-ši-ih],"['damaged', 'missing', 'missing', 'missing']",0.88,,Q007595,7,11
+11134,Q007595.7.12,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,7,12
+11135,Q007595.8.1,pagrīšunu[corpse]N,ADDA.MEŠ-šu₂-nu,pagrīšunu,pagru,corpse,N,"['𒇿', '𒎌', '𒋙', '𒉡']",𒇿𒎌𒋙𒉡,ADDA.MEŠ-šu₂-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,8,1
+11136,Q007595.8.2,mehret[opposite]'PRP,me₂-eh-ret,mehret,mehretu,opposite,N,"['𒈪', '𒄴', '𒈩']",𒈪𒄴𒈩,me₂-eh-ret,"['complete', 'complete', 'complete']",0.0,,Q007595,8,2
+11137,Q007595.8.3,ahāmeš[one another]RP,a-⸢ha-meš,ahāmeš,ahāmiš,one another,RP,"['𒀀', '𒄩', '𒎌']",𒀀𒄩𒎌,a-⸢ha-meš⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007595,8,3
+11138,Q007595.8.4,addi[place]V,ad⸣-di,addi,nadû,place,V,"['𒀜', '𒁲']",𒀜𒁲,⸢ad⸣-di,"['damaged', 'complete']",0.25,,Q007595,8,4
+11139,Q007595.8.5,gurunniš[into a heap]AV,gu-ru-⸢un⸣-[niš,gurunniš,qurunniš,into a heap,AV,"['𒄖', '𒊒', '𒌦', '𒎙']",𒄖𒊒𒌦𒎙,gu-ru-⸢un⸣-[niš],"['complete', 'complete', 'damaged', 'missing']",0.38,,Q007595,8,5
+11140,Q007595.8.6,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,8,6
+11141,Q007595.9.1,dāmīšunu[blood]N,UŠ₂.MEŠ-šu₂-nu,dāmīšunu,dāmu,blood,N,"['𒍗', '𒎌', '𒋙', '𒉡']",𒍗𒎌𒋙𒉡,UŠ₂.MEŠ-šu₂-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,9,1
+11142,Q007595.9.2,ušardima[cause to flow out]V,⸢u₂⸣-šar-di-ma,ušardima,redû,cause to flow out,V,"['𒌑', '𒊬', '𒁲', '𒈠']",𒌑𒊬𒁲𒈠,⸢u₂⸣-šar-di-ma,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q007595,9,2
+11143,Q007595.9.3,urqīt[vegetation]N,ur-⸢qi₂-it⸣,urqīt,urqītu,vegetation,N,"['𒌨', '𒆠', '𒀉']",𒌨𒆠𒀉,ur-⸢qi₂-it⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007595,9,3
+11144,Q007595.9.4,ṣēri[open country]N,EDIN,ṣēri,ṣēru,open country,N,['𒂔'],𒂔,EDIN,['complete'],0.0,,Q007595,9,4
+11145,Q007595.9.5,kīma[like]PRP,GIM,kīma,kīma,like,PRP,['𒁶'],𒁶,GIM,['complete'],0.0,,Q007595,9,5
+11146,Q007595.9.6,u,⸢na⸣-[...],,,,u,"['𒈾', 'x']",𒈾x,⸢na⸣-[x],"['damaged', 'missing']",0.75,,Q007595,9,6
+11147,Q007595.10.1,ašar[place]N,a-šar,ašar,ašru,place,N,"['𒀀', '𒊬']",𒀀𒊬,a-šar,"['complete', 'complete']",0.0,,Q007595,10,1
+11148,Q007595.10.2,nēšī[lion]N,UR.MAH.MEŠ,nēšī,nēšu,lion,N,"['𒌨', '𒈤', '𒎌']",𒌨𒈤𒎌,UR.MAH.MEŠ,"['complete', 'complete', 'complete']",0.0,,Q007595,10,2
+11149,Q007595.10.3,šunūti[those]IP,šu₂-nu-ti,šunūti,šunūti,those,IP,"['𒋙', '𒉡', '𒋾']",𒋙𒉡𒋾,šu₂-nu-ti,"['complete', 'complete', 'complete']",0.0,,Q007595,10,3
+11150,Q007595.10.4,adūku[kill]V,a-du-ku,adūku,dâku,kill,V,"['𒀀', '𒁺', '𒆪']",𒀀𒁺𒆪,a-du-ku,"['complete', 'complete', 'complete']",0.0,,Q007595,10,4
+11151,Q007595.10.5,x,u₂-šal-x,,,,,"['𒌑', '𒊩', 'x']",𒌑𒊩x,u₂-šal-x,"['complete', 'complete', 'complete']",0.0,,Q007595,10,5
+11152,Q007595.10.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,10,6
+11153,Q007595.11.1,eqlu[field]N,A.ŠA₃,eqlu,eqlu,field,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,,Q007595,11,1
+11154,Q007595.11.2,annû[this]DP,an-nu-u,annû,annû,this,DP,"['𒀭', '𒉡', '𒌋']",𒀭𒉡𒌋,an-nu-u,"['complete', 'complete', 'complete']",0.0,,Q007595,11,2
+11155,Q007595.11.3,ša[that]REL,ša,ša,ša,that,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007595,11,3
+11156,Q007595.11.4,nišī[people]N,UN.MEŠ,nišī,nišu,people,N,"['𒌦', '𒎌']",𒌦𒎌,UN.MEŠ,"['complete', 'complete']",0.0,,Q007595,11,4
+11157,Q007595.11.5,ēkalliya[palace]N,E₂.GAL-ia,ēkalliya,ēkallu,palace,N,"['𒂍', '𒃲', '𒅀']",𒂍𒃲𒅀,E₂.GAL-ia,"['complete', 'complete', 'complete']",0.0,,Q007595,11,5
+11158,Q007595.11.6,šū[he]IP,šu-u₂,šū,šū,he,IP,"['𒋗', '𒌑']",𒋗𒌑,šu-u₂,"['complete', 'complete']",0.0,,Q007595,11,6
+11159,Q007595.11.7,nēšī[lion]N,UR.⸢MAH⸣.[(MEŠ),nēšī,nēšu,lion,N,"['𒌨', '𒈤', '𒎌']",𒌨𒈤𒎌,UR.⸢MAH⸣.[MEŠ],"['complete', 'damaged', 'missing']",0.5,,Q007595,11,7
+11160,Q007595.11.8,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,11,8
+11161,Q007595.12.1,eqlu[field]N,A.ŠA₃,eqlu,eqlu,field,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,,Q007595,12,1
+11162,Q007595.12.2,šuātu[that]IP,šu-⸢a-tu⸣,šuātu,šuāti,that,IP,"['𒋗', '𒀀', '𒌅']",𒋗𒀀𒌅,šu-⸢a-tu⸣,"['complete', 'damaged', 'damaged']",0.33,,Q007595,12,2
+11163,Q007595.12.3,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007595,12,3
+11164,Q007595.12.4,Mullissu[1]DN,{d}NIN.LIL₂,Mullissu,Mullissu,1,DN,"['𒀭', '𒎏', '𒆤']",𒀭𒎏𒆤,{d}NIN.LIL₂,"['complete', 'complete', 'complete']",0.0,DN,Q007595,12,4
+11165,Q007595.12.5,āšibat[inhabitant]N,a-ši-bat,āšibat,wāšibu,inhabitant,N,"['𒀀', '𒅆', '𒁁']",𒀀𒅆𒁁,a-ši-bat,"['complete', 'complete', 'complete']",0.0,,Q007595,12,5
+11166,Q007595.12.6,Ninua[Nineveh]SN,NINA{ki},Ninua,Ninua,Nineveh,SN,"['𒀏', '𒆠']",𒀏𒆠,NINA{KI},"['complete', 'complete']",0.0,,Q007595,12,6
+11167,Q007595.12.7,ša[that]REL,ša,ša,ša,that,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q007595,12,7
+11168,Q007595.12.8,tarammu[love]V,ta-ram-[mu,tarammu,râmu,love,V,"['𒋫', '𒉘', '𒈬']",𒋫𒉘𒈬,ta-ram-[mu],"['complete', 'complete', 'missing']",0.33,,Q007595,12,8
+11169,Q007595.12.9,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,12,9
+11170,Q007595.13.1,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q007595,13,1
+11171,Q007595.13.2,nadān[giving]'N,na-dan,nadān,nadānu,giving,V,"['𒈾', '𒆗']",𒈾𒆗,na-dan,"['complete', 'complete']",0.0,,Q007595,13,2
+11172,Q007595.13.3,zībēša[food offering]N,zi-be₂-e-ša₂,zībēša,zību,food offering,N,"['𒍣', '𒁉', '𒂊', '𒃻']",𒍣𒁉𒂊𒃻,zi-be₂-e-ša₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007595,13,3
+11173,Q007595.13.4,ginêša[regular offering]N,gi-ne₂-ša₂,ginêša,ginû,regular offering,N,"['𒄀', '𒉌', '𒃻']",𒄀𒉌𒃻,gi-ne₂-ša₂,"['complete', 'complete', 'complete']",0.0,,Q007595,13,4
+11174,Q007595.13.5,ṭuhhudi[providing lavishly]'N,ṭuh-hu-di,ṭuhhudi,ṭahādu,providing lavishly,V,"['𒃮', '𒄷', '𒁲']",𒃮𒄷𒁲,ṭuh-hu-di,"['complete', 'complete', 'complete']",0.0,,Q007595,13,5
+11175,Q007595.13.6,eli[over]PRP,UGU,eli,eli,over,PRP,['𒌋𒅗'],𒌋𒅗,UGU,['complete'],0.0,,Q007595,13,6
+11176,Q007595.13.7,sattukkī[regular delivery]N,sat-tuk-⸢ki⸣,sattukkī,sattukku,regular delivery,N,"['𒆳', '𒌇', '𒆠']",𒆳𒌇𒆠,sat-tuk-⸢ki⸣,"['complete', 'complete', 'damaged']",0.17,,Q007595,13,7
+11177,Q007595.13.8,ilāni[god]N,DINGIR.[MEŠ,ilāni,ilu,god,N,"['𒀭', '𒎌']",𒀭𒎌,DINGIR.[MEŠ],"['complete', 'missing']",0.5,,Q007595,13,8
+11178,Q007595.13.9,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,13,9
+11179,Q007595.14.1,enūma[when]SBJ,e-nu-ma,enūma,inūma,when,SBJ,"['𒂊', '𒉡', '𒈠']",𒂊𒉡𒈠,e-nu-ma,"['complete', 'complete', 'complete']",0.0,,Q007595,14,1
+11180,Q007595.14.2,Mullissu[1]DN,{d}NIN.LIL₂,Mullissu,Mullissu,1,DN,"['𒀭', '𒎏', '𒆤']",𒀭𒎏𒆤,{d}NIN.LIL₂,"['complete', 'complete', 'complete']",0.0,DN,Q007595,14,2
+11181,Q007595.14.3,erīš[scent]N,e-ri-iš,erīš,erīšu,scent,N,"['𒂊', '𒊑', '𒅖']",𒂊𒊑𒅖,e-ri-iš,"['complete', 'complete', 'complete']",0.0,,Q007595,14,3
+11182,Q007595.14.4,nindabê[(food) offering]N,NIDBA.MEŠ,nindabê,nindabû,(food) offering,N,"['𒉻𒀭𒈹', '𒎌']",𒉻𒀭𒈹𒎌,NIDBA.MEŠ,"['complete', 'complete']",0.0,,Q007595,14,4
+11183,Q007595.14.5,Nisaba[1]DN,{⸢d}nisaba⸣,Nisaba,Nisaba,1,DN,"['𒀭', '𒊺𒉀']",𒀭𒊺𒉀,{⸢d⸣}⸢nisaba⸣,"['damaged', 'damaged']",0.5,DN,Q007595,14,5
+11184,Q007595.14.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,14,6
+11185,Q007595.15.1,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q007595,15,1
+11186,Q007595.15.2,nadān[giving]'N,na-dan,nadān,nadānu,giving,V,"['𒈾', '𒆗']",𒈾𒆗,na-dan,"['complete', 'complete']",0.0,,Q007595,15,2
+11187,Q007595.15.3,sattukkēšu[regular delivery]N,sat-tuk-ke-e-šu₂,sattukkēšu,sattukku,regular delivery,N,"['𒆳', '𒌇', '𒆠', '𒂊', '𒋙']",𒆳𒌇𒆠𒂊𒋙,sat-tuk-ke-e-šu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q007595,15,3
+11188,Q007595.15.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,15,4
+11189,Q007595.15.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,15,5
+11190,Q007595.15.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,15,6
+11191,Q007595.16.1,līliṣ[rejoice]V,li-li-iṣ,līliṣ,elēṣu,rejoice,V,"['𒇷', '𒇷', '𒄑']",𒇷𒇷𒄑,li-li-iṣ,"['complete', 'complete', 'complete']",0.0,,Q007595,16,1
+11192,Q007595.16.2,libbaša[heart]N,lib₃-⸢ba⸣-[ša₂,libbaša,libbu,heart,N,"['𒊮', '𒁀', '𒃻']",𒊮𒁀𒃻,lib₃-⸢ba⸣-[ša₂],"['complete', 'damaged', 'missing']",0.5,,Q007595,16,2
+11193,Q007595.16.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,16,3
+11194,Q007595.17.1,u,[x],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,17,1
+11195,Q007595.17.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,17,2
+11196,Q007595.17.3,hadîš[happily]AV,⸢ha⸣-diš,hadîš,hadîš,happily,AV,"['𒄩', '𒁹']",𒄩𒁹,⸢ha⸣-diš,"['damaged', 'complete']",0.25,,Q007595,17,3
+11197,Q007595.17.4,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q007595,17,4
+11198,Q007595.17.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,17,5
+11199,Q007595.20.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,20,1
+11200,Q007595.20.2,X,ŠA₂,,,,X,['𒃻'],𒃻,ŠA₂,['complete'],0.0,,Q007595,20,2
+11201,Q007595.20.3,X,⸢TIR⸣,,,,X,['𒌁'],𒌁,⸢TIR⸣,['damaged'],0.5,,Q007595,20,3
+11202,Q007595.20.4,x,GIŠ,,,,,['𒄑'],𒄑,GIŠ,['complete'],0.0,,Q007595,20,4
+11203,Q007595.20.5,X,SI,,,,X,['𒋛'],𒋛,SI,['complete'],0.0,,Q007595,20,5
+11204,Q007595.20.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,20,6
+11205,Q007595.21.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,21,1
+11206,Q007595.21.2,X,ŠI,,,,X,['𒅆'],𒅆,ŠI,['complete'],0.0,,Q007595,21,2
+11207,Q007595.21.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007595,21,3
+11208,Q007595.21.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007595,21,4

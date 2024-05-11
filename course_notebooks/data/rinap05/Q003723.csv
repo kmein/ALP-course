@@ -1,0 +1,10 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+64018,Q003723.1.1,Birat-Adad-remanni[1]SN,{uru}HAL.ṢU-{m}{d}IŠKUR-rem₂-a-ni,Birat-Adad-remanni,Birtu-ša-Adad-remanni,1,SN,"['𒌷', '𒄬', '𒍮', '𒁹', '𒀭', '𒅎', '𒀖', '𒀀', '𒉌']",𒌷𒄬𒍮𒁹𒀭𒅎𒀖𒀀𒉌,{URU}HAL.ṢU-{m}{d}IŠKUR-rem₂-a-ni,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003723,1,1
+64019,Q003723.1.2,ša[that]REL,ša₂,ša,ša,that,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003723,1,2
+64020,Q003723.1.3,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003723,1,3
+64021,Q003723.1.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003723,1,4
+64022,Q003723.2.1,Mannayu[Mannean]EN$Mannaya,man-na-a-a,Mannaya,Mannayu,Mannean,EN,"['𒎙', '𒈾', '𒀀', '𒀀']",𒎙𒈾𒀀𒀀,man-na-a-a,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003723,2,1
+64023,Q003723.2.2,akšud[conquer]V,KUR-ud,akšud,kašādu,conquer,V,"['𒆳', '𒌓']",𒆳𒌓,KUR-ud,"['complete', 'complete']",0.0,,Q003723,2,2
+64024,Q003723.2.3,ašlula[carry off]V,aš₂-lu-la,ašlula,šalālu,carry off,V,"['𒀾', '𒇻', '𒆷']",𒀾𒇻𒆷,aš₂-lu-la,"['complete', 'complete', 'complete']",0.0,,Q003723,2,3
+64025,Q003723.2.4,šallatsu[booty]N,[šal-lat-su,šallatsu,šallatu,booty,N,"['𒊩', '𒆳', '𒋢']",𒊩𒆳𒋢,[šal-lat-su],"['missing', 'missing', 'missing']",1.0,,Q003723,2,4
+64026,Q003723.2.5,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003723,2,5

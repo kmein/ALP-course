@@ -1,0 +1,29 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+62992,Q007638.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007638,7,1
+62993,Q007638.7.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007638,7,2
+62994,Q007638.7.3,šamê[heaven]N,AN,šamê,šamû,heaven,N,['𒀭'],𒀭,AN,['complete'],0.0,,Q007638,7,3
+62995,Q007638.7.4,ṣerru[snake]N,⸢MUŠ⸣,ṣerru,ṣerru,snake,N,['𒈲'],𒈲,⸢MUŠ⸣,['damaged'],0.5,,Q007638,7,4
+62996,Q007638.7.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007638,7,5
+62997,Q007638.7.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007638,7,6
+62998,Q007638.8.1,ina[at]PRP,[ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q007638,8,1
+62999,Q007638.8.2,ūmēšu[day]N,u₄]-⸢me-šu₂⸣,ūmēšu,ūmu,day,N,"['𒌓', '𒈨', '𒋙']",𒌓𒈨𒋙,[u₄]-⸢me-šu₂⸣,"['missing', 'damaged', 'damaged']",0.67,,Q007638,8,2
+63000,Q007638.8.3,Emeslam[1]TN,e₂-mes-lam,Emeslam,Emeslam,1,TN,"['𒂍', '𒈩', '𒇴']",𒂍𒈩𒇴,e₂-mes-lam,"['complete', 'complete', 'complete']",0.0,,Q007638,8,3
+63001,Q007638.8.4,ša[that]REL,[ša,ša,ša,that,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,Q007638,8,4
+63002,Q007638.8.5,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,[LUGAL],['missing'],1.0,,Q007638,8,5
+63003,Q007638.8.6,pāni[past]N,pa-ni,pāni,pānu,past,N,"['𒉺', '𒉌']",𒉺𒉌,[pa-ni],"['missing', 'missing']",1.0,,Q007638,8,6
+63004,Q007638.8.7,mahriya[front]N,mah-ri-ia],mahriya,mahru,front,N,"['𒈤', '𒊑', '𒅀']",𒈤𒊑𒅀,[mah-ri-ia],"['missing', 'missing', 'missing']",1.0,,Q007638,8,7
+63005,Q007638.9.1,ēpušu[build]V,[e]-⸢pu⸣-šu₂,ēpušu,epēšu,build,V,"['𒂊', '𒁍', '𒋙']",𒂊𒁍𒋙,[e]-⸢pu⸣-šu₂,"['missing', 'damaged', 'complete']",0.5,,Q007638,9,1
+63006,Q007638.9.2,illiku[go]V,il-li-⸢ku⸣,illiku,alāku,go,V,"['𒅋', '𒇷', '𒆪']",𒅋𒇷𒆪,il-li-⸢ku⸣,"['complete', 'complete', 'damaged']",0.17,,Q007638,9,2
+63007,Q007638.9.3,labāriš[to become old]AV,[la-ba-riš],labāriš,labāriš,to become old,AV,"['𒆷', '𒁀', '𒊕']",𒆷𒁀𒊕,[la-ba-riš],"['missing', 'missing', 'missing']",1.0,,Q007638,9,3
+63008,Q007638.10.1,anhūssu[dilapidated section(s)]N,[an-hu]-us-su,anhūssu,anhūtu,dilapidated section(s),N,"['𒀭', '𒄷', '𒊻', '𒋢']",𒀭𒄷𒊻𒋢,[an-hu]-us-su,"['missing', 'missing', 'complete', 'complete']",0.5,,Q007638,10,1
+63009,Q007638.10.2,uddiš[renovate]V,ud-diš,uddiš,edēšu,renovate,V,"['𒌓', '𒁹']",𒌓𒁹,ud-diš,"['complete', 'complete']",0.0,,Q007638,10,2
+63010,Q007638.10.3,miqittašu[collapse]N,⸢mi⸣-[qit-ta-šu₂,miqittašu,miqittu,collapse,N,"['𒈪', '𒆤', '𒋫', '𒋙']",𒈪𒆤𒋫𒋙,⸢mi⸣-[qit-ta-šu₂],"['damaged', 'missing', 'missing', 'missing']",0.88,,Q007638,10,3
+63011,Q007638.10.4,adke[remove]V,ad-ke],adke,dekû,remove,V,"['𒀜', '𒆠']",𒀜𒆠,[ad-ke],"['missing', 'missing']",1.0,,Q007638,10,4
+63012,Q007638.11.1,ina[in]PRP,[ina,ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q007638,11,1
+63013,Q007638.11.2,nalbanat[brick mould]N,{giš]}⸢U₃⸣.ŠUB,nalbanat,nalbattu,brick mould,N,"['𒄑', '𒅇', '𒊒']",𒄑𒅇𒊒,{[GIŠ]}⸢U₃⸣.ŠUB,"['missing', 'damaged', 'complete']",0.5,,Q007638,11,2
+63014,Q007638.11.3,ušî[ebony]N,{giš}ESI,ušî,ušû,ebony,N,"['𒄑', '𒆗']",𒄑𒆗,{GIŠ}ESI,"['complete', 'complete']",0.0,,Q007638,11,3
+63015,Q007638.11.4,musukkanni[Dalbergia sissoo]N,{[giš}MES.MA₂.KAN.NA],musukkanni,musukkannu,Dalbergia sissoo,N,"['𒄑', '𒈩', '𒈣', '𒃶', '𒈾']",𒄑𒈩𒈣𒃶𒈾,{[GIŠ]}[MES].[MA₂].[KAN].[NA],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,Q007638,11,4
+63016,Q007638.12.1,hibišti[crushed pieces (of aromatic wood)]N,[hi]-⸢biš-ti,hibišti,hibištu,crushed pieces (of aromatic wood),N,"['𒄭', '𒄫', '𒋾']",𒄭𒄫𒋾,[hi]-⸢biš-ti⸣,"['missing', 'damaged', 'damaged']",0.67,,Q007638,12,1
+63017,Q007638.12.2,riqqī[aromatic substance]N,ŠIM⸣.[HI.A,riqqī,rīqu,aromatic substance,N,"['𒋆', '𒄭', '𒀀']",𒋆𒄭𒀀,⸢ŠIM⸣.[HI].[A],"['damaged', 'missing', 'missing']",0.83,,Q007638,12,2
+63018,Q007638.12.3,libnāti[mudbrick]N,SIG₅.HI.A-šu₂,libnāti,libittu,mudbrick,N,"['𒅆𒂟', '𒄭', '𒀀', '𒋙']",𒅆𒂟𒄭𒀀𒋙,[SIG₅].[HI].[A-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q007638,12,3
+63019,Q007638.12.4,albin[make bricks]V,al-bi-in],albin,labānu,make bricks,V,"['𒀠', '𒁉', '𒅔']",𒀠𒁉𒅔,[al-bi-in],"['missing', 'missing', 'missing']",1.0,,Q007638,12,4

@@ -1,0 +1,14 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+11226,Q003735.1.1,u,{m}($blank$),,,,u,['𒁹'],𒁹,{m},['complete'],0.0,,Q003735,1,1
+11227,Q003735.1.2,u,{m}($blank$),,,,u,['𒁹'],𒁹,{m},['complete'],0.0,,Q003735,1,2
+11228,Q003735.1.3,eli[against]PRP,UGU,eli,eli,against,PRP,['𒌋𒅗'],𒌋𒅗,UGU,['complete'],0.0,,Q003735,1,3
+11229,Q003735.1.4,Aššur[1]DN,AN.⸢ŠAR₂⸣,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.⸢ŠAR₂⸣,"['complete', 'damaged']",0.25,DN,Q003735,1,4
+11230,Q003735.2.1,ili[god]N,DINGIR,ili,ilu,god,N,['𒀭'],𒀭,DINGIR,['complete'],0.0,,Q003735,2,1
+11231,Q003735.2.2,bānîya[creator]N,ba-ni-ia,bānîya,bānû,creator,N,"['𒁀', '𒉌', '𒅀']",𒁀𒉌𒅀,ba-ni-ia,"['complete', 'complete', 'complete']",0.0,,Q003735,2,2
+11232,Q003735.2.3,iqbû[say]V,iq-bu-u₂,iqbû,qabû,say,V,"['𒅅', '𒁍', '𒌑']",𒅅𒁍𒌑,iq-bu-u₂,"['complete', 'complete', 'complete']",0.0,,Q003735,2,3
+11233,Q003735.2.4,šillatu[impudence//iniquity]N'N$sillatu,sil-la-tu₂,sillatu,šillatu,iniquity,N,"['𒋻', '𒆷', '𒌓']",𒋻𒆷𒌓,sil-la-tu₂,"['complete', 'complete', 'complete']",0.0,,Q003735,2,4
+11234,Q003735.2.5,rabītu[large]AJ,GAL-tu,rabītu,rabû,large,AJ,"['𒃲', '𒌅']",𒃲𒌅,GAL-tu,"['complete', 'complete']",0.0,,Q003735,2,5
+11235,Q003735.3.1,lišānu[tongue]N$lišāššunu,EME-šu₂-nu,lišāššunu,lišānu,tongue,N,"['𒅴', '𒋙', '𒉡']",𒅴𒋙𒉡,EME-šu₂-nu,"['complete', 'complete', 'complete']",0.0,,Q003735,3,1
+11236,Q003735.3.2,šalāpu[pull out]V$ašlup,aš₂-lu-up,ašlup,šalāpu,pull out,V,"['𒀾', '𒇻', '𒌒']",𒀾𒇻𒌒,aš₂-lu-up,"['complete', 'complete', 'complete']",0.0,,Q003735,3,2
+11237,Q003735.3.3,šahāṭu[tear away//tear off]V'V$ašhuṭa,aš-hu-ṭa,ašhuṭa,šahāṭu,tear off,V,"['𒀸', '𒄷', '𒁕']",𒀸𒄷𒁕,aš-hu-ṭa,"['complete', 'complete', 'complete']",0.0,,Q003735,3,3
+11238,Q003735.3.4,mašku[skin]N$mašakšun,KUŠ-šu₂-un,mašakšun,mašku,skin,N,"['𒋢', '𒋙', '𒌦']",𒋢𒋙𒌦,KUŠ-šu₂-un,"['complete', 'complete', 'complete']",0.0,,Q003735,3,4

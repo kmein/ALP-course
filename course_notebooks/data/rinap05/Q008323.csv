@@ -1,0 +1,37 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+25275,Q008323.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,2,1
+25276,Q008323.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,2,2
+25277,Q008323.2.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,2,3
+25278,Q008323.2.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,2,4
+25279,Q008323.2.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,2,5
+25280,Q008323.2.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,2,6
+25281,Q008323.3.1,u,[...]-u₂,,,,u,"['x', '𒌑']",x𒌑,[x]u₂,"['missing', 'complete']",0.5,,Q008323,3,1
+25282,Q008323.3.2,aškuna[establish]V,aš₂-ku-na,aškuna,šakānu,establish,V,"['𒀾', '𒆪', '𒈾']",𒀾𒆪𒈾,aš₂-ku-na,"['complete', 'complete', 'complete']",0.0,,Q008323,3,2
+25283,Q008323.3.3,tahtâšun[defeat]N,tah-⸢ta⸣-[šu₂-un,tahtâšun,tahtû,defeat,N,"['𒈭', '𒋫', '𒋙', '𒌦']",𒈭𒋫𒋙𒌦,tah-⸢ta⸣-[šu₂-un],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q008323,3,3
+25284,Q008323.3.4,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,3,4
+25285,Q008323.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,4,1
+25286,Q008323.4.2,Šušan[Susa]SN,{⸢uru⸣}šu-ša₂-an,Šušan,Šušan,Susa,SN,"['𒌷', '𒋗', '𒃻', '𒀭']",𒌷𒋗𒃻𒀭,{⸢URU⸣}šu-ša₂-an,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q008323,4,2
+25287,Q008323.4.3,ušahrib[devastate]V,u₂-šah-⸢rib⸣,ušahrib,harābu,devastate,V,"['𒌑', '𒋚', '𒆗']",𒌑𒋚𒆗,u₂-šah-⸢rib⸣,"['complete', 'complete', 'damaged']",0.17,,Q008323,4,3
+25288,Q008323.4.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,4,4
+25289,Q008323.5.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q008323,5,1
+25290,Q008323.5.2,Nanaya[1]DN,{d}na-na-a,Nanaya,Nanaya,1,DN,"['𒀭', '𒈾', '𒈾', '𒀀']",𒀭𒈾𒈾𒀀,{[d]}[na-na-a],"['missing', 'missing', 'missing', 'missing']",1.0,DN,Q008323,5,2
+25291,Q008323.5.3,Uṣur-amassa[1]DN,{d}URU₃-INIM-sa,Uṣur-amatsa,Uṣur-amassa,1,DN,"['𒀭', '𒌶', '𒅗', '𒊓']",𒀭𒌶𒅗𒊓,{[d]}[URU₃-INIM-sa],"['missing', 'missing', 'missing', 'missing']",1.0,DN,Q008323,5,3
+25292,Q008323.5.4,Arkayitu[1]DN,{d]}⸢ar⸣-ka-a-a-i-tu,Arkayitu,Urkayitu,1,DN,"['𒀭', '𒅈', '𒅗', '𒀀', '𒀀', '𒄿', '𒌅']",𒀭𒅈𒅗𒀀𒀀𒄿𒌅,{[d]}⸢ar⸣-ka-a-a-i-tu,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete', 'complete']",0.21,DN,Q008323,5,4
+25293,Q008323.5.5,ša[that]REL,ša₂,ša,ša,that,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q008323,5,5
+25294,Q008323.5.6,ultu[from]PRP,⸢ul⸣-[tu,ultu,ištu,from,PRP,"['𒌌', '𒌅']",𒌌𒌅,⸢ul⸣-[tu],"['damaged', 'missing']",0.75,,Q008323,5,6
+25295,Q008323.5.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,5,7
+25296,Q008323.6.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q008323,6,1
+25297,Q008323.6.2,ušēriba[make enter]V,u₂-še]-⸢ri⸣-ba,ušēriba,erēbu,make enter,V,"['𒌑', '𒊺', '𒊑', '𒁀']",𒌑𒊺𒊑𒁀,[u₂-še]-⸢ri⸣-ba,"['missing', 'missing', 'damaged', 'complete']",0.62,,Q008323,6,2
+25298,Q008323.6.3,Eanna[1]TN,e₂-an-na,Eanna,Eanna,1,TN,"['𒂍', '𒀭', '𒈾']",𒂍𒀭𒈾,e₂-an-na,"['complete', 'complete', 'complete']",0.0,,Q008323,6,3
+25299,Q008323.6.4,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q008323,6,4
+25300,Q008323.6.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,6,5
+25301,Q008323.7.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q008323,7,1
+25302,Q008323.7.2,mušamqitat[one who cuts down]N,mu-šam-qi₂]-⸢ta⸣-at,mušamqitat,mušamqitu,one who cuts down,N,"['𒈬', '𒌑', '𒆠', '𒋫', '𒀜']",𒈬𒌑𒆠𒋫𒀜,[mu-šam-qi₂]-⸢ta⸣-at,"['missing', 'missing', 'missing', 'damaged', 'complete']",0.7,,Q008323,7,2
+25303,Q008323.7.3,nakirīya[enemy]N,{lu₂}KUR₂.MEŠ-ia,nakirīya,nakru,enemy,N,"['𒇽', '𒉽', '𒎌', '𒅀']",𒇽𒉽𒎌𒅀,{LU₂}KUR₂.MEŠ-ia,"['complete', 'complete', 'complete', 'complete']",0.0,,Q008323,7,3
+25304,Q008323.7.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,7,4
+25305,Q008323.8.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,8,1
+25306,Q008323.8.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,8,2
+25307,Q008323.8.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,8,3
+25308,Q008323.8.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,8,4
+25309,Q008323.8.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008323,8,5
+25310,Q008323.8.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008323,8,6

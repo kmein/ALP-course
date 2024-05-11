@@ -1,0 +1,24 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+30906,Q003860.1.1,Enlil[1]DN,{[d}en-lil₂],,Enlil,1,DN,"['𒀭', '𒂗', '𒆤']",𒀭𒂗𒆤,{[d]}[en-lil₂],"['missing', 'missing', 'missing']",1.0,DN,Q003860,1,1
+30907,Q003860.2.1,lugal[king]N,[lugal,,lugal,king,N,['𒈗'],𒈗,[lugal],['missing'],1.0,,Q003860,2,1
+30908,Q003860.2.2,"kur[land, country]N",kur]-⸢kur⸣-[ra],,kur,"land, country",N,"['𒆳', '𒆳', '𒊏']",𒆳𒆳𒊏,[kur]-⸢kur⸣-[ra],"['missing', 'damaged', 'missing']",0.83,,Q003860,2,2
+30909,Q003860.3.1,lugal[king]N,[lugal-a]-ni-ir,,lugal,king,N,"['𒈗', '𒀀', '𒉌', '𒅕']",𒈗𒀀𒉌𒅕,[lugal-a]-ni-ir,"['missing', 'missing', 'complete', 'complete']",0.5,,Q003860,3,1
+30910,Q003860.4.1,Aššur-etel-ilani[king of Assyria]RN,[AN].⸢ŠAR₂⸣-e-tel-lu₄-DINGIR.MEŠ,Aššur-etel-ilani,Aššur-etel-ilani,king of Assyria,RN,"['𒀭', '𒊹', '𒂊', '𒌀', '𒈝', '𒀭', '𒎌']",𒀭𒊹𒂊𒌀𒈝𒀭𒎌,[AN].⸢ŠAR₂⸣-e-tel-lu₄-DINGIR.MEŠ,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete', 'complete']",0.21,RN,Q003860,4,1
+30911,Q003860.5.1,sipad[shepherd]N,⸢sipa⸣,,sipad,shepherd,N,['𒉺𒇻'],𒉺𒇻,⸢sipa⸣,['damaged'],0.5,,Q003860,5,1
+30912,Q003860.5.2,"šeg[agree]V/t/še#~;a,bi",še-ga-bi,,šeg,agree,V/t,"['𒊺', '𒂵', '𒁉']",𒊺𒂵𒁉,še-ga-bi,"['complete', 'complete', 'complete']",0.0,,Q003860,5,2
+30913,Q003860.6.1,ua[provisioner]N,u₂-a,,ua,provisioner,N,"['𒌑', '𒀀']",𒌑𒀀,u₂-a,"['complete', 'complete']",0.0,,Q003860,6,1
+30914,Q003860.6.2,Nippur[1]SN,nibru{ki},,Nippur,1,SN,"['𒂗𒆤', '𒆠']",𒂗𒆤𒆠,nibru{KI},"['complete', 'complete']",0.0,,Q003860,6,2
+30915,Q003860.7.1,"saŋus[(to be) constant, regular]V/i",sag-us₂,,saŋus,"(to be) constant, regular",V/i,"['𒊕', '𒍑']",𒊕𒍑,sag-us₂,"['complete', 'complete']",0.0,,Q003860,7,1
+30916,Q003860.7.2,Ekur[1]TN,e₂-kur-ra,,Ekur,1,TN,"['𒂍', '𒆳', '𒊏']",𒂍𒆳𒊏,e₂-kur-ra,"['complete', 'complete', 'complete']",0.0,,Q003860,7,2
+30917,Q003860.8.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q003860,8,1
+30918,Q003860.8.2,"kalag[(to be) strong, powerful, mighty]V/i",kalag-ga,,kalag,"(to be) strong, powerful, mighty",V/i,"['𒆗', '𒂵']",𒆗𒂵,kalag-ga,"['complete', 'complete']",0.0,,Q003860,8,2
+30919,Q003860.9.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q003860,9,1
+30920,Q003860.9.2,anubda[quarter]N,ub-da,,anubda,quarter,N,"['𒌒', '𒁕']",𒌒𒁕,ub-da,"['complete', 'complete']",0.0,,Q003860,9,2
+30921,Q003860.9.3,limmu[four]NU,limmu₂-ba,,limmu,four,NU,"['𒇹', '𒁀']",𒇹𒁀,limmu₂-ba,"['complete', 'complete']",0.0,,Q003860,9,3
+30922,Q003860.10.1,Ekur[1]TN,e₂-kur-ra,,Ekur,1,TN,"['𒂍', '𒆳', '𒊏']",𒂍𒆳𒊏,e₂-kur-ra,"['complete', 'complete', 'complete']",0.0,,Q003860,10,1
+30923,Q003860.11.1,e[house]N,e₂,,e,house,N,['𒂍'],𒂍,e₂,['complete'],0.0,,Q003860,11,1
+30924,Q003860.11.2,"ki[ground, earth, land]N",ki,,ki,"ground, earth, land",N,['𒆠'],𒆠,ki,['complete'],0.0,,Q003860,11,2
+30925,Q003860.11.3,aŋ[to measure]V/t,ag₂-ga₂-a-ni,,aŋ,to measure,V/t,"['𒉘', '𒂷', '𒀀', '𒉌']",𒉘𒂷𒀀𒉌,ag₂-ga₂-a-ni,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003860,11,3
+30926,Q003860.12.1,"šeg[brick, mudbrick]N",sig₄,,šeg,"brick, mudbrick",N,['𒋞'],𒋞,sig₄,['complete'],0.0,,Q003860,12,1
+30927,Q003860.12.2,"alura[baked (of bricks)]AJ/al-ur₃-ra#~,ta",al-ur₃-ra-ta,,alura,baked (of bricks),AJ,"['𒀠', '𒃡', '𒊏', '𒋫']",𒀠𒃡𒊏𒋫,al-ur₃-ra-ta,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003860,12,2
+30928,Q003860.13.1,du[build]V/t,mu-un-na-du₃,,du,build,V/t,"['𒈬', '𒌦', '𒈾', '𒆕']",𒈬𒌦𒈾𒆕,mu-un-na-du₃,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003860,13,1

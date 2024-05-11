@@ -1,0 +1,17 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+16434,Q008324.7.1,Nanaya[1]DN,{d}⸢na⸣-[na-a],Nanaya,Nanaya,1,DN,"['𒀭', '𒈾', '𒈾', '𒀀']",𒀭𒈾𒈾𒀀,{d}⸢na⸣-[na-a],"['complete', 'damaged', 'missing', 'missing']",0.62,DN,Q008324,7,1
+16435,Q008324.8.1,Uṣur-amatsa[1]DN,{d}u₂-⸢ṣur-a⸣-[mat-sa],Uṣur-amatsa,Uṣur-amassa,1,DN,"['𒀭', '𒌑', '𒀫', '𒀀', '𒆳', '𒊓']",𒀭𒌑𒀫𒀀𒆳𒊓,{d}u₂-⸢ṣur-a⸣-[mat-sa],"['complete', 'complete', 'damaged', 'damaged', 'missing', 'missing']",0.5,DN,Q008324,8,1
+16436,Q008324.9.1,Urkayitu[1]DN,{d}UNUG{ki}a-⸢a⸣-[i-tu],Urkayitu,Urkayitu,1,DN,"['𒀭', '𒀕', '𒆠', '𒀀', '𒀀', '𒄿', '𒌅']",𒀭𒀕𒆠𒀀𒀀𒄿𒌅,{d}UNUG{KI}a-⸢a⸣-[i-tu],"['complete', 'complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.36,DN,Q008324,9,1
+16437,Q008324.10.1,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q008324,10,1
+16438,Q008324.10.2,bēlūt[lordship]N,be-⸢lut⸣,bēlūt,bēlūtu,lordship,N,"['𒁁', '𒂁']",𒁁𒂁,be-⸢lut⸣,"['complete', 'damaged']",0.25,,Q008324,10,2
+16439,Q008324.10.3,māti[land]N,[KUR],māti,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q008324,10,3
+16440,Q008324.11.1,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,Q008324,11,1
+16441,Q008324.11.2,nišī[people]N,[UN.MEŠ],nišī,nišu,people,N,"['𒌦', '𒎌']",𒌦𒎌,[UN].[MEŠ],"['missing', 'missing']",1.0,,Q008324,11,2
+16442,Q008324.12.1,inambû[call]V,i-⸢nam⸣-[bu-u₂,inambû,nabû,call,V,"['𒄿', '𒉆', '𒁍', '𒌑']",𒄿𒉆𒁍𒌑,i-⸢nam⸣-[bu-u₂],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q008324,12,1
+16443,Q008324.12.2,šumšu[name]N,MU-šu₂],šumšu,šumu,name,N,"['𒈬', '𒋙']",𒈬𒋙,[MU-šu₂],"['missing', 'missing']",1.0,,Q008324,12,2
+16444,Q008324.16.1,ša[that]REL,[(ša,ša,ša,that,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,Q008324,16,1
+16445,Q008324.16.2,ina[on]PRP,ina,ina,ina,on,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q008324,16,2
+16446,Q008324.16.3,muhhi[skull]N,UGU),muhhi,muhhu,skull,N,['𒌋𒅗'],𒌋𒅗,[UGU],['missing'],1.0,,Q008324,16,3
+16447,Q008324.16.4,mušarê[(royal) inscription]N,MU.SAR]-e,mušarê,mušarû,(royal) inscription,N,"['𒈬', '𒊬', '𒂊']",𒈬𒊬𒂊,[MU].[SAR]-e,"['missing', 'missing', 'complete']",0.67,,Q008324,16,4
+16448,Q008324.17.1,ša[of]DET,[ša],ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,Q008324,17,1
+16449,Q008324.17.2,Uruk[1]SN,⸢UNUG⸣{ki},Uruk,Uruk,1,SN,"['𒀕', '𒆠']",𒀕𒆠,⸢UNUG⸣{KI},"['damaged', 'complete']",0.25,,Q008324,17,2

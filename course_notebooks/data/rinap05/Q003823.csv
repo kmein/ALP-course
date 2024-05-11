@@ -1,0 +1,46 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+60192,Q003823.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,2,1
+60193,Q003823.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,2,2
+60194,Q003823.2.3,ēmurma[see]V,⸢e-mur⸣-ma,ēmurma,amāru,see,V,"['𒂊', '𒄯', '𒈠']",𒂊𒄯𒈠,⸢e-mur⸣-ma,"['damaged', 'damaged', 'complete']",0.33,,Q003823,2,3
+60195,Q003823.2.4,x,KI,,,,,['𒆠'],𒆠,KI,['complete'],0.0,,Q003823,2,4
+60196,Q003823.2.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,2,5
+60197,Q003823.2.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,2,6
+60198,Q003823.3.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,3,1
+60199,Q003823.3.2,u,x-ma,,,,u,"['x', '𒈠']",x𒈠,x-ma,"['complete', 'complete']",0.0,,Q003823,3,2
+60200,Q003823.3.3,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q003823,3,3
+60201,Q003823.3.4,halāqi[destruction]N,ha-la-qi₂,halāqi,halāqu,destruction,V,"['𒄩', '𒆷', '𒆠']",𒄩𒆷𒆠,ha-la-qi₂,"['complete', 'complete', 'complete']",0.0,,Q003823,3,4
+60202,Q003823.3.5,u,na-bu-x,,,,u,"['𒈾', '𒁍', 'x']",𒈾𒁍x,na-bu-x,"['complete', 'complete', 'complete']",0.0,,Q003823,3,5
+60203,Q003823.3.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,3,6
+60204,Q003823.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,4,1
+60205,Q003823.4.2,šappīnatišu[boat]N,⸢šap⸣-pi-na-ti-šu₂,šappīnatišu,sapīnatu,boat,N,"['𒉺𒅁', '𒉿', '𒈾', '𒋾', '𒋙']",𒉺𒅁𒉿𒈾𒋾𒋙,⸢šap⸣-pi-na-ti-šu₂,"['damaged', 'complete', 'complete', 'complete', 'complete']",0.1,,Q003823,4,2
+60206,Q003823.4.3,ša[that]REL,ša₂,ša,ša,that,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003823,4,3
+60207,Q003823.4.4,ultu[from]PRP,ul-tu,ultu,ištu,from,PRP,"['𒌌', '𒌅']",𒌌𒌅,ul-tu,"['complete', 'complete']",0.0,,Q003823,4,4
+60208,Q003823.4.5,pān[front]N,pa-[an,pān,pānu,front,N,"['𒉺', '𒀭']",𒉺𒀭,pa-[an],"['complete', 'missing']",0.5,,Q003823,4,5
+60209,Q003823.4.6,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,4,6
+60210,Q003823.5.1,u,[...]-⸢ti⸣,,,,u,"['x', '𒋾']",x𒋾,[x]⸢ti⸣,"['missing', 'damaged']",0.75,,Q003823,5,1
+60211,Q003823.5.2,Ṣurri[Tyre]SN,{uru}ṣur-ri,Ṣurri,Ṣurru,Tyre,SN,"['𒌷', '𒀫', '𒊑']",𒌷𒀫𒊑,{URU}ṣur-ri,"['complete', 'complete', 'complete']",0.0,,Q003823,5,2
+60212,Q003823.5.3,X,PA-li-šin,,,,X,"['𒉺', '𒇷', '𒊿']",𒉺𒇷𒊿,PA-li-šin,"['complete', 'complete', 'complete']",0.0,,Q003823,5,3
+60213,Q003823.5.4,u,u₂-x,,,,u,"['𒌑', 'x']",𒌑x,u₂-x,"['complete', 'complete']",0.0,,Q003823,5,4
+60214,Q003823.5.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,5,5
+60215,Q003823.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,6,1
+60216,Q003823.6.2,ana[to]PRP,⸢ana⸣,ana,ana,to,PRP,['𒁹'],𒁹,⸢ana⸣,['damaged'],0.5,,Q003823,6,2
+60217,Q003823.6.3,mākālišunu[food]N,ma-ka-li-šu₂-nu,mākālišunu,mākālu,food,N,"['𒈠', '𒅗', '𒇷', '𒋙', '𒉡']",𒈠𒅗𒇷𒋙𒉡,ma-ka-li-šu₂-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003823,6,3
+60218,Q003823.6.4,mê[water]N,A.MEŠ,mê,mû,water,N,"['𒀀', '𒎌']",𒀀𒎌,A.MEŠ,"['complete', 'complete']",0.0,,Q003823,6,4
+60219,Q003823.6.5,ana[to]PRP,ana,ana,ana,to,PRP,['𒁹'],𒁹,ana,['complete'],0.0,,Q003823,6,5
+60220,Q003823.6.6,maštītišunu[(allowance of) drink]N,maš-⸢ti⸣-[ti-šu₂-nu,maštītišunu,maštītu,(allowance of) drink,N,"['𒈦', '𒋾', '𒋾', '𒋙', '𒉡']",𒈦𒋾𒋾𒋙𒉡,maš-⸢ti⸣-[ti-šu₂-nu],"['complete', 'damaged', 'missing', 'missing', 'missing']",0.7,,Q003823,6,6
+60221,Q003823.6.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,6,7
+60222,Q003823.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,7,1
+60223,Q003823.7.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,7,2
+60224,Q003823.7.3,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q003823,7,3
+60225,Q003823.7.4,pîšun[mouth]N,pi-i-šu₂-un,pîšun,pû,mouth,N,"['𒉿', '𒄿', '𒋙', '𒌦']",𒉿𒄿𒋙𒌦,pi-i-šu₂-un,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003823,7,4
+60226,Q003823.7.5,ušāqir[make rare]V,u₂-ša₂-⸢qir⸣,ušāqir,waqāru,make rare,V,"['𒌑', '𒃻', '𒄫']",𒌑𒃻𒄫,u₂-ša₂-⸢qir⸣,"['complete', 'complete', 'damaged']",0.17,,Q003823,7,5
+60227,Q003823.7.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,7,6
+60228,Q003823.8.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,8,1
+60229,Q003823.8.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,2
+60230,Q003823.8.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,3
+60231,Q003823.8.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,4
+60232,Q003823.8.5,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,5
+60233,Q003823.8.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,6
+60234,Q003823.8.7,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,7
+60235,Q003823.8.8,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q003823,8,8
+60236,Q003823.8.9,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003823,8,9

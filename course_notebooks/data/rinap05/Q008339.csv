@@ -1,0 +1,16 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+2483,Q008339.1.1,ana[to]PRP,[ana],ana,ana,to,PRP,['𒁹'],𒁹,[ana],['missing'],1.0,,Q008339,1,1
+2484,Q008339.1.2,Marduk[1]DN,{d}AMAR.UTU,Marduk,Marduk,1,DN,"['𒀭', '𒀫', '𒌓']",𒀭𒀫𒌓,{d}AMAR.UTU,"['complete', 'complete', 'complete']",0.0,DN,Q008339,1,2
+2485,Q008339.1.3,bēlu[lord]N$bēlišu,UMUN-šu,bēlišu,bēlu,lord,N,"['𒌋', '𒋗']",𒌋𒋗,UMUN-šu,"['complete', 'complete']",0.0,,Q008339,1,3
+2486,Q008339.1.4,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-[DU₃-A],Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-[DU₃-A],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,RN,Q008339,1,4
+2487,Q008339.2.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q008339,2,1
+2488,Q008339.2.2,"Aššur-ahu-iddina[Esarhaddon, king of Assyria]RN",{m}AN.ŠAR₂-PAP-AŠ,Aššur-ahu-iddina,Aššur-ahu-iddina,"Esarhaddon, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒉽', '𒀸']",𒁹𒀭𒊹𒉽𒀸,{m}AN.ŠAR₂-PAP-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008339,2,2
+2489,Q008339.2.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008339,2,3
+2490,Q008339.2.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q008339,2,4
+2491,Q008339.2.5,šar[king]N,[MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,Q008339,2,5
+2492,Q008339.2.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q008339,2,6
+2493,Q008339.2.7,Aššur[Assyria]GN,AŠ],Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,[AŠ],['missing'],1.0,GN,Q008339,2,7
+2494,Q008339.3.1,agurrī[baked brick]N,a-gur-ri,agurrī,agurru,baked brick,N,"['𒀀', '𒄥', '𒊑']",𒀀𒄥𒊑,a-gur-ri,"['complete', 'complete', 'complete']",0.0,,Q008339,3,1
+2495,Q008339.3.2,Etemenanki[1]TN,e₂-temen-⸢an⸣-[ki],Etemenanki,Etemenanki,1,TN,"['𒂍', '𒋼', '𒀭', '𒆠']",𒂍𒋼𒀭𒆠,e₂-temen-⸢an⸣-[ki],"['complete', 'complete', 'damaged', 'missing']",0.38,,Q008339,3,2
+2496,Q008339.4.1,eššiš[anew]AV,eš-šiš,eššiš,eššiš,anew,AV,"['𒌍', '𒋀']",𒌍𒋀,eš-šiš,"['complete', 'complete']",0.0,,Q008339,4,1
+2497,Q008339.4.2,ušēpiš[build]V,u₂-[še-piš],ušēpiš,epēšu,build,V,"['𒌑', '𒊺', '𒄫']",𒌑𒊺𒄫,u₂-[še-piš],"['complete', 'missing', 'missing']",0.67,,Q008339,4,2

@@ -1,0 +1,51 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+50056,Q003762.1.1,ēkal[palace]N,KUR,ēkal,ēkallu,palace,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003762,1,1
+50057,Q003762.1.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003762,1,2
+50058,Q003762.1.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,1,3
+50059,Q003762.1.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003762,1,4
+50060,Q003762.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,1,5
+50061,Q003762.1.6,māt[land]N,⸢KUR⸣,māt,mātu,land,N,['𒆳'],𒆳,⸢KUR⸣,['damaged'],0.5,,Q003762,1,6
+50062,Q003762.1.7,Aššur[Assyria]GN,[AN.ŠAR₂{ki]},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,[AN].[ŠAR₂]{[KI]},"['missing', 'missing', 'missing']",1.0,GN,Q003762,1,7
+50063,Q003762.2.1,kāšid[conqueror]N,ka-šid,kāšid,kāšidu,conqueror,N,"['𒅗', '𒋃']",𒅗𒋃,ka-šid,"['complete', 'complete']",0.0,,Q003762,2,1
+50064,Q003762.2.2,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.MA{KI},"['complete', 'complete', 'complete', 'complete']",0.0,GN,Q003762,2,2
+50065,Q003762.2.3,rapaštu[wide]AJ,ra-[pa-aš₂-tu₂],rapaštu,rapšu,wide,AJ,"['𒊏', '𒉺', '𒀾', '𒌓']",𒊏𒉺𒀾𒌓,ra-[pa-aš₂-tu₂],"['complete', 'missing', 'missing', 'missing']",0.75,,Q003762,2,3
+50066,Q003762.3.1,mušahrib[one who devastates]N,mu-šah-rib,mušahrib,mušahribu,one who devastates,N,"['𒈬', '𒋚', '𒆗']",𒈬𒋚𒆗,mu-šah-rib,"['complete', 'complete', 'complete']",0.0,,Q003762,3,1
+50067,Q003762.3.2,dadmēša[settlements]N,da-⸢ad₂⸣-[me-ša₂],dadmēša,dadmū,settlements,N,"['𒁕', '𒄉', '𒈨', '𒃻']",𒁕𒄉𒈨𒃻,da-⸢ad₂⸣-[me-ša₂],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q003762,3,2
+50068,Q003762.4.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q003762,4,1
+50069,Q003762.4.2,"Aššur-ahu-iddina[Esarhaddon, king of Assyria]RN",{m}AN.ŠAR₂-PAP-AŠ,Aššur-ahu-iddina,Aššur-ahu-iddina,"Esarhaddon, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒉽', '𒀸']",𒁹𒀭𒊹𒉽𒀸,{m}AN.ŠAR₂-PAP-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003762,4,2
+50070,Q003762.4.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,4,3
+50071,Q003762.4.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003762,4,4
+50072,Q003762.4.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,4,5
+50073,Q003762.4.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003762,4,6
+50074,Q003762.4.7,Aššur[Assyria]GN,⸢AN⸣.[ŠAR₂{ki]},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,⸢AN⸣.[ŠAR₂]{[KI]},"['damaged', 'missing', 'missing']",0.83,GN,Q003762,4,7
+50075,Q003762.5.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,Q003762,5,1
+50076,Q003762.5.2,"Sin-ahhe-eriba[Sennacherib, king of Assyria]RN",{m}{d}30-PAP.MEŠ-SU,Sin-ahhe-eriba,Sin-ahhe-eriba,"Sennacherib, king of Assyria",RN,"['𒁹', '𒀭', '𒌍', '𒉽', '𒎌', '𒋢']",𒁹𒀭𒌍𒉽𒎌𒋢,{m}{d}30-PAP.MEŠ-SU,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003762,5,2
+50077,Q003762.5.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,5,3
+50078,Q003762.5.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003762,5,4
+50079,Q003762.5.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,5,5
+50080,Q003762.5.6,māt[land]N,⸢KUR⸣,māt,mātu,land,N,['𒆳'],𒆳,⸢KUR⸣,['damaged'],0.5,,Q003762,5,6
+50081,Q003762.5.7,Aššur[Assyria]GN,[AN.ŠAR₂{ki]},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,[AN].[ŠAR₂]{[KI]},"['missing', 'missing', 'missing']",1.0,GN,Q003762,5,7
+50082,Q003762.6.1,līplīp[descendant]N,ŠA₃.BAL.BAL,līplīp,līpu,descendant,N,"['𒊮', '𒁄', '𒁄']",𒊮𒁄𒁄,ŠA₃.BAL.BAL,"['complete', 'complete', 'complete']",0.0,,Q003762,6,1
+50083,Q003762.6.2,"Šarru-ukin[Sargon II, king of Assyria]RN",{m}LUGAL-GI.NA,Šarru-ukin,Šarru-ukin,"Sargon II, king of Assyria",RN,"['𒁹', '𒈗', '𒄀', '𒈾']",𒁹𒈗𒄀𒈾,{m}LUGAL-GI.NA,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003762,6,2
+50084,Q003762.6.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,6,3
+50085,Q003762.6.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003762,6,4
+50086,Q003762.6.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003762,6,5
+50087,Q003762.6.6,māt[land]N,[KUR,māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q003762,6,6
+50088,Q003762.6.7,Aššur[Assyria]GN,AN.ŠAR₂{ki]},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,[AN].[ŠAR₂]{[KI]},"['missing', 'missing', 'missing']",1.0,GN,Q003762,6,7
+50089,Q003762.7.1,ultu[after]'SBJ,ul-tu₂,ultu,ištu,after,PRP,"['𒌌', '𒌓']",𒌌𒌓,ul-tu₂,"['complete', 'complete']",0.0,,Q003762,7,1
+50090,Q003762.7.2,dabdê[defeat]N,BAD₅.BAD₅,dabdê,dabdû,defeat,N,"['𒅆', '𒅆']",𒅆𒅆,BAD₅.BAD₅,"['complete', 'complete']",0.0,,Q003762,7,2
+50091,Q003762.7.3,Teumman[king of Elam]RN,{m}<te>-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{m}te-um-man,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003762,7,3
+50092,Q003762.7.4,ina[in]PRP,i-⸢na⸣,ina,ina,in,PRP,"['𒄿', '𒈾']",𒄿𒈾,i-⸢na⸣,"['complete', 'damaged']",0.25,,Q003762,7,4
+50093,Q003762.7.5,tāhāzi[battle]N,[ME₃,tāhāzi,tāhāzu,battle,N,['𒀞'],𒀞,[ME₃],['missing'],1.0,,Q003762,7,5
+50094,Q003762.7.6,aškunu[establish]V,aš₂-ku-nu],aškunu,šakānu,establish,V,"['𒀾', '𒆪', '𒉡']",𒀾𒆪𒉡,[aš₂-ku-nu],"['missing', 'missing', 'missing']",1.0,,Q003762,7,6
+50095,Q003762.8.1,ina[by]PRP,ina,ina,ina,by,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003762,8,1
+50096,Q003762.8.2,qibīt[command]N,qi₂-bit,qibīt,qibītu,command,N,"['𒆠', '𒂍']",𒆠𒂍,qi₂-bit,"['complete', 'complete']",0.0,,Q003762,8,2
+50097,Q003762.8.3,Aššur[1]DN,AN.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.ŠAR₂,"['complete', 'complete']",0.0,DN,Q003762,8,3
+50098,Q003762.8.4,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,Q003762,8,4
+50099,Q003762.8.5,Marduk[1]DN,{d}AMAR.UTU,Marduk,Marduk,1,DN,"['𒀭', '𒀫', '𒌓']",𒀭𒀫𒌓,{d}AMAR.UTU,"['complete', 'complete', 'complete']",0.0,DN,Q003762,8,5
+50100,Q003762.8.6,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003762,8,6
+50101,Q003762.8.7,qereb[interior]N,⸢qe₂⸣-[reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,⸢qe₂⸣-[reb],"['damaged', 'missing']",0.75,,Q003762,8,7
+50102,Q003762.8.8,Ninua[Nineveh]SN,NINA{ki]},Ninua,Ninua,Nineveh,SN,"['𒀏', '𒆠']",𒀏𒆠,[NINA]{[KI]},"['missing', 'missing']",1.0,,Q003762,8,8
+50103,Q003762.9.1,ṣalam[effigy]N,⸢ṣa⸣-[lam,ṣalam,ṣalmu,effigy,N,"['𒍝', '𒇴']",𒍝𒇴,⸢ṣa⸣-[lam],"['damaged', 'missing']",0.75,,Q003762,9,1
+50104,Q003762.9.2,šarrūtiya[kingship]N,LUGAL-u₂]-⸢ti⸣-ia,šarrūtiya,šarrūtu,kingship,N,"['𒈗', '𒌑', '𒋾', '𒅀']",𒈗𒌑𒋾𒅀,[LUGAL-u₂]-⸢ti⸣-ia,"['missing', 'missing', 'damaged', 'complete']",0.62,,Q003762,9,2
+50105,Q003762.9.3,u,{na₄}[...],,,,u,"['𒎎', 'x']",𒎎x,{NA₄}[x],"['complete', 'missing']",0.5,,Q003762,9,3

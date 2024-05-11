@@ -1,0 +1,25 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+22652,Q003728.1.1,Ituni[eunuch of Teumman]PN$,{⸢m}i-tu-ni-i,Ituni,Ituni,eunuch of Teumman,PN,"['𒁹', '𒄿', '𒌅', '𒉌', '𒄿']",𒁹𒄿𒌅𒉌𒄿,{⸢m⸣}⸢i-tu-ni-i⸣,"['damaged', 'damaged', 'damaged', 'damaged', 'damaged']",0.5,PN,Q003728,1,1
+22653,Q003728.1.2,šūt[who(m)]DET,{lu₂}šu-ut,šūt,šūt,who(m),DET,"['𒇽', '𒋗', '𒌓']",𒇽𒋗𒌓,{⸢LU₂⸣}⸢šu-ut⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003728,1,2
+22654,Q003728.1.3,rēši[head]N,SAG⸣,rēši,rēšu,head,N,['𒊕'],𒊕,⸢SAG⸣,['damaged'],0.5,,Q003728,1,3
+22655,Q003728.1.4,Teumman[king of Elam]RN,{m}te-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{m}te-um-man,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003728,1,4
+22656,Q003728.1.5,šar[king]N,LUGAL,šar,šarru,king,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,,Q003728,1,5
+22657,Q003728.1.6,Elamti[Elam]GN,{kur}⸢ELAM.MA{ki⸣},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}⸢ELAM⸣.⸢MA⸣{⸢KI⸣},"['complete', 'damaged', 'damaged', 'damaged']",0.38,GN,Q003728,1,6
+22658,Q003728.2.1,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003728,2,1
+22659,Q003728.2.2,erhāniš[provocatively]AV$,⸢er-ha-niš,erhāniš,erhāniš,provocatively,AV,"['𒅕', '𒄩', '𒎙']",𒅕𒄩𒎙,⸢er-ha-niš⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003728,2,2
+22660,Q003728.2.3,šapāru[send]V$ištapparaššu,iš⸣-tap-pa-raš-šu₂,ištapparaššu,šapāru,send,V,"['𒅖', '𒋰', '𒉺', '𒆜', '𒋙']",𒅖𒋰𒉺𒆜𒋙,⸢iš⸣-tap-pa-raš-šu₂,"['damaged', 'complete', 'complete', 'complete', 'complete']",0.1,,Q003728,2,3
+22661,Q003728.2.4,adi[to]PRP,a-di,adi,adi,to,PRP,"['𒀀', '𒁲']",𒀀𒁲,a-di,"['complete', 'complete']",0.0,,Q003728,2,4
+22662,Q003728.2.5,mahriya[front]N,mah-ri-⸢ia⸣,mahriya,mahru,front,N,"['𒈤', '𒊑', '𒅀']",𒈤𒊑𒅀,mah-ri-⸢ia⸣,"['complete', 'complete', 'damaged']",0.17,,Q003728,2,5
+22663,Q003728.3.1,tāhāzī[battle]N,⸢ta-ha-zi,tāhāzī,tāhāzu,battle,N,"['𒋫', '𒄩', '𒍣']",𒋫𒄩𒍣,⸢ta-ha-zi⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003728,3,1
+22664,Q003728.3.2,dannu[strong]AJ,dan-nu⸣,dannu,dannu,strong,AJ,"['𒆗', '𒉡']",𒆗𒉡,⸢dan-nu⸣,"['damaged', 'damaged']",0.5,,Q003728,3,2
+22665,Q003728.3.3,ēmurma[see]V,e-mur-⸢ma⸣,ēmurma,amāru,see,V,"['𒂊', '𒄯', '𒈠']",𒂊𒄯𒈠,e-mur-⸢ma⸣,"['complete', 'complete', 'damaged']",0.17,,Q003728,3,3
+22666,Q003728.3.4,ina[with]PRP,ina,ina,ina,with,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003728,3,4
+22667,Q003728.3.5,patar[knife]N,GIR₂,patar,patru,knife,N,['𒄈'],𒄈,GIR₂,['complete'],0.0,,Q003728,3,5
+22668,Q003728.3.6,parzilli[iron]N,AN.BAR,parzilli,parzillu,iron,N,"['𒀭', '𒁇']",𒀭𒁇,AN.BAR,"['complete', 'complete']",0.0,,Q003728,3,6
+22669,Q003728.3.7,šibbu[belt]N$šibbišu,šib-⸢bi-šu₂⸣,šibbišu,šibbu,belt,N,"['𒈨', '𒁉', '𒋙']",𒈨𒁉𒋙,šib-⸢bi-šu₂⸣,"['complete', 'damaged', 'damaged']",0.33,,Q003728,3,7
+22670,Q003728.4.1,qašti[bow]N,{⸢giš}PAN,qašti,qaštu,bow,N,"['𒄑', '𒉼']",𒄑𒉼,{⸢GIŠ⸣}⸢PAN⸣,"['damaged', 'damaged']",0.5,,Q003728,4,1
+22671,Q003728.4.2,simāt[appropriate symbol]N,si-mat,simāt,simtu,appropriate symbol,N,"['𒋛', '𒆳']",𒋛𒆳,⸢si-mat⸣,"['damaged', 'damaged']",0.5,,Q003728,4,2
+22672,Q003728.4.3,idu[arm]N$idīšu,A₂.II-šu,idīšu,idu,arm,N,"['𒀉', '𒅀', '𒋗']",𒀉𒅀𒋗,⸢A₂⸣.⸢II-šu⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003728,4,3
+22673,Q003728.4.4,kasāmu[cut up]V$iksimā,ik-si⸣-ma,iksimā,kasāmu,cut up,V,"['𒅅', '𒋛', '𒈠']",𒅅𒋛𒈠,⸢ik-si⸣-ma,"['damaged', 'damaged', 'complete']",0.33,,Q003728,4,4
+22674,Q003728.4.5,qātu[hand]N$qātā,ŠU.II,qātā,qātu,hand,N,"['𒋗', '𒅀']",𒋗𒅀,ŠU.II,"['complete', 'complete']",0.0,,Q003728,4,5
+22675,Q003728.4.6,ramānišu[self]N,ra-ma-⸢ni-šu₂⸣,ramānišu,ramānu,self,N,"['𒊏', '𒈠', '𒉌', '𒋙']",𒊏𒈠𒉌𒋙,ra-ma-⸢ni-šu₂⸣,"['complete', 'complete', 'damaged', 'damaged']",0.25,,Q003728,4,6

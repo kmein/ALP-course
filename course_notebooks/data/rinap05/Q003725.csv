@@ -1,0 +1,31 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+11239,Q003725.1.1,Teumman[king of Elam]RN,{m}te-um-man,Teumman,Teumman,king of Elam,RN,"['𒁹', '𒋼', '𒌝', '𒎙']",𒁹𒋼𒌝𒎙,{m}te-um-man,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003725,1,1
+11240,Q003725.1.2,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003725,1,2
+11241,Q003725.1.3,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.MA{KI},"['complete', 'complete', 'complete', 'complete']",0.0,GN,Q003725,1,3
+11242,Q003725.1.4,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003725,1,4
+11243,Q003725.1.5,ina[during]PRP,ina,ina,ina,during,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,Q003725,1,5
+11244,Q003725.1.6,tāhāzi[battle]N,ME₃,tāhāzi,tāhāzu,battle,N,['𒀞'],𒀞,ME₃,['complete'],0.0,,Q003725,1,6
+11245,Q003725.1.7,danni[strong]AJ,dan-ni,danni,dannu,strong,AJ,"['𒆗', '𒉌']",𒆗𒉌,dan-ni,"['complete', 'complete']",0.0,,Q003725,1,7
+11246,Q003725.2.1,muhhuṣu[hurt]AJ,muh-hu-ṣu,muhhuṣu,muhhuṣu,hurt,AJ,"['𒌋𒅗', '𒄷', '𒍮']",𒌋𒅗𒄷𒍮,muh-hu-ṣu,"['complete', 'complete', 'complete']",0.0,,Q003725,2,1
+11247,Q003725.2.2,Tammaritu[son of Teumman]RN$Tamritu,{m}tam-ri-i-tu₂,Tamritu,Tammaritu,son of Teumman,RN,"['𒁹', '𒌓', '𒊑', '𒄿', '𒌓']",𒁹𒌓𒊑𒄿𒌓,{m}tam-ri-i-tu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003725,2,2
+11248,Q003725.2.3,mārišu[son]N,DUMU-šu₂,mārišu,māru,son,N,"['𒌉', '𒋙']",𒌉𒋙,DUMU-šu₂,"['complete', 'complete']",0.0,,Q003725,2,3
+11249,Q003725.2.4,rabû[senior]AJ,⸢GAL⸣-u,rabû,rabû,senior,AJ,"['𒃲', '𒌋']",𒃲𒌋,⸢GAL⸣-u,"['damaged', 'complete']",0.25,,Q003725,2,4
+11250,Q003725.3.1,qātu[hand]N$qāssu,ŠU.II-su,qāssu,qātu,hand,N,"['𒋗', '𒅀', '𒋢']",𒋗𒅀𒋢,ŠU.II-su,"['complete', 'complete', 'complete']",0.0,,Q003725,3,1
+11251,Q003725.3.2,iṣbatuma[seize]V,iṣ-ba-tu-ma,iṣbatuma,ṣabātu,seize,V,"['𒄑', '𒁀', '𒌅', '𒈠']",𒄑𒁀𒌅𒈠,iṣ-ba-tu-ma,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003725,3,2
+11252,Q003725.3.3,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q003725,3,3
+11253,Q003725.3.4,ezēbu[leave//saving]V'N$šūzub,šu-zu-ub,šūzub,ezēbu,saving,V,"['𒋗', '𒍪', '𒌒']",𒋗𒍪𒌒,šu-zu-ub,"['complete', 'complete', 'complete']",0.0,,Q003725,3,4
+11254,Q003725.3.5,napištu[throat//life]N'N$napištišu,⸢ZI-ti₃-šu₂⸣,napištišu,napištu,life,N,"['𒍣', '𒁴', '𒋙']",𒍣𒁴𒋙,⸢ZI-ti₃-šu₂⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003725,3,5
+11255,Q003725.4.1,innabtu[run away]V,in-nab-tu₂,innabtu,abātu,run away,V,"['𒅔', '𒀮', '𒌓']",𒅔𒀮𒌓,in-nab-tu₂,"['complete', 'complete', 'complete']",0.0,,Q003725,4,1
+11256,Q003725.4.2,halāpu[slip into]V$ihlupū,ih-lu-pu,ihlupū,halāpu,slip into,V,"['𒄴', '𒇻', '𒁍']",𒄴𒇻𒁍,ih-lu-pu,"['complete', 'complete', 'complete']",0.0,,Q003725,4,2
+11257,Q003725.4.3,qereb[interior]N,qe₂-reb,qereb,qerbu,interior,N,"['𒆠', '𒆗']",𒆠𒆗,qe₂-reb,"['complete', 'complete']",0.0,,Q003725,4,3
+11258,Q003725.4.4,qištu[forest]N$qišti,qiš-ti,qišti,qištu,forest,N,"['𒆧', '𒋾']",𒆧𒋾,qiš-ti,"['complete', 'complete']",0.0,,Q003725,4,4
+11259,Q003725.5.1,ina[through]PRP,⸢ina,ina,ina,through,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,,Q003725,5,1
+11260,Q003725.5.2,tukulti[help]N,tukul⸣-ti,tukulti,tukultu,help,N,"['𒆪', '𒋾']",𒆪𒋾,⸢tukul⸣-ti,"['damaged', 'complete']",0.25,,Q003725,5,2
+11261,Q003725.5.3,Aššur[1]DN,AN.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,AN.ŠAR₂,"['complete', 'complete']",0.0,DN,Q003725,5,3
+11262,Q003725.5.4,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,Q003725,5,4
+11263,Q003725.5.5,Ištar[1]DN,{d}15,Ištar,Ištar,1,DN,"['𒀭', '𒌋𒐊']",𒀭𒌋𒐊,{d}15,"['complete', 'complete']",0.0,DN,Q003725,5,5
+11264,Q003725.5.6,anāršunūti[kill]V,a-nar-šu₂-nu-ti,anāršunūti,nêru,kill,V,"['𒀀', '𒈜', '𒋙', '𒉡', '𒋾']",𒀀𒈜𒋙𒉡𒋾,a-nar-šu₂-nu-ti,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003725,5,6
+11265,Q003725.6.1,qaqqadu[head]N$qaqqadašunu,⸢SAG⸣.DU-šu₂-nu,qaqqadašunu,qaqqadu,head,N,"['𒊕', '𒁺', '𒋙', '𒉡']",𒊕𒁺𒋙𒉡,⸢SAG⸣.DU-šu₂-nu,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q003725,6,1
+11266,Q003725.6.2,nakāsu[cut//cut off]V'V$akkis,KUD-is,akkis,nakāsu,cut off,V,"['𒋻', '𒄑']",𒋻𒄑,KUD-is,"['complete', 'complete']",0.0,,Q003725,6,2
+11267,Q003725.6.3,mehret[opposite]'PRP,me₂-eh-ret,mehret,mehretu,opposite,N,"['𒈪', '𒄴', '𒈩']",𒈪𒄴𒈩,me₂-eh-ret,"['complete', 'complete', 'complete']",0.0,,Q003725,6,3
+11268,Q003725.6.4,ahāmeš[one another]RP,a-ha-meš,ahāmeš,ahāmiš,one another,RP,"['𒀀', '𒄩', '𒎌']",𒀀𒄩𒎌,a-ha-meš,"['complete', 'complete', 'complete']",0.0,,Q003725,6,4

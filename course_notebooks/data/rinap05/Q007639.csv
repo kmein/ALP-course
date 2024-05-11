@@ -1,0 +1,14 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+24614,Q007639.1.1,Nanna[1]DN,{d}nanna,,Nanna,1,DN,"['𒀭', '𒋀𒆠']",𒀭𒋀𒆠,{d}nanna,"['complete', 'complete']",0.0,DN,Q007639,1,1
+24615,Q007639.1.2,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q007639,1,2
+24616,Q007639.1.3,Enlil[1]DN,{d}en-lil₂-e-ne,,Enlil,1,DN,"['𒀭', '𒂗', '𒆤', '𒂊', '𒉈']",𒀭𒂗𒆤𒂊𒉈,{d}en-lil₂-e-ne,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,DN,Q007639,1,3
+24617,Q007639.2.1,lugal[king]N,lugal-a-ni,,lugal,king,N,"['𒈗', '𒀀', '𒉌']",𒈗𒀀𒉌,lugal-a-ni,"['complete', 'complete', 'complete']",0.0,,Q007639,2,1
+24618,Q007639.3.1,Sin-balassu-iqbi[governor of Ur]PN,{m}{d}EN.ZU-TI.LA.BI-DU₁₁.GA,Sin-balassu-iqbi,Sin-balassu-iqbi,governor of Ur,PN,"['𒁹', '𒀭', '𒂗', '𒍪', '𒋾', '𒆷', '𒁉', '𒅗', '𒂵']",𒁹𒀭𒂗𒍪𒋾𒆷𒁉𒅗𒂵,{m}{d}EN.ZU-TI.LA.BI-DU₁₁.GA,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,Q007639,3,1
+24619,Q007639.4.1,šakkanak[general]N,šagina,,šakkanak,"general, governor-general",N,['𒄊𒀴'],𒄊𒀴,šagina,['complete'],0.0,,Q007639,4,1
+24620,Q007639.4.2,Uri[Ur]SN,uri₂{ki}ma,,Uri,Ur,SN,"['𒋀𒀕', '𒆠', '𒈠']",𒋀𒀕𒆠𒈠,uri₂{KI}ma,"['complete', 'complete', 'complete']",0.0,,Q007639,4,2
+24621,Q007639.5.1,ua[provisioner]N,u₂-a,,ua,provisioner,N,"['𒌑', '𒀀']",𒌑𒀀,u₂-a,"['complete', 'complete']",0.0,,Q007639,5,1
+24622,Q007639.5.2,Eridu[1]SN,eridu{ki}ga,,Eridu,1,SN,"['𒉣', '𒆠', '𒂵']",𒉣𒆠𒂵,eridu{KI}ga,"['complete', 'complete', 'complete']",0.0,,Q007639,5,2
+24623,Q007639.6.1,Ešaduga[]TN/e₂-ša₃-du₁₀-ga#~,e₂-ša₃-du₁₀-ga,,Ešaduga,1,TN,"['𒂍', '𒊮', '𒄭', '𒂵']",𒂍𒊮𒄭𒂵,e₂-ša₃-du₁₀-ga,"['complete', 'complete', 'complete', 'complete']",0.0,,Q007639,6,1
+24624,Q007639.7.1,kituš[dwelling place]N,ki-tuš,,kituš,dwelling place,N,"['𒆠', '𒆪']",𒆠𒆪,ki-tuš,"['complete', 'complete']",0.0,,Q007639,7,1
+24625,Q007639.7.2,"namenlil[cosmic sovereignty]N/nam-{d}en-lil₂#~,ani",nam-{d}en-lil₂-la₂-a-ni,,namenlil,cosmic sovereignty,N,"['𒉆', '𒀭', '𒂗', '𒆤', '𒇲', '𒀀', '𒉌']",𒉆𒀭𒂗𒆤𒇲𒀀𒉌,nam-{d}en-lil₂-la₂-a-ni,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q007639,7,2
+24626,Q007639.8.1,"du[to build, make]V/t",mu-na-du₃,,du,"to build, make",V/t,"['𒈬', '𒈾', '𒆕']",𒈬𒈾𒆕,mu-na-du₃,"['complete', 'complete', 'complete']",0.0,,Q007639,8,1

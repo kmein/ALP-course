@@ -1,0 +1,9 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+69330,Q008368.1.1,ēkal[palace]N,KUR,ēkal,ēkallu,palace,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q008368,1,1
+69331,Q008368.1.2,Sin-šarra-iškun[king of Assyria]RN,{m}{d}30-LUGAL-GAR-un,Sin-šarra-iškun,Sin-šarra-iškun,king of Assyria,RN,"['𒁹', '𒀭', '𒌍', '𒈗', '𒃻', '𒌦']",𒁹𒀭𒌍𒈗𒃻𒌦,{m}{d}30-LUGAL-GAR-un,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008368,1,2
+69332,Q008368.1.3,šarru[king]N,MAN,šarru,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008368,1,3
+69333,Q008368.1.4,rabû[great]AJ,[GAL,rabû,rabû,great,AJ,['𒃲'],𒃲,[GAL],['missing'],1.0,,Q008368,1,4
+69334,Q008368.1.5,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q008368,1,5
+69335,Q008368.1.6,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008368,1,6
+69336,Q008368.1.7,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q008368,1,7
+69337,Q008368.1.8,Aššurma[Assyria]GN,AŠ-ma,Aššurma,Aššur,Assyria,GN,"['𒀸', '𒈠']",𒀸𒈠,AŠ-ma,"['complete', 'complete']",0.0,GN,Q008368,1,8

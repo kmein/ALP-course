@@ -1,0 +1,47 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+22694,Q003796.7.1,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003796,7,1
+22695,Q003796.7.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003796,7,2
+22696,Q003796.7.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003796,7,3
+22697,Q003796.8.1,ištû[drink]V,iš-⸢tu⸣-[u₂,ištû,šatû,drink,V,"['𒅖', '𒌅', '𒌑']",𒅖𒌅𒌑,iš-⸢tu⸣-[u₂],"['complete', 'damaged', 'missing']",0.5,,Q003796,8,1
+22698,Q003796.8.2,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003796,8,2
+22699,Q003796.9.1,ṣumbī[wagon]N,{giš}⸢ṣu-um⸣-[bi.MEŠ,ṣumbī,ṣumbu,wagon,N,"['𒄑', '𒍮', '𒌝', '𒁉', '𒎌']",𒄑𒍮𒌝𒁉𒎌,{GIŠ}⸢ṣu-um⸣-[bi].[MEŠ],"['complete', 'damaged', 'damaged', 'missing', 'missing']",0.6,,Q003796,9,1
+22700,Q003796.9.2,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q003796,9,2
+22701,Q003796.10.1,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003796,10,1
+22702,Q003796.10.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q003796,10,2
+22703,Q003796.10.3,x,(x),,,,,['x'],x,x,['complete'],0.0,,Q003796,10,3
+22704,Q003796.10.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003796,10,4
+22705,Q003796.14.1,pitiqtu[brickwork]N$,[pi-ti-iq-tu₂,pitiqtu,pitiqtu,brickwork,N,"['𒉿', '𒋾', '𒅅', '𒌓']",𒉿𒋾𒅅𒌓,[pi-ti-iq-tu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003796,14,1
+22706,Q003796.14.2,patāqu[make brick structures]V$aptiq,ap-ti-iq],aptiq,patāqu,make brick structures,V,"['𒀊', '𒋾', '𒅅']",𒀊𒋾𒅅,[ap-ti-iq],"['missing', 'missing', 'missing']",1.0,,Q003796,14,2
+22707,Q003796.14.3,tamlâ[terrace]N,⸢tam-la-a,tamlâ,tamlīu,terrace,N,"['𒌓', '𒆷', '𒀀']",𒌓𒆷𒀀,⸢tam-la-a⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003796,14,3
+22708,Q003796.14.4,umalli[fill (up)]V,u₂-mal⸣-[li],umalli,malû,fill (up),V,"['𒌑', '𒂷', '𒇷']",𒌑𒂷𒇷,⸢u₂-mal⸣-[li],"['damaged', 'damaged', 'missing']",0.67,,Q003796,14,4
+22709,Q003796.15.1,ina[during]PRP,[ina,ina,ina,during,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003796,15,1
+22710,Q003796.15.2,arhi[month]N,ITI,arhi,warhu,month,N,['𒌗'],𒌗,[ITI],['missing'],1.0,,Q003796,15,2
+22711,Q003796.15.3,ṭābi[good]AJ,DUG₃.GA,ṭābi,ṭābu,good,AJ,"['𒄭', '𒂵']",𒄭𒂵,[DUG₃].[GA],"['missing', 'missing']",1.0,,Q003796,15,3
+22712,Q003796.15.4,ūme[day]N,u₄-me,ūme,ūmu,day,N,"['𒌓', '𒈨']",𒌓𒈨,[u₄-me],"['missing', 'missing']",1.0,,Q003796,15,4
+22713,Q003796.15.5,šemê[propitious]AJ,še-me-e,šemê,šemû,propitious,AJ,"['𒊺', '𒈨', '𒂊']",𒊺𒈨𒂊,[še-me-e],"['missing', 'missing', 'missing']",1.0,,Q003796,15,5
+22714,Q003796.15.6,ṣēr[on]'PRP,ṣe]-⸢er⸣,ṣēr,ṣēru,on,N,"['𒍢', '𒅕']",𒍢𒅕,[ṣe]-⸢er⸣,"['missing', 'damaged']",0.75,,Q003796,15,6
+22715,Q003796.15.7,tamlê[inlay]N,tam-le-e,tamlê,tamlīu,inlay,N,"['𒌓', '𒇷', '𒂊']",𒌓𒇷𒂊,tam-le-e,"['complete', 'complete', 'complete']",0.0,,Q003796,15,7
+22716,Q003796.15.8,šuātu[that]IP,šu-a-[tu₂],šuātu,šuāti,that,IP,"['𒋗', '𒀀', '𒌓']",𒋗𒀀𒌓,šu-a-[tu₂],"['complete', 'complete', 'missing']",0.33,,Q003796,15,8
+22717,Q003796.16.1,uššīšu[foundation]N,[UŠ₈-šu₂,uššīšu,uššu,foundation,N,"['𒀳', '𒋙']",𒀳𒋙,[UŠ₈-šu₂],"['missing', 'missing']",1.0,,Q003796,16,1
+22718,Q003796.16.2,addi[place]V,ad-di,addi,nadû,place,V,"['𒀜', '𒁲']",𒀜𒁲,[ad-di],"['missing', 'missing']",1.0,,Q003796,16,2
+22719,Q003796.16.3,ukīn[establish firmly]V,u₂-kin,ukīn,kânu,establish firmly,V,"['𒌑', '𒆥']",𒌑𒆥,[u₂-kin],"['missing', 'missing']",1.0,,Q003796,16,3
+22720,Q003796.16.4,libnāssu[brickwork]N,lib]-na-as-su,libnāssu,libittu,brickwork,N,"['𒈜', '𒈾', '𒊍', '𒋢']",𒈜𒈾𒊍𒋢,[lib]-na-as-su,"['missing', 'complete', 'complete', 'complete']",0.25,,Q003796,16,4
+22721,Q003796.17.1,ina[with]PRP,[ina,ina,ina,with,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003796,17,1
+22722,Q003796.17.2,šikaru[beer]N$šikari,KAŠ.SAG,šikari,šikaru,beer,N,"['𒁉', '𒊕']",𒁉𒊕,[KAŠ].[SAG],"['missing', 'missing']",1.0,,Q003796,17,2
+22723,Q003796.17.3,karāni[wine]N,GEŠTIN,karāni,karānu,wine,N,['𒃾'],𒃾,[GEŠTIN],['missing'],1.0,,Q003796,17,3
+22724,Q003796.17.4,kalakku[(a kind of wall-plaster)]N$kalakkašu,ka-lak-ka-šu₂,kalakkašu,kalakku,(a kind of wall-plaster),N,"['𒅗', '𒋃', '𒅗', '𒋙']",𒅗𒋃𒅗𒋙,[ka-lak-ka-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003796,17,4
+22725,Q003796.17.5,ablul[mix (up)]V,ab]-⸢lu⸣-ul,ablul,balālu,mix (up),V,"['𒀊', '𒇻', '𒌌']",𒀊𒇻𒌌,[ab]-⸢lu⸣-ul,"['missing', 'damaged', 'complete']",0.5,,Q003796,17,5
+22726,Q003796.17.6,mahāṣu[beat]V$amhaṣa,am-ha-ṣa,amhaṣa,mahāṣu,beat,V,"['𒄠', '𒄩', '𒍝']",𒄠𒄩𒍝,am-ha-ṣa,"['complete', 'complete', 'complete']",0.0,,Q003796,17,6
+22727,Q003796.17.7,šallaru[wall plaster]N$šallaršu,šal-la-ar-šu₂,šallaršu,šallaru,wall plaster,N,"['𒊩', '𒆷', '𒅈', '𒋙']",𒊩𒆷𒅈𒋙,šal-la-ar-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003796,17,7
+22728,Q003796.18.1,lābin[brick-maker]N,[la-bi-in,lābin,lābinu,one who strokes,N,"['𒆷', '𒁉', '𒅔']",𒆷𒁉𒅔,[la-bi-in],"['missing', 'missing', 'missing']",1.0,,Q003796,18,1
+22729,Q003796.18.2,libittu[mudbrick]N$libnātišu,SIG₄.HI.A-šu₂,libnātišu,libittu,mudbrick,N,"['𒋞', '𒄭', '𒀀', '𒋙']",𒋞𒄭𒀀𒋙,[SIG₄].[HI].[A-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,Q003796,18,2
+22730,Q003796.18.3,zabbilu[bearer]N$zābil,za-bi]-⸢lu⸣,zābil,zabbilu,bearer,N,"['𒍝', '𒁉', '𒇻']",𒍝𒁉𒇻,[za-bi]-⸢lu⸣,"['missing', 'missing', 'damaged']",0.83,,Q003796,18,3
+22731,Q003796.18.4,tupšikku[hod (for carrying bricks)]N$tušikkišu,tup-šik-ki-šu₂,tušikkišu,tupšikku,hod (for carrying bricks),N,"['𒁾', '𒋝', '𒆠', '𒋙']",𒁾𒋝𒆠𒋙,tup-šik-ki-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003796,18,4
+22732,Q003796.19.1,ina[in]PRP,[ina,ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003796,19,1
+22733,Q003796.19.2,elēli[cheerful song]N,e-le-li,elēli,elēlu,cheerful song,N,"['𒂊', '𒇷', '𒇷']",𒂊𒇷𒇷,[e-le-li],"['missing', 'missing', 'missing']",1.0,,Q003796,19,2
+22734,Q003796.19.3,nigûtu[joyful song]N$nigûtu,ni-gu-tu₂,nigûtu,nigûtu,joyful song,N,"['𒉌', '𒄖', '𒌓']",𒉌𒄖𒌓,[ni-gu-tu₂],"['missing', 'missing', 'missing']",1.0,,Q003796,19,3
+22735,Q003796.19.4,wabālu[carry//spend]V'V$ubbal,u₂-bal,ubbal,wabālu,spend,V,"['𒌑', '𒁄']",𒌑𒁄,[u₂-bal],"['missing', 'missing']",1.0,,Q003796,19,4
+22736,Q003796.19.5,ūmu[day]N$ūmšu,u₄-um-šu₂,ūmšu,ūmu,day,N,"['𒌓', '𒌝', '𒋙']",𒌓𒌝𒋙,[u₄-um-šu₂],"['missing', 'missing', 'missing']",1.0,,Q003796,19,5
+22737,Q003796.19.6,ina[in]PRP,ina],ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,Q003796,19,6
+22738,Q003796.19.7,hidâti[joy]N,⸢HUL₂.MEŠ,hidâti,hidiātu,joy,N,"['𒄾', '𒎌']",𒄾𒎌,⸢HUL₂⸣.⸢MEŠ⸣,"['damaged', 'damaged']",0.5,,Q003796,19,7
+22739,Q003796.19.8,rīšāti[exultation]N,ri-ša₂-a-ti⸣,rīšāti,rīštu,exultation,N,"['𒊑', '𒃻', '𒀀', '𒋾']",𒊑𒃻𒀀𒋾,⸢ri-ša₂-a-ti⸣,"['damaged', 'damaged', 'damaged', 'damaged']",0.5,,Q003796,19,8

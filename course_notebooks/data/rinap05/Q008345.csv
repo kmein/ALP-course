@@ -1,0 +1,20 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+24480,Q008345.1.1,ana[to]PRP,⸢a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,⸢a-na⸣,"['damaged', 'damaged']",0.5,,Q008345,1,1
+24481,Q008345.1.2,Enlil[1]DN,{d}EN.LIL₂⸣,Enlil,Enlil,1,DN,"['𒀭', '𒂗', '𒆤']",𒀭𒂗𒆤,{⸢d⸣}⸢EN⸣.⸢LIL₂⸣,"['damaged', 'damaged', 'damaged']",0.5,DN,Q008345,1,2
+24482,Q008345.1.3,u,[(...),,,,u,['x'],x,[x],['missing'],1.0,,Q008345,1,3
+24483,Q008345.1.4,bēlišu[lord]N,EN-šu₂],bēlišu,bēlu,lord,N,"['𒂗', '𒋙']",𒂗𒋙,[EN-šu₂],"['missing', 'missing']",1.0,,Q008345,1,4
+24484,Q008345.2.1,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.⸢ŠAR₂⸣-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.⸢ŠAR₂⸣-DU₃-A,"['complete', 'complete', 'damaged', 'complete', 'complete']",0.1,RN,Q008345,2,1
+24485,Q008345.2.2,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008345,2,2
+24486,Q008345.2.3,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q008345,2,3
+24487,Q008345.2.4,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008345,2,4
+24488,Q008345.2.5,māt[land]N,⸢KUR⸣,māt,mātu,land,N,['𒆳'],𒆳,⸢KUR⸣,['damaged'],0.5,,Q008345,2,5
+24489,Q008345.2.6,Aššur[Assyria]GN,[aš-šur{ki},Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩', '𒆠']",𒀸𒋩𒆠,[aš-šur]{[KI]},"['missing', 'missing', 'missing']",1.0,GN,Q008345,2,6
+24490,Q008345.2.7,u,(...)],,,,u,['x'],x,[x],['missing'],1.0,,Q008345,2,7
+24491,Q008345.3.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008345,3,1
+24492,Q008345.3.2,kibrāt[quarter]N,kib-⸢rat⸣,kibrāt,kibru,quarter,N,"['𒄒', '𒋥']",𒄒𒋥,kib-⸢rat⸣,"['complete', 'damaged']",0.25,,Q008345,3,2
+24493,Q008345.3.3,erbettim[four]NU,LIMMU₂-⸢tim⸣,erbettim,erbe,four,NU,"['𒇹', '𒁴']",𒇹𒁴,LIMMU₂-⸢tim⸣,"['complete', 'damaged']",0.25,,Q008345,3,3
+24494,Q008345.3.4,u,[(...)],,,,u,['x'],x,[x],['missing'],1.0,,Q008345,3,4
+24495,Q008345.4.1,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,Q008345,4,1
+24496,Q008345.4.2,balāṭišu[life]N,TI-šu₂,balāṭišu,balāṭu,life,N,"['𒋾', '𒋙']",𒋾𒋙,TI-šu₂,"['complete', 'complete']",0.0,,Q008345,4,2
+24497,Q008345.4.3,ušēpiš[build]V,u₂-še-⸢piš⸣,ušēpiš,epēšu,build,V,"['𒌑', '𒊺', '𒄫']",𒌑𒊺𒄫,u₂-še-⸢piš⸣,"['complete', 'complete', 'damaged']",0.17,,Q008345,4,3
+24498,Q008345.4.4,u,[(...)],,,,u,['x'],x,[x],['missing'],1.0,,Q008345,4,4

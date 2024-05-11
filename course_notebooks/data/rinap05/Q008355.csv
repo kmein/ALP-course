@@ -1,0 +1,11 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+47739,Q008355.1.1,ana[to]PRP,[ana,ana,ana,to,PRP,['𒁹'],𒁹,[ana],['missing'],1.0,,Q008355,1,1
+47740,Q008355.1.2,Sutiti[1]DN,{d]}su-ti-ti,Sutiti,Sutiti,1,DN,"['𒀭', '𒋢', '𒋾', '𒋾']",𒀭𒋢𒋾𒋾,{[d]}su-ti-ti,"['missing', 'complete', 'complete', 'complete']",0.25,DN,Q008355,1,2
+47741,Q008355.2.1,bēltišu[lady]N,⸢GAŠAN⸣-šu₂,bēltišu,bēltu,lady,N,"['𒃽', '𒋙']",𒃽𒋙,⸢GAŠAN⸣-šu₂,"['damaged', 'complete']",0.25,,Q008355,2,1
+47742,Q008355.2.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{m}AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008355,2,2
+47743,Q008355.3.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008355,3,1
+47744,Q008355.3.2,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q008355,3,2
+47745,Q008355.3.3,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,Q008355,3,3
+47746,Q008355.4.1,ana[to]PRP,ana,ana,ana,to,PRP,['𒁹'],𒁹,ana,['complete'],0.0,,Q008355,4,1
+47747,Q008355.4.2,balāṭišu[life]N,⸢TIN⸣-šu₂,balāṭišu,balāṭu,life,N,"['𒁷', '𒋙']",𒁷𒋙,⸢TIN⸣-šu₂,"['damaged', 'complete']",0.25,,Q008355,4,2
+47748,Q008355.5.1,iqīš[give]V,BA-iš₃,iqīš,qiāšu,give,V,"['𒁀', '𒌍']",𒁀𒌍,BA-iš₃,"['complete', 'complete']",0.0,,Q008355,5,1

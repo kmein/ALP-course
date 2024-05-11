@@ -1,0 +1,20 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+42184,Q009296.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009296,5,1
+42185,Q009296.5.2,x,TI,,,,,['𒋾'],𒋾,TI,['complete'],0.0,,Q009296,5,2
+42186,Q009296.5.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q009296,5,3
+42187,Q009296.5.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q009296,5,4
+42188,Q009296.5.5,u,(x),,,,u,['x'],x,x,['complete'],0.0,,Q009296,5,5
+42189,Q009296.5.6,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009296,5,6
+42190,Q009296.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009296,6,1
+42191,Q009296.6.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q009296,6,2
+42192,Q009296.6.3,x,x,,,,,['x'],x,x,['complete'],0.0,,Q009296,6,3
+42193,Q009296.6.4,X,li-ni-DIR/ŠUL,,,,X,"['𒇷', '𒉌', '𒋛𒀀', '𒂄']",𒇷𒉌𒋛𒀀𒂄,li-ni-DIR/ŠUL,"['complete', 'complete', 'complete', 'complete']",0.0,,Q009296,6,4
+42194,Q009296.6.5,X,BAD,,,,X,['𒁁'],𒁁,BAD,['complete'],0.0,,Q009296,6,5
+42195,Q009296.6.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q009296,6,6
+42196,Q009296.6.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009296,6,7
+42197,Q009296.8.1,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,ša,['complete'],0.0,,Q009296,8,1
+42198,Q009296.8.2,eli[concerning]PRP,UGU,eli,eli,concerning,PRP,['𒌋𒅗'],𒌋𒅗,UGU,['complete'],0.0,,Q009296,8,2
+42199,Q009296.8.3,rīmī[wild bull]N,AM.MEŠ,rīmī,rīmu,wild bull,N,"['𒄠', '𒎌']",𒄠𒎌,AM.MEŠ,"['complete', 'complete']",0.0,,Q009296,8,3
+42200,Q009296.8.4,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,Q009296,8,4
+42201,Q009296.8.5,Barsipa[Borsippa]SN,bar₂-sipa{⸢ki⸣},Barsipa,Barsipa,Borsippa,SN,"['𒁈', '𒉺𒇻', '𒆠']",𒁈𒉺𒇻𒆠,bar₂-sipa{⸢KI⸣},"['complete', 'complete', 'damaged']",0.17,,Q009296,8,5
+42202,Q009296.8.6,u,[(...)],,,,u,['x'],x,[x],['missing'],1.0,,Q009296,8,6

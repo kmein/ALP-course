@@ -1,0 +1,35 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+60526,Q003844.1.1,Ningal[1]DN,{d}nin-gal,,Ningal,1,DN,"['𒀭', '𒎏', '𒃲']",𒀭𒎏𒃲,{d}nin-gal,"['complete', 'complete', 'complete']",0.0,DN,Q003844,1,1
+60527,Q003844.1.2,UN.gal[ruler]N,UN-gal,,UN.gal,ruler,N,"['𒌦', '𒃲']",𒌦𒃲,UN-gal,"['complete', 'complete']",0.0,,Q003844,1,2
+60528,Q003844.2.1,Ekišnugal[1]TN,e₂-giš-nu₁₁-gal,,Ekišnugal,1,TN,"['𒂍', '𒄑', '𒉢', '𒃲']",𒂍𒄑𒉢𒃲,e₂-giš-nu₁₁-gal,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003844,2,1
+60529,Q003844.3.1,Ninmena[1]DN,{d}nin-men-na,,Ninmena,1,DN,"['𒀭', '𒎏', '𒃞', '𒈾']",𒀭𒎏𒃞𒈾,{d}nin-men-na,"['complete', 'complete', 'complete', 'complete']",0.0,DN,Q003844,3,1
+60530,Q003844.3.2,ki[place]N,ki,,ki,place,N,['𒆠'],𒆠,ki,['complete'],0.0,,Q003844,3,2
+60531,Q003844.3.3,aŋ[to measure]V/t,ag₂-ga₂,,aŋ,to measure,V/t,"['𒉘', '𒂷']",𒉘𒂷,ag₂-ga₂,"['complete', 'complete']",0.0,,Q003844,3,3
+60532,Q003844.4.1,Uri[Ur]SN,uri₂{ki}ma,,Uri,Ur,SN,"['𒋀𒀕', '𒆠', '𒈠']",𒋀𒀕𒆠𒈠,uri₂{KI}ma,"['complete', 'complete', 'complete']",0.0,,Q003844,4,1
+60533,Q003844.4.2,nin[lady]N,nin-a-ni-ir,,nin,lady,N,"['𒎏', '𒀀', '𒉌', '𒅕']",𒎏𒀀𒉌𒅕,nin-a-ni-ir,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003844,4,2
+60534,Q003844.5.1,Sin-balassu-iqbi[governor of Ur]PN,{m}{d}EN.ZU-TIN-su-iq-bi,Sin-balassu-iqbi,Sin-balassu-iqbi,governor of Ur,PN,"['𒁹', '𒀭', '𒂗', '𒍪', '𒁷', '𒋢', '𒅅', '𒁉']",𒁹𒀭𒂗𒍪𒁷𒋢𒅅𒁉,{m}{d}EN.ZU-TIN-su-iq-bi,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,Q003844,5,1
+60535,Q003844.6.1,"šakkanak[general, governor-general]N",šagina,,šakkanak,"general, governor-general",N,['𒄊𒀴'],𒄊𒀴,šagina,['complete'],0.0,,Q003844,6,1
+60536,Q003844.6.2,Uri[Ur]SN,uri₂{ki}ma,,Uri,Ur,SN,"['𒋀𒀕', '𒆠', '𒈠']",𒋀𒀕𒆠𒈠,uri₂{KI}ma,"['complete', 'complete', 'complete']",0.0,,Q003844,6,2
+60537,Q003844.7.1,ŋipar[cloister]N,gi₆-par₃,,ŋipar,cloister,N,"['𒈪', '𒁖']",𒈪𒁖,gi₆-par₃,"['complete', 'complete']",0.0,,Q003844,7,1
+60538,Q003844.7.2,e[house]N,e₂,,e,house,N,['𒂍'],𒂍,e₂,['complete'],0.0,,Q003844,7,2
+60539,Q003844.7.3,Ninlil[1]DN,{d}nin-lil₂-le,,Ninlil,1,DN,"['𒀭', '𒎏', '𒆤', '𒇷']",𒀭𒎏𒆤𒇷,{d}nin-lil₂-le,"['complete', 'complete', 'complete', 'complete']",0.0,DN,Q003844,7,3
+60540,Q003844.8.1,ŋidlam[spouse]N,nita₃-dam,,ŋidlam,spouse,N,"['𒊩𒍑', '𒁮']",𒊩𒍑𒁮,nita₃-dam,"['complete', 'complete']",0.0,,Q003844,8,1
+60541,Q003844.8.2,"ki[land, country]N",ki,,ki,"land, country",N,['𒆠'],𒆠,ki,['complete'],0.0,,Q003844,8,2
+60542,Q003844.8.3,aŋ[to measure]V/t,ag₂-ga₂,,aŋ,to measure,V/t,"['𒉘', '𒂷']",𒉘𒂷,ag₂-ga₂,"['complete', 'complete']",0.0,,Q003844,8,3
+60543,Q003844.9.1,Sin[1]DN,{d}suen,,Sin,1,DN,"['𒀭', '𒂗𒍪']",𒀭𒂗𒍪,{d}suen,"['complete', 'complete']",0.0,DN,Q003844,9,1
+60544,Q003844.10.1,gibil[(to be) new]V/i,gibil-bi,,gibil,(to be) new,V/i,"['𒉋', '𒁉']",𒉋𒁉,gibil-bi,"['complete', 'complete']",0.0,,Q003844,10,1
+60545,Q003844.10.2,"du[to build, make]V/t",mu-na-du₃,,du,"to build, make",V/t,"['𒈬', '𒈾', '𒆕']",𒈬𒈾𒆕,mu-na-du₃,"['complete', 'complete', 'complete']",0.0,,Q003844,10,2
+60546,Q003844.11.1,alan[statue]N,alam,,alan,statue,N,['𒀩'],𒀩,alam,['complete'],0.0,,Q003844,11,1
+60547,Q003844.11.2,niŋdimdima[creature]N,nig₂-dim₂-dim₂-ma,,niŋdimdima,creature,N,"['𒃻', '𒁶', '𒁶', '𒈠']",𒃻𒁶𒁶𒈠,nig₂-dim₂-dim₂-ma,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003844,11,2
+60548,Q003844.12.1,Ningal[1]DN,{d}nin-gal-ke₄,,Ningal,1,DN,"['𒀭', '𒎏', '𒃲', '𒆤']",𒀭𒎏𒃲𒆤,{d}nin-gal-ke₄,"['complete', 'complete', 'complete', 'complete']",0.0,DN,Q003844,12,1
+60549,Q003844.12.2,dim[manufacture]V/t,u-me-ni-dim₂,,dim,manufacture,V/t,"['𒌋', '𒈨', '𒉌', '𒁶']",𒌋𒈨𒉌𒁶,u-me-ni-dim₂,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003844,12,2
+60550,Q003844.13.1,šag[heart]N,ša₃,,šag,heart,N,['𒊮'],𒊮,ša₃,['complete'],0.0,,Q003844,13,1
+60551,Q003844.13.2,e[house]N,e₂,,e,house,N,['𒂍'],𒂍,e₂,['complete'],0.0,,Q003844,13,2
+60552,Q003844.13.3,diŋir[god]N,digir,,diŋir,god,N,['𒀭'],𒀭,digir,['complete'],0.0,,Q003844,13,3
+60553,Q003844.13.4,X,HU-du₃-še₃,,,,X,"['𒄷', '𒆕', '𒂠']",𒄷𒆕𒂠,HU-du₃-še₃,"['complete', 'complete', 'complete']",0.0,,Q003844,13,4
+60554,Q003844.14.1,kur[bring into]'V/t,u-mu-un-ku₄-ku₄,,kur,bring into,V/i,"['𒌋', '𒈬', '𒌦', '𒆭', '𒆭']",𒌋𒈬𒌦𒆭𒆭,u-mu-un-ku₄-ku₄,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003844,14,1
+60555,Q003844.15.1,Enun[1]TN,e₂-nun-ta,,Enun,1,TN,"['𒂍', '𒉣', '𒋫']",𒂍𒉣𒋫,e₂-nun-ta,"['complete', 'complete', 'complete']",0.0,,Q003844,15,1
+60556,Q003844.16.1,kituš[dwelling place]N,ki-tuš,,kituš,dwelling place,N,"['𒆠', '𒆪']",𒆠𒆪,ki-tuš,"['complete', 'complete']",0.0,,Q003844,16,1
+60557,Q003844.16.2,namen[kingship]N,nam-en-na-ni,,namen,kingship,N,"['𒉆', '𒂗', '𒈾', '𒉌']",𒉆𒂗𒈾𒉌,nam-en-na-ni,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003844,16,2
+60558,Q003844.16.3,du[build]V/t,du₃,,du,build,V/t,['𒆕'],𒆕,du₃,['complete'],0.0,,Q003844,16,3
+60559,Q003844.17.1,ri[lay down]V/t,bi₂-in-ri-a,,ri,lay down,V/t,"['𒉈', '𒅔', '𒊑', '𒀀']",𒉈𒅔𒊑𒀀,bi₂-in-ri-a,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003844,17,1

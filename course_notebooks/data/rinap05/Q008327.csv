@@ -1,0 +1,38 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+69528,Q008327.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,2,1
+69529,Q008327.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008327,2,2
+69530,Q008327.2.3,x,AN,,,,,['𒀭'],𒀭,AN,['complete'],0.0,,Q008327,2,3
+69531,Q008327.2.4,X,I,,,,X,['𒄿'],𒄿,I,['complete'],0.0,,Q008327,2,4
+69532,Q008327.2.5,X,BI,,,,X,['𒁉'],𒁉,BI,['complete'],0.0,,Q008327,2,5
+69533,Q008327.2.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008327,2,6
+69534,Q008327.2.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,2,7
+69535,Q008327.3.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q008327,3,1
+69536,Q008327.3.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}aš-šur-DU₃]-⸢A⸣,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀸', '𒋩', '𒆕', '𒀀']",𒁹𒀸𒋩𒆕𒀀,{[m]}[aš-šur-DU₃]-⸢A⸣,"['missing', 'missing', 'missing', 'missing', 'damaged']",0.9,RN,Q008327,3,2
+69537,Q008327.3.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008327,3,3
+69538,Q008327.3.4,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q008327,3,4
+69539,Q008327.3.5,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,Q008327,3,5
+69540,Q008327.3.6,mutnennû[one who prays much]N,mut-⸢nen⸣-[nu-u,mutnennû,mutnennû,one who prays much,N,"['𒄷𒄭', '𒎏', '𒉡', '𒌋']",𒄷𒄭𒎏𒉡𒌋,mut-⸢nen⸣-[nu-u],"['complete', 'damaged', 'missing', 'missing']",0.62,,Q008327,3,6
+69541,Q008327.3.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,3,7
+69542,Q008327.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,4,1
+69543,Q008327.4.2,ilūtiki[divinity]N,DINGIR-ti-ki,ilūtiki,ilūtu,divinity,N,"['𒀭', '𒋾', '𒆠']",𒀭𒋾𒆠,DINGIR-ti-ki,"['complete', 'complete', 'complete']",0.0,,Q008327,4,2
+69544,Q008327.4.3,uttûma[select]V,ut-tu-ma,uttûma,watû,select,V,"['𒌓', '𒌅', '𒈠']",𒌓𒌅𒈠,ut-tu-ma,"['complete', 'complete', 'complete']",0.0,,Q008327,4,3
+69545,Q008327.4.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008327,4,4
+69546,Q008327.4.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,4,5
+69547,Q008327.5.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q008327,5,1
+69548,Q008327.5.2,šarrāni[king]N,LUGAL].MEŠ-ni,šarrāni,šarru,king,N,"['𒈗', '𒎌', '𒉌']",𒈗𒎌𒉌,[LUGAL].MEŠ-ni,"['missing', 'complete', 'complete']",0.33,,Q008327,5,2
+69549,Q008327.5.3,abbīšu[ancestor]N,AD.MEŠ-šu₂,abbīšu,abu,ancestor,N,"['𒀜', '𒎌', '𒋙']",𒀜𒎌𒋙,AD.MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,,Q008327,5,3
+69550,Q008327.5.4,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008327,5,4
+69551,Q008327.5.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,5,5
+69552,Q008327.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,6,1
+69553,Q008327.6.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008327,6,2
+69554,Q008327.6.3,"Aššur-ahu-iddina[Esarhaddon, king of Assyria]RN",{m}aš-šur-PAP-AŠ,Aššur-ahu-iddina,Aššur-ahu-iddina,"Esarhaddon, king of Assyria",RN,"['𒁹', '𒀸', '𒋩', '𒉽', '𒀸']",𒁹𒀸𒋩𒉽𒀸,{m}aš-šur-PAP-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008327,6,3
+69555,Q008327.6.4,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q008327,6,4
+69556,Q008327.6.5,māt[land]N,⸢KUR⸣,māt,mātu,land,N,['𒆳'],𒆳,⸢KUR⸣,['damaged'],0.5,,Q008327,6,5
+69557,Q008327.6.6,Aššur[Assyria]GN,[aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,[aš-šur],"['missing', 'missing']",1.0,GN,Q008327,6,6
+69558,Q008327.6.7,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,6,7
+69559,Q008327.7.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q008327,7,1
+69560,Q008327.7.2,"Sin-ahhe-eriba[Sennacherib, king of Assyria]RN",{m}{d}30-⸢PAP⸣.MEŠ-⸢SU⸣,Sin-ahhe-eriba,Sin-ahhe-eriba,"Sennacherib, king of Assyria",RN,"['𒁹', '𒀭', '𒌍', '𒉽', '𒎌', '𒋢']",𒁹𒀭𒌍𒉽𒎌𒋢,{[m]}{[d]}[30]-⸢PAP⸣.MEŠ-⸢SU⸣,"['missing', 'missing', 'missing', 'damaged', 'complete', 'damaged']",0.67,RN,Q008327,7,2
+69561,Q008327.7.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,7,3
+69562,Q008327.8.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,8,1
+69563,Q008327.8.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008327,8,2
+69564,Q008327.8.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q008327,8,3

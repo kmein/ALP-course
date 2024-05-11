@@ -1,0 +1,26 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+51542,Q003847.1.1,Nanna[1]DN,{d}nanna,,Nanna,1,DN,"['𒀭', '𒋀𒆠']",𒀭𒋀𒆠,{d}nanna,"['complete', 'complete']",0.0,DN,Q003847,1,1
+51543,Q003847.1.2,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q003847,1,2
+51544,Q003847.1.3,"an[sky, heaven]N",an,,an,"sky, heaven",N,['𒀭'],𒀭,an,['complete'],0.0,,Q003847,1,3
+51545,Q003847.1.4,"ki[ground, earth]N",ki-a,,ki,"ground, earth, land",N,"['𒆠', '𒀀']",𒆠𒀀,ki-a,"['complete', 'complete']",0.0,,Q003847,1,4
+51546,Q003847.2.1,zi[life]N,zi,,zi,life,N,['𒍣'],𒍣,zi,['complete'],0.0,,Q003847,2,1
+51547,Q003847.2.2,namtil[life]N,nam-ti-la-še₃,,namtil,life,N,"['𒉆', '𒋾', '𒆷', '𒂠']",𒉆𒋾𒆷𒂠,nam-ti-la-še₃,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003847,2,2
+51548,Q003847.3.1,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",AN.ŠAR₂-DU₃-IBILA-ke₄,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒀭', '𒊹', '𒆕', '𒌉𒍑', '𒆤']",𒀭𒊹𒆕𒌉𒍑𒆤,AN.ŠAR₂-DU₃-IBILA-ke₄,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q003847,3,1
+51549,Q003847.4.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q003847,4,1
+51550,Q003847.4.2,lugal[king]N,lugal-e-ne,,lugal,king,N,"['𒈗', '𒂊', '𒉈']",𒈗𒂊𒉈,lugal-e-ne,"['complete', 'complete', 'complete']",0.0,,Q003847,4,2
+51551,Q003847.4.3,lugal[king]N,lugal-a-ni,,lugal,king,N,"['𒈗', '𒀀', '𒉌']",𒈗𒀀𒉌,lugal-a-ni,"['complete', 'complete', 'complete']",0.0,,Q003847,4,3
+51552,Q003847.5.1,Sin-balassu-iqbi[governor of Ur]PN,{d}30-TIN-su-iq-bi,Sin-balassu-iqbi,Sin-balassu-iqbi,governor of Ur,PN,"['𒀭', '𒌍', '𒁷', '𒋢', '𒅅', '𒁉']",𒀭𒌍𒁷𒋢𒅅𒁉,{d}30-TIN-su-iq-bi,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,Q003847,5,1
+51553,Q003847.6.1,"šakkanak[general, governor-general]N",šagina,,šakkanak,"general, governor-general",N,['𒄊𒀴'],𒄊𒀴,šagina,['complete'],0.0,,Q003847,6,1
+51554,Q003847.6.2,Uri[Ur]SN,uri₂{ki}ma,,Uri,Ur,SN,"['𒋀𒀕', '𒆠', '𒈠']",𒋀𒀕𒆠𒈠,uri₂{KI}ma,"['complete', 'complete', 'complete']",0.0,,Q003847,6,2
+51555,Q003847.7.1,Eridu[1]SN,eridu{ki}ga-ke₄,,Eridu,1,SN,"['𒉣', '𒆠', '𒂵', '𒆤']",𒉣𒆠𒂵𒆤,eridu{KI}ga-ke₄,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003847,7,1
+51556,Q003847.8.1,ua[provisioner]N,u₂-a,,ua,provisioner,N,"['𒌑', '𒀀']",𒌑𒀀,u₂-a,"['complete', 'complete']",0.0,,Q003847,8,1
+51557,Q003847.8.2,Ekišnugal[1]TN,e₂-giš-nu₁₁-gal,,Ekišnugal,1,TN,"['𒂍', '𒄑', '𒉢', '𒃲']",𒂍𒄑𒉢𒃲,e₂-giš-nu₁₁-gal,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003847,8,2
+51558,Q003847.9.1,eš[shrine]N,eš₃,,eš,shrine,N,['𒀊'],𒀊,eš₃,['complete'],0.0,,Q003847,9,1
+51559,Q003847.9.2,abzu[(cosmic) underground water]N,abzu,,abzu,(cosmic) underground water,N,['𒍪𒀊'],𒍪𒀊,abzu,['complete'],0.0,,Q003847,9,2
+51560,Q003847.9.3,zalag[shine]V/i,zalag₂-ga-ke₄,,zalag,shine,V/i,"['𒂟', '𒂵', '𒆤']",𒂟𒂵𒆤,zalag₂-ga-ke₄,"['complete', 'complete', 'complete']",0.0,,Q003847,9,3
+51561,Q003847.10.1,Elugalgalgasisa[1]TN,e₂-lugal-galga-si-sa₂,,Elugalgalgasisa,1,TN,"['𒂍', '𒈗', '𒃌', '𒋛', '𒁲']",𒂍𒈗𒃌𒋛𒁲,e₂-lugal-galga-si-sa₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,Q003847,10,1
+51562,Q003847.11.1,e[house]N,e₂,,e,house,N,['𒂍'],𒂍,e₂,['complete'],0.0,,Q003847,11,1
+51563,Q003847.11.2,"ki[land, country]N",ki,,ki,"land, country",N,['𒆠'],𒆠,ki,['complete'],0.0,,Q003847,11,2
+51564,Q003847.11.3,aŋ[to measure]V/t,ag₂-ga₂-a-ni,,aŋ,to measure,V/t,"['𒉘', '𒂷', '𒀀', '𒉌']",𒉘𒂷𒀀𒉌,ag₂-ga₂-a-ni,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003847,11,3
+51565,Q003847.12.1,gibil[(to be) new]V/i,gibil-bi,,gibil,(to be) new,V/i,"['𒉋', '𒁉']",𒉋𒁉,gibil-bi,"['complete', 'complete']",0.0,,Q003847,12,1
+51566,Q003847.12.2,du[build]V/t,mu-un-na-du₃,,du,build,V/t,"['𒈬', '𒌦', '𒈾', '𒆕']",𒈬𒌦𒈾𒆕,mu-un-na-du₃,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003847,12,2

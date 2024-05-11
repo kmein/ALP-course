@@ -1,0 +1,18 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+11601,Q003810.3.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003810,3,1
+11602,Q003810.3.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q003810,3,2
+11603,Q003810.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003810,4,1
+11604,Q003810.4.2,u,x-a-a,,,,u,"['x', '𒀀', '𒀀']",x𒀀𒀀,x-a-a,"['complete', 'complete', 'complete']",0.0,,Q003810,4,2
+11605,Q003810.5.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q003810,5,1
+11606,Q003810.5.2,Šarrat-Kidmuri[1]DN,{d]}⸢šar⸣-rat-kid-mu-ri,Šarrat-Kidmuri,Šarrat-Kidmuri,1,DN,"['𒀭', '𒊬', '𒋥', '𒆤', '𒈬', '𒊑']",𒀭𒊬𒋥𒆤𒈬𒊑,{[d]}⸢šar⸣-rat-kid-mu-ri,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.25,DN,Q003810,5,2
+11607,Q003810.6.1,Ištar[1]DN,{[d}15,Ištar,Ištar,1,DN,"['𒀭', '𒌋𒐊']",𒀭𒌋𒐊,{[d]}[15],"['missing', 'missing']",1.0,DN,Q003810,6,1
+11608,Q003810.6.2,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,[ša₂],['missing'],1.0,,Q003810,6,2
+11609,Q003810.6.3,Arba-ili[Arbela]SN,LIMMU₂-DINGIR{ki},Arba-ili,Arba-il,Arbela,SN,"['𒇹', '𒀭', '𒆠']",𒇹𒀭𒆠,[LIMMU₂-DINGIR]{[KI]},"['missing', 'missing', 'missing']",1.0,,Q003810,6,3
+11610,Q003810.6.4,Ninurta[1]DN,{d}MAŠ,Ninurta,Ninurta,1,DN,"['𒀭', '𒈦']",𒀭𒈦,{[d]}[MAŠ],"['missing', 'missing']",1.0,DN,Q003810,6,4
+11611,Q003810.6.5,Nergal[1]DN,{d}U.GUR],Nergal,Nergal,1,DN,"['𒀭', '𒌋', '𒄥']",𒀭𒌋𒄥,{[d]}[U].[GUR],"['missing', 'missing', 'missing']",1.0,DN,Q003810,6,5
+11612,Q003810.6.6,Nusku[1]DN,{d}nusku,Nusku,Nusku,1,DN,"['𒀭', '𒉺𒌆']",𒀭𒉺𒌆,{d}nusku,"['complete', 'complete']",0.0,DN,Q003810,6,6
+11613,Q003810.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003810,7,1
+11614,Q003810.7.2,hidâti[joy]N,HUL₂.MEŠ,hidâti,hidiātu,joy,N,"['𒄾', '𒎌']",𒄾𒎌,HUL₂.MEŠ,"['complete', 'complete']",0.0,,Q003810,7,2
+11615,Q003810.8.1,u,[...]-⸢te⸣-šu₂-nu,,,,u,"['x', '𒋼', '𒋙', '𒉡']",x𒋼𒋙𒉡,[x]⸢te⸣-šu₂-nu,"['missing', 'damaged', 'complete', 'complete']",0.38,,Q003810,8,1
+11616,Q003810.9.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003810,9,1
+11617,Q003810.9.2,u,x.MEŠ,,,,u,"['x', '𒎌']",x𒎌,x.MEŠ,"['complete', 'complete']",0.0,,Q003810,9,2

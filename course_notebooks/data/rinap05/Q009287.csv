@@ -1,0 +1,16 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+19365,Q009287.2.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q009287,2,1
+19366,Q009287.2.2,Enlil[1]DN,{d]}⸢EN.LIL₂⸣,Enlil,Enlil,1,DN,"['𒀭', '𒂗', '𒆤']",𒀭𒂗𒆤,{[d]}⸢EN⸣.⸢LIL₂⸣,"['missing', 'damaged', 'damaged']",0.67,DN,Q009287,2,2
+19367,Q009287.3.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009287,3,1
+19368,Q009287.3.2,x,⸢ŠA₂⸣,,,,,['𒃻'],𒃻,⸢ŠA₂⸣,['damaged'],0.5,,Q009287,3,2
+19369,Q009287.3.3,u,ME,,,,u,['𒈨'],𒈨,ME,['complete'],0.0,,Q009287,3,3
+19370,Q009287.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009287,5,1
+19371,Q009287.5.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q009287,5,2
+19372,Q009287.5.3,gumāhu[prize bull]N,GU₄.MAH-⸢hu⸣,gumāhu,gumāhu,prize bull,N,"['𒄞', '𒈤', '𒄷']",𒄞𒈤𒄷,GU₄.MAH-⸢hu⸣,"['complete', 'complete', 'damaged']",0.17,,Q009287,5,3
+19373,Q009287.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009287,6,1
+19374,Q009287.6.2,innabtuma[run away]V,⸢in⸣-nab-tu₂-⸢ma⸣,innabtuma,abātu,run away,V,"['𒅔', '𒀮', '𒌓', '𒈠']",𒅔𒀮𒌓𒈠,⸢in⸣-nab-tu₂-⸢ma⸣,"['damaged', 'complete', 'complete', 'damaged']",0.25,,Q009287,6,2
+19375,Q009287.7.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q009287,7,1
+19376,Q009287.7.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂]-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{[m]}[AN].[ŠAR₂]-DU₃-A,"['missing', 'missing', 'missing', 'complete', 'complete']",0.6,RN,Q009287,7,2
+19377,Q009287.8.1,u,[...]-⸢ti⸣-šu₂,,,,u,"['x', '𒋾', '𒋙']",x𒋾𒋙,[x]⸢ti⸣-šu₂,"['missing', 'damaged', 'complete']",0.5,,Q009287,8,1
+19378,Q009287.11.1,%akk:x=,[...],,,,,['x'],x,[x],['missing'],1.0,,Q009287,11,1
+19379,Q009287.11.2,%akk:AN=,AN,,,,,['𒀭'],𒀭,AN,['complete'],0.0,,Q009287,11,2

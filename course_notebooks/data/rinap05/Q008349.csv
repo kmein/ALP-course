@@ -1,0 +1,23 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+9537,Q008349.1.1,Enlil[1]DN,{d}en-lil₂-la₂,,Enlil,1,DN,"['𒀭', '𒂗', '𒆤', '𒇲']",𒀭𒂗𒆤𒇲,{d}en-lil₂-la₂,"['complete', 'complete', 'complete', 'complete']",0.0,DN,Q008349,1,1
+9538,Q008349.2.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008349,2,1
+9539,Q008349.2.2,diŋir[god]N,⸢digir-re⸣-e-ne-ke₄,,diŋir,god,N,"['𒀭', '𒊑', '𒂊', '𒉈', '𒆤']",𒀭𒊑𒂊𒉈𒆤,⸢digir-re⸣-e-ne-ke₄,"['damaged', 'damaged', 'complete', 'complete', 'complete']",0.2,,Q008349,2,2
+9540,Q008349.3.1,nirŋal[authoritative]AJ,nir-gal₂,,nirŋal,authoritative,AJ,"['𒉪', '𒅅']",𒉪𒅅,nir-gal₂,"['complete', 'complete']",0.0,,Q008349,3,1
+9541,Q008349.3.2,an[heaven]N,an,,an,"sky, heaven",N,['𒀭'],𒀭,an,['complete'],0.0,,Q008349,3,2
+9542,Q008349.3.3,ki[earth]N,ki-a,,ki,"ground, earth, land",N,"['𒆠', '𒀀']",𒆠𒀀,ki-a,"['complete', 'complete']",0.0,,Q008349,3,3
+9543,Q008349.4.1,nun[prince]N,nun,,nun,prince,N,['𒉣'],𒉣,nun,['complete'],0.0,,Q008349,4,1
+9544,Q008349.4.2,nam[fate]N,nam,,nam,"fate, destiny",N,['𒉆'],𒉆,nam,['complete'],0.0,,Q008349,4,2
+9545,Q008349.4.3,tar[cut]V/t/tar-tar#~;a,tar-tar-ra,,tar,cut,V/t,"['𒋻', '𒋻', '𒊏']",𒋻𒋻𒊏,tar-tar-ra,"['complete', 'complete', 'complete']",0.0,,Q008349,4,3
+9546,Q008349.5.1,lugal[king]N,lugal-a-ni-ir,,lugal,king,N,"['𒈗', '𒀀', '𒉌', '𒅕']",𒈗𒀀𒉌𒅕,lugal-a-ni-ir,"['complete', 'complete', 'complete', 'complete']",0.0,,Q008349,5,1
+9547,Q008349.6.1,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN$Aššur-ban-aplu",AN.ŠAR₂-ba-an-IBILA,Aššur-ban-aplu,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒀭', '𒊹', '𒁀', '𒀭', '𒌉𒍑']",𒀭𒊹𒁀𒀭𒌉𒍑,AN.ŠAR₂-ba-an-IBILA,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,Q008349,6,1
+9548,Q008349.7.1,sipad[shepherd]N,sipa,,sipad,shepherd,N,['𒉺𒇻'],𒉺𒇻,sipa,['complete'],0.0,,Q008349,7,1
+9549,Q008349.7.2,šeg[agree]V/t,še-ga-bi,,šeg,agree,V/t,"['𒊺', '𒂵', '𒁉']",𒊺𒂵𒁉,še-ga-bi,"['complete', 'complete', 'complete']",0.0,,Q008349,7,2
+9550,Q008349.8.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008349,8,1
+9551,Q008349.8.2,"kalag[(to be) strong, powerful, mighty]V/i",kala-ga,,kalag,"(to be) strong, powerful, mighty",V/i,"['𒅤', '𒂵']",𒅤𒂵,kala-ga,"['complete', 'complete']",0.0,,Q008349,8,2
+9552,Q008349.9.1,lugal[king]N,lugal,,lugal,king,N,['𒈗'],𒈗,lugal,['complete'],0.0,,Q008349,9,1
+9553,Q008349.9.2,kišar[the whole earth]N,ki-šar₂-ra,,kišar,the whole earth,N,"['𒆠', '𒊹', '𒊏']",𒆠𒊹𒊏,ki-šar₂-ra,"['complete', 'complete', 'complete']",0.0,,Q008349,9,2
+9554,Q008349.9.3,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q008349,9,3
+9555,Q008349.10.1,Egigunu[]TN/e₂-gi-gun₃-na#~,e₂-gi-gun₃-⸢na⸣,,Egigunu,1,TN,"['𒂍', '𒄀', '𒁯', '𒈾']",𒂍𒄀𒁯𒈾,e₂-gi-gun₃-⸢na⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,,Q008349,10,1
+9556,Q008349.11.1,šeg[brick]N,sig₄,,šeg,"brick, mudbrick",N,['𒋞'],𒋞,sig₄,['complete'],0.0,,Q008349,11,1
+9557,Q008349.11.2,alura[baked (of bricks)]AJ,al-ur₃-ra,,alura,baked (of bricks),AJ,"['𒀠', '𒃡', '𒊏']",𒀠𒃡𒊏,al-ur₃-ra,"['complete', 'complete', 'complete']",0.0,,Q008349,11,2
+9558,Q008349.12.1,du[build]V/t,mu-un-na-du₃,,du,build,V/t,"['𒈬', '𒌦', '𒈾', '𒆕']",𒈬𒌦𒈾𒆕,mu-un-na-du₃,"['complete', 'complete', 'complete', 'complete']",0.0,,Q008349,12,1

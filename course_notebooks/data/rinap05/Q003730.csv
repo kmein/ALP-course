@@ -1,0 +1,10 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+67786,Q003730.1.1,sidru[line of battle]N,[si-id-ru,sidru,sidru,line of battle,N,"['𒋛', '𒀉', '𒊒']",𒋛𒀉𒊒,[si-id-ru],"['missing', 'missing', 'missing']",1.0,,Q003730,1,1
+67787,Q003730.1.2,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,Q003730,1,2
+67788,Q003730.1.3,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN",{m}AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒁹', '𒀭', '𒊹', '𒆕', '𒀀']",𒁹𒀭𒊹𒆕𒀀,{[m]}[AN].[ŠAR₂-DU₃-A],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,RN,Q003730,1,3
+67789,Q003730.1.4,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,Q003730,1,4
+67790,Q003730.1.5,māt[land]N,KUR],māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,Q003730,1,5
+67791,Q003730.1.6,Aššur[Assyria]GN,⸢AN⸣.ŠAR₂{ki},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,⸢AN⸣.ŠAR₂{KI},"['damaged', 'complete', 'complete']",0.17,GN,Q003730,1,6
+67792,Q003730.1.7,šākin[one who places]N,ša₂-kin,šākin,šākinu,one who places,N,"['𒃻', '𒆥']",𒃻𒆥,ša₂-kin,"['complete', 'complete']",0.0,,Q003730,1,7
+67793,Q003730.1.8,dabdê[defeat]N,⸢BAD₅⸣.[BAD₅,dabdê,dabdû,defeat,N,"['𒅆', '𒅆']",𒅆𒅆,⸢BAD₅⸣.[BAD₅],"['damaged', 'missing']",0.75,,Q003730,1,8
+67794,Q003730.1.9,Elamti[Elam]GN,{kur}ELAM.MA{ki]},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q003730,1,9

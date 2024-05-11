@@ -1,0 +1,8 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+62963,Q003741.1.1,Bit-Bunakki[1]SN,{⸢uru⸣}[E₂-{m]}⸢bu⸣-na-ki,Bit-Bunakki,Bit-Bunakku,1,SN,"['𒌷', '𒂍', '𒁹', '𒁍', '𒈾', '𒆠']",𒌷𒂍𒁹𒁍𒈾𒆠,{⸢URU⸣}[E₂]-{[m]}⸢bu⸣-na-ki,"['damaged', 'missing', 'missing', 'damaged', 'complete', 'complete']",0.5,,Q003741,1,1
+62964,Q003741.1.2,āl[city]N,URU,āl,ālu,city,N,['𒌷'],𒌷,URU,['complete'],0.0,,Q003741,1,2
+62965,Q003741.1.3,šarrūti[kingship]N,[(LUGAL-u-ti),šarrūti,šarrūtu,kingship,N,"['𒈗', '𒌋', '𒋾']",𒈗𒌋𒋾,[LUGAL-u-ti],"['missing', 'missing', 'missing']",1.0,,Q003741,1,3
+62966,Q003741.1.4,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,[ša₂],['missing'],1.0,,Q003741,1,4
+62967,Q003741.1.5,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{[KUR]}[ELAM].[MA]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q003741,1,5
+62968,Q003741.1.6,u,(...)],,,,u,['x'],x,[x],['missing'],1.0,,Q003741,1,6
+62969,Q003741.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q003741,2,1

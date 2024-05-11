@@ -1,0 +1,23 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+63996,Q007560.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,2,1
+63997,Q007560.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007560,2,2
+63998,Q007560.2.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,2,3
+63999,Q007560.3.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007560,3,1
+64000,Q007560.3.2,Elamti[Elam]GN,{kur]}⸢e⸣-lam-⸢ti⸣,Elamti,Elamtu,Elam,GN,"['𒆳', '𒂊', '𒇴', '𒋾']",𒆳𒂊𒇴𒋾,{[KUR]}⸢e⸣-lam-⸢ti⸣,"['missing', 'damaged', 'complete', 'damaged']",0.5,GN,Q007560,3,2
+64001,Q007560.3.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,3,3
+64002,Q007560.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,4,1
+64003,Q007560.4.2,ina[in]PRP,⸢ina⸣,ina,ina,in,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,,Q007560,4,2
+64004,Q007560.4.3,lā[not]MOD,la,lā,lā,not,MOD,['𒆷'],𒆷,la,['complete'],0.0,,Q007560,4,3
+64005,Q007560.4.4,mīni[number]N,mi₃-⸢ni⸣,mīni,mīnu,number,N,"['𒈨', '𒉌']",𒈨𒉌,mi₃-⸢ni⸣,"['complete', 'damaged']",0.25,,Q007560,4,4
+64006,Q007560.4.5,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,4,5
+64007,Q007560.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,5,1
+64008,Q007560.5.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007560,5,2
+64009,Q007560.5.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,5,3
+64010,Q007560.6.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q007560,6,1
+64011,Q007560.6.2,"Ummanaldasi[son of Atta-metu and king of Elam, Humban-haltaš III]RN",{m}um-man-al]-⸢da⸣-si,Ummanaldasi,Ummanaldašu,"son of Atta-metu and king of Elam, Humban-haltaš III",RN,"['𒁹', '𒌝', '𒎙', '𒀠', '𒁕', '𒋛']",𒁹𒌝𒎙𒀠𒁕𒋛,{[m]}[um-man-al]-⸢da⸣-si,"['missing', 'missing', 'missing', 'missing', 'damaged', 'complete']",0.75,RN,Q007560,6,2
+64012,Q007560.6.3,šar[king]N,⸢MAN⸣,šar,šarru,king,N,['𒎙'],𒎙,⸢MAN⸣,['damaged'],0.5,,Q007560,6,3
+64013,Q007560.6.4,Elamti[Elam]GN,{[kur}e-lam-ti,Elamti,Elamtu,Elam,GN,"['𒆳', '𒂊', '𒇴', '𒋾']",𒆳𒂊𒇴𒋾,{[KUR]}[e-lam-ti],"['missing', 'missing', 'missing', 'missing']",1.0,GN,Q007560,6,4
+64014,Q007560.6.5,u,...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,6,5
+64015,Q007560.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,7,1
+64016,Q007560.7.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q007560,7,2
+64017,Q007560.7.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q007560,7,3

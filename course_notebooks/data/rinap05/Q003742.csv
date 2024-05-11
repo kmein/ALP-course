@@ -1,0 +1,30 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+29371,Q003742.1.1,anāku[I]IP,a-na-⸢ku⸣,anāku,anāku,I,IP,"['𒀀', '𒈾', '𒆪']",𒀀𒈾𒆪,a-na-⸢ku⸣,"['complete', 'complete', 'damaged']",0.17,,Q003742,1,1
+29372,Q003742.1.2,"Aššur-bani-apli[Ashurbanipal, king of Assyria]RN$Aššur-bani-apli",AN.ŠAR₂-DU₃-A,Aššur-bani-apli,Aššur-bani-apli,"Ashurbanipal, king of Assyria",RN,"['𒀭', '𒊹', '𒆕', '𒀀']",𒀭𒊹𒆕𒀀,AN.ŠAR₂-DU₃-A,"['complete', 'complete', 'complete', 'complete']",0.0,RN,Q003742,1,2
+29373,Q003742.1.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003742,1,3
+29374,Q003742.1.4,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,Q003742,1,4
+29375,Q003742.1.5,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,Q003742,1,5
+29376,Q003742.1.6,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,Q003742,1,6
+29377,Q003742.1.7,Aššur[Assyria]GN,AN.ŠAR₂{ki},Aššur,Aššur,Assyria,GN,"['𒀭', '𒊹', '𒆠']",𒀭𒊹𒆠,AN.ŠAR₂{KI},"['complete', 'complete', 'complete']",0.0,GN,Q003742,1,7
+29378,Q003742.2.1,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003742,2,1
+29379,Q003742.2.2,ina[through]PRP,⸢ina⸣,ina,ina,through,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,,Q003742,2,2
+29380,Q003742.2.3,qibīt[command]N,[qi₂-bit,qibīt,qibītu,command,N,"['𒆠', '𒂍']",𒆠𒂍,[qi₂-bit],"['missing', 'missing']",1.0,,Q003742,2,3
+29381,Q003742.2.4,Aššur[1]DN,AN.ŠAR₂,Aššur,Aššur,1,DN,"['𒀭', '𒊹']",𒀭𒊹,[AN].[ŠAR₂],"['missing', 'missing']",1.0,DN,Q003742,2,4
+29382,Q003742.2.5,u[and]CNJ,u],u,u,and,CNJ,['𒌋'],𒌋,[u],['missing'],1.0,,Q003742,2,5
+29383,Q003742.2.6,Mullissu[1]DN,{d}NIN.LIL₂,Mullissu,Mullissu,1,DN,"['𒀭', '𒎏', '𒆤']",𒀭𒎏𒆤,{d}NIN.LIL₂,"['complete', 'complete', 'complete']",0.0,DN,Q003742,2,6
+29384,Q003742.2.7,ikšudu[achieve]V,ik-šu₂-du,ikšudu,kašādu,achieve,V,"['𒅅', '𒋙', '𒁺']",𒅅𒋙𒁺,ik-šu₂-du,"['complete', 'complete', 'complete']",0.0,,Q003742,2,7
+29385,Q003742.2.8,ṣummirātu[desires]N$ṣummerāt,ṣu-um-me-rat,ṣummerāt,ṣummirātu,desires,N,"['𒍮', '𒌝', '𒈨', '𒋥']",𒍮𒌝𒈨𒋥,ṣu-um-me-rat,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003742,2,8
+29386,Q003742.2.9,libbišu[heart]N,lib₃-bi-šu₂,libbišu,libbu,heart,N,"['𒊮', '𒁉', '𒋙']",𒊮𒁉𒋙,lib₃-bi-šu₂,"['complete', 'complete', 'complete']",0.0,,Q003742,2,9
+29387,Q003742.3.1,Dinšarri[1]SN,{uru}di-⸢in⸣-[LUGAL],Dinšarri,Dinšarri,1,SN,"['𒌷', '𒁲', '𒅔', '𒈗']",𒌷𒁲𒅔𒈗,{URU}di-⸢in⸣-[LUGAL],"['complete', 'complete', 'damaged', 'missing']",0.38,,Q003742,3,1
+29388,Q003742.3.2,ālu[city]N,⸢URU⸣,ālu,ālu,city,N,['𒌷'],𒌷,⸢URU⸣,['damaged'],0.5,,Q003742,3,2
+29389,Q003742.3.3,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,Q003742,3,3
+29390,Q003742.3.4,Elamti[Elam]GN,{kur}ELAM.MA{ki},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.MA{KI},"['complete', 'complete', 'complete', 'complete']",0.0,GN,Q003742,3,4
+29391,Q003742.4.1,alme[surround]V,⸢al-me⸣,alme,lawû,surround,V,"['𒀠', '𒈨']",𒀠𒈨,⸢al-me⸣,"['damaged', 'damaged']",0.5,,Q003742,4,1
+29392,Q003742.4.2,akšud[conquer]V,KUR-⸢ud,akšud,kašādu,conquer,V,"['𒆳', '𒌓']",𒆳𒌓,KUR-⸢ud⸣,"['complete', 'damaged']",0.25,,Q003742,4,2
+29393,Q003742.4.3,narkabāti[chariot]N,{giš⸣}[GIGIR].⸢MEŠ⸣,narkabāti,narkabtu,chariot,N,"['𒄑', '𒇀', '𒎌']",𒄑𒇀𒎌,{⸢GIŠ⸣}[GIGIR].⸢MEŠ⸣,"['damaged', 'missing', 'damaged']",0.67,,Q003742,4,3
+29394,Q003742.4.4,ṣumbī[wagon]N,{giš}ṣu-um-bi,ṣumbī,ṣumbu,wagon,N,"['𒄑', '𒍮', '𒌝', '𒁉']",𒄑𒍮𒌝𒁉,{GIŠ}ṣu-um-bi,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003742,4,4
+29395,Q003742.4.5,sisê[horse]N,ANŠE.KUR.RA.MEŠ,sisê,sisû,horse,N,"['𒀲', '𒆳', '𒊏', '𒎌']",𒀲𒆳𒊏𒎌,ANŠE.KUR.RA.MEŠ,"['complete', 'complete', 'complete', 'complete']",0.0,,Q003742,4,5
+29396,Q003742.5.1,parê[mule]N,⸢ANŠE.KUNGA⸣.MEŠ,parê,parû,mule,N,"['𒀲', '𒋙𒀯', '𒎌']",𒀲𒋙𒀯𒎌,⸢ANŠE⸣.⸢KUNGA⸣.MEŠ,"['damaged', 'damaged', 'complete']",0.33,,Q003742,5,1
+29397,Q003742.5.2,ušēṣâmma[bring out]V,[u₂-še-ṣa]-am-ma,ušēṣâmma,waṣû,bring out,V,"['𒌑', '𒊺', '𒍝', '𒄠', '𒈠']",𒌑𒊺𒍝𒄠𒈠,[u₂-še-ṣa]-am-ma,"['missing', 'missing', 'missing', 'complete', 'complete']",0.6,,Q003742,5,2
+29398,Q003742.5.3,šallatiš[as booty]AV,šal-la-tiš,šallatiš,šallatiš,as booty,AV,"['𒊩', '𒆷', '𒁹']",𒊩𒆷𒁹,šal-la-tiš,"['complete', 'complete', 'complete']",0.0,,Q003742,5,3
+29399,Q003742.5.4,amnu[count]V,am-[nu],amnu,manû,count,V,"['𒄠', '𒉡']",𒄠𒉡,am-[nu],"['complete', 'missing']",0.5,,Q003742,5,4

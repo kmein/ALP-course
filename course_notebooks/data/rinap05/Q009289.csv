@@ -1,0 +1,27 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+15640,Q009289.2.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009289,2,1
+15641,Q009289.2.2,u,x,,,,u,['x'],x,x,['complete'],0.0,,Q009289,2,2
+15642,Q009289.3.1,u,[...]-⸢uš⸣-šu₂,,,,u,"['x', '𒍑', '𒋙']",x𒍑𒋙,[x]⸢uš⸣-šu₂,"['missing', 'damaged', 'complete']",0.5,,Q009289,3,1
+15643,Q009289.4.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009289,4,1
+15644,Q009289.4.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q009289,4,2
+15645,Q009289.4.3,x,NA,,,,,['𒈾'],𒈾,NA,['complete'],0.0,,Q009289,4,3
+15646,Q009289.4.4,x,KI,,,,,['𒆠'],𒆠,KI,['complete'],0.0,,Q009289,4,4
+15647,Q009289.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009289,5,1
+15648,Q009289.5.2,u[and]CNJ,⸢u⸣,u,u,and,CNJ,['𒌋'],𒌋,⸢u⸣,['damaged'],0.5,,Q009289,5,2
+15649,Q009289.5.3,kaspi[silver]N,KU₃.BABBAR,kaspi,kaspu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.BABBAR,"['complete', 'complete']",0.0,,Q009289,5,3
+15650,Q009289.6.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q009289,6,1
+15651,Q009289.6.2,ana[to]PRP,a-na],ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,Q009289,6,2
+15652,Q009289.6.3,sihirtišu[entirety]N,⸢si⸣-hir-ti-šu₂,sihirtišu,sihirtu,entirety,N,"['𒋛', '𒆟', '𒋾', '𒋙']",𒋛𒆟𒋾𒋙,⸢si⸣-hir-ti-šu₂,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q009289,6,3
+15653,Q009289.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009289,7,1
+15654,Q009289.7.2,x,⸢KI⸣-ta,,,,,"['𒆠', '𒋫']",𒆠𒋫,⸢KI⸣-ta,"['damaged', 'complete']",0.25,,Q009289,7,2
+15655,Q009289.7.3,ušēšib[make sit]V,u₂-še-šib,ušēšib,wašābu,make sit,V,"['𒌑', '𒊺', '𒈨']",𒌑𒊺𒈨,u₂-še-šib,"['complete', 'complete', 'complete']",0.0,,Q009289,7,3
+15656,Q009289.8.1,u,[...]-⸢tu⸣,,,,u,"['x', '𒌅']",x𒌅,[x]⸢tu⸣,"['missing', 'damaged']",0.75,,Q009289,8,1
+15657,Q009289.8.2,rabītu[great]AJ,GAL-tu₂,rabītu,rabû,great,AJ,"['𒃲', '𒌓']",𒃲𒌓,GAL-tu₂,"['complete', 'complete']",0.0,,Q009289,8,2
+15658,Q009289.9.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,Q009289,9,1
+15659,Q009289.9.2,lulê[splendour]N,lu]-⸢le⸣-e,lulê,lulû,splendour,N,"['𒇻', '𒇷', '𒂊']",𒇻𒇷𒂊,[lu]-⸢le⸣-e,"['missing', 'damaged', 'complete']",0.5,,Q009289,9,2
+15660,Q009289.9.3,umalli[constantly fill (up)]V,u₂-mal-li,umalli,malû,constantly fill (up),V,"['𒌑', '𒂷', '𒇷']",𒌑𒂷𒇷,u₂-mal-li,"['complete', 'complete', 'complete']",0.0,,Q009289,9,3
+15661,Q009289.10.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009289,10,1
+15662,Q009289.10.2,ušēpišma[build]V,⸢u₂⸣-še-piš-ma,ušēpišma,epēšu,build,V,"['𒌑', '𒊺', '𒄫', '𒈠']",𒌑𒊺𒄫𒈠,⸢u₂⸣-še-piš-ma,"['damaged', 'complete', 'complete', 'complete']",0.12,,Q009289,10,2
+15663,Q009289.11.1,u,[...]-šu₂,,,,u,"['x', '𒋙']",x𒋙,[x]šu₂,"['missing', 'complete']",0.5,,Q009289,11,1
+15664,Q009289.12.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,Q009289,12,1
+15665,Q009289.12.2,x,x,,,,,['x'],x,x,['complete'],0.0,,Q009289,12,2

@@ -1,0 +1,10 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word
+48971,Q003743.1.1,u,{⸢uru}($traces$),,,,u,['𒌷'],𒌷,{⸢URU⸣},['damaged'],0.5,,Q003743,1,1
+48972,Q003743.1.2,āl[city]N,URU⸣,āl,ālu,city,N,['𒌷'],𒌷,⸢URU⸣,['damaged'],0.5,,Q003743,1,2
+48973,Q003743.1.3,šarrūti[kingship]N,LUGAL-u-ti,šarrūti,šarrūtu,kingship,N,"['𒈗', '𒌋', '𒋾']",𒈗𒌋𒋾,LUGAL-u-ti,"['complete', 'complete', 'complete']",0.0,,Q003743,1,3
+48974,Q003743.1.4,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,Q003743,1,4
+48975,Q003743.1.5,Elamti[Elam]GN,{kur}ELAM.⸢MA{ki⸣},Elamti,Elamtu,Elam,GN,"['𒆳', '𒉏', '𒈠', '𒆠']",𒆳𒉏𒈠𒆠,{KUR}ELAM.⸢MA⸣{⸢KI⸣},"['complete', 'complete', 'damaged', 'damaged']",0.25,GN,Q003743,1,5
+48976,Q003743.2.1,alme[surround]V,⸢al-me,alme,lawû,surround,V,"['𒀠', '𒈨']",𒀠𒈨,⸢al-me⸣,"['damaged', 'damaged']",0.5,,Q003743,2,1
+48977,Q003743.2.2,akšud[conquer]V,ak-šu-ud⸣,akšud,kašādu,conquer,V,"['𒀝', '𒋗', '𒌓']",𒀝𒋗𒌓,⸢ak-šu-ud⸣,"['damaged', 'damaged', 'damaged']",0.5,,Q003743,2,2
+48978,Q003743.2.3,ašlula[carry off]V,aš₂-lu-la,ašlula,šalālu,carry off,V,"['𒀾', '𒇻', '𒆷']",𒀾𒇻𒆷,aš₂-lu-la,"['complete', 'complete', 'complete']",0.0,,Q003743,2,3
+48979,Q003743.2.4,šallatsu[booty]N,šal-lat-su,šallatsu,šallatu,booty,N,"['𒊩', '𒆳', '𒋢']",𒊩𒆳𒋢,šal-lat-su,"['complete', 'complete', 'complete']",0.0,,Q003743,2,4
