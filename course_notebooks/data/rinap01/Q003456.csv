@@ -1,0 +1,103 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+13735,Q003456.3.1,u,[...]-an-šu,,,,u,"['x', '𒀭', '𒋗']",x𒀭𒋗,[x]an-šu,"['missing', 'complete', 'complete']",0.33,,,Q003456,3,1
+13736,Q003456.4.1,u,[...]-a-u₂,,,,u,"['x', '𒀀', '𒌑']",x𒀀𒌑,[x]a-u₂,"['missing', 'complete', 'complete']",0.33,,,Q003456,4,1
+13737,Q003456.5.1,u,[...]-a-ri-ṣa,,,,u,"['x', '𒀀', '𒊑', '𒍝']",x𒀀𒊑𒍝,[x]a-ri-ṣa,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,5,1
+13738,Q003456.6.1,u,[...]-a-nu,,,,u,"['x', '𒀀', '𒉡']",x𒀀𒉡,[x]a-nu,"['missing', 'complete', 'complete']",0.33,,,Q003456,6,1
+13739,Q003456.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,7,1
+13740,Q003456.7.2,Urmuše[]SN$,{uru}ur-mu-še,Urmuše,Urmuše,1,SN,"['𒌷', '𒌨', '𒈬', '𒊺']",𒌷𒌨𒈬𒊺,{URU}ur-mu-še,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,7,2
+13741,Q003456.8.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,8,1
+13742,Q003456.8.2,Elizanšu[]SN$,{uru}e-li]-za-an-šu,Elizanšu,Elizanšu,1,SN,"['𒌷', '𒂊', '𒇷', '𒍝', '𒀭', '𒋗']",𒌷𒂊𒇷𒍝𒀭𒋗,{[URU]}[e-li]-za-an-šu,"['missing', 'missing', 'missing', 'complete', 'complete', 'complete']",0.5,,,Q003456,8,2
+13743,Q003456.9.1,Luqadanšu[1]SN,[...]-an-šu,Luqadanšu,Luqadanšu,1,SN,"['x', '𒀭', '𒋗']",x𒀭𒋗,[x]an-šu,"['missing', 'complete', 'complete']",0.33,,,Q003456,9,1
+13744,Q003456.10.1,u,[...]-ta-an-šu,,,,u,"['x', '𒋫', '𒀭', '𒋗']",x𒋫𒀭𒋗,[x]ta-an-šu,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,10,1
+13745,Q003456.11.1,u,[...]-e-sa-an-šu,,,,u,"['x', '𒂊', '𒊓', '𒀭', '𒋗']",x𒂊𒊓𒀭𒋗,[x]e-sa-an-šu,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,,,Q003456,11,1
+13746,Q003456.12.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,12,1
+13747,Q003456.12.2,ālāni[city]N,URU.MEŠ-ni,ālāni,ālu,city,N,"['𒌷', '𒎌', '𒉌']",𒌷𒎌𒉌,[URU].[MEŠ-ni],"['missing', 'missing', 'missing']",1.0,,,Q003456,12,2
+13748,Q003456.12.3,ša[that]REL,ša],ša,ša,that,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,,Q003456,12,3
+13749,Q003456.12.4,muhhi[on]'PRP,UGU,muhhi,muhhu,on,N,['𒌋𒅗'],𒌋𒅗,UGU,['complete'],0.0,,,Q003456,12,4
+13750,Q003456.12.5,tâmtim[sea]N,tam-tim,tâmtim,tiāmtu,sea,N,"['𒌓', '𒁴']",𒌓𒁴,tam-tim,"['complete', 'complete']",0.0,,,Q003456,12,5
+13751,Q003456.13.1,ša[of]DET,[ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,Q003456,13,1
+13752,Q003456.13.2,Naʾiri[1]GN +.,{kur}na-ʾi-i-ri,Naʾiri,Naʾiri,1,GN,"['𒆳', '𒈾', '𒀪', '𒄿', '𒊑']",𒆳𒈾𒀪𒄿𒊑,{[KUR]}[na-ʾi-i-ri],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,GN,,Q003456,13,2
+13753,Q003456.13.3,u,...]-an-šu,,,,u,"['x', '𒀭', '𒋗']",x𒀭𒋗,[x]an-šu,"['missing', 'complete', 'complete']",0.33,,,Q003456,13,3
+13754,Q003456.14.1,u,[...]-tu₂-a-ri-zu,,,,u,"['x', '𒌓', '𒀀', '𒊑', '𒍪']",x𒌓𒀀𒊑𒍪,[x]tu₂-a-ri-zu,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,,,Q003456,14,1
+13755,Q003456.15.1,u,[...]-ni-is-tu,,,,u,"['x', '𒉌', '𒄑', '𒌅']",x𒉌𒄑𒌅,[x]ni-is-tu,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,15,1
+13756,Q003456.16.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,16,1
+13757,Q003456.16.2,Lupsua[1]SN,{uru]}lup-su-a,Lupsua,Lupsa,1,SN,"['𒌷', '𒈜', '𒋢', '𒀀']",𒌷𒈜𒋢𒀀,{[URU]}lup-su-a,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,16,2
+13758,Q003456.17.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,17,1
+13759,Q003456.17.2,Danziun[]SN$,{uru}da-an-zi]-i-un,Danziun,Danziun,1,SN,"['𒌷', '𒁕', '𒀭', '𒍣', '𒄿', '𒌦']",𒌷𒁕𒀭𒍣𒄿𒌦,{[URU]}[da-an-zi]-i-un,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete']",0.67,,,Q003456,17,2
+13760,Q003456.18.1,u,[...]-me-za-a-a,,,,u,"['x', '𒈨', '𒍝', '𒀀', '𒀀']",x𒈨𒍝𒀀𒀀,[x]me-za-a-a,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,,,Q003456,18,1
+13761,Q003456.19.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,19,1
+13762,Q003456.19.2,Ezzeda[]SN$,{uru}ez]-ze-da,Ezzeda,Ezzeda,1,SN,"['𒌷', '𒄑', '𒍣', '𒁕']",𒌷𒄑𒍣𒁕,{[URU]}[ez]-ze-da,"['missing', 'missing', 'complete', 'complete']",0.5,,,Q003456,19,2
+13763,Q003456.20.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,20,1
+13764,Q003456.20.2,Birdanša[Mount Birdanša]SN$Birdaša,{uru}bi-ir]-da-a-ša₂,Birdaša,Birdanša,Mount Birdanša,GN,"['𒌷', '𒁉', '𒅕', '𒁕', '𒀀', '𒃻']",𒌷𒁉𒅕𒁕𒀀𒃻,{[URU]}[bi-ir]-da-a-ša₂,"['missing', 'missing', 'missing', 'complete', 'complete', 'complete']",0.5,,,Q003456,20,2
+13765,Q003456.21.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,21,1
+13766,Q003456.21.2,Zinia[]SN$,{uru]}zi-ni-a,Zinia,Zinia,1,SN,"['𒌷', '𒍣', '𒉌', '𒀀']",𒌷𒍣𒉌𒀀,{[URU]}zi-ni-a,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,21,2
+13767,Q003456.22.1,u,[...]-hu-li,,,,u,"['x', '𒄷', '𒇷']",x𒄷𒇷,[x]hu-li,"['missing', 'complete', 'complete']",0.33,,,Q003456,22,1
+13768,Q003456.23.1,u,[...]-li-an-ša₂,,,,u,"['x', '𒇷', '𒀭', '𒃻']",x𒇷𒀭𒃻,[x]li-an-ša₂,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,23,1
+13769,Q003456.24.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,24,1
+13770,Q003456.24.2,Parisu[]SN$,{uru}pa-ri]-i-su,Parisu,Parisu,1,SN,"['𒌷', '𒉺', '𒊑', '𒄿', '𒋢']",𒌷𒉺𒊑𒄿𒋢,{[URU]}[pa-ri]-i-su,"['missing', 'missing', 'missing', 'complete', 'complete']",0.6,,,Q003456,24,2
+13771,Q003456.25.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,25,1
+13772,Q003456.25.2,ālāni[city]N,URU.MEŠ-ni,ālāni,ālu,city,N,"['𒌷', '𒎌', '𒉌']",𒌷𒎌𒉌,[URU].[MEŠ-ni],"['missing', 'missing', 'missing']",1.0,,,Q003456,25,2
+13773,Q003456.25.3,ša[of]DET,ša],ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,Q003456,25,3
+13774,Q003456.25.4,Enzi[]GN$,{kur}en-zi,Enzi,Enzi,1,GN,"['𒆳', '𒂗', '𒍣']",𒆳𒂗𒍣,{KUR}en-zi,"['complete', 'complete', 'complete']",0.0,GN,,Q003456,25,4
+13775,Q003456.26.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,26,1
+13776,Q003456.26.2,u[and]CNJ,u₃,u,u,and,CNJ,['𒅇'],𒅇,[u₃],['missing'],1.0,,,Q003456,26,2
+13777,Q003456.26.3,Urarṭu[]GN$Urarṭi +.,{kur}ur]-ar-ṭi,Urarṭi,Urarṭu,1,GN,"['𒆳', '𒌨', '𒅈', '𒁲']",𒆳𒌨𒅈𒁲,{[KUR]}[ur]-ar-ṭi,"['missing', 'missing', 'complete', 'complete']",0.5,GN,,Q003456,26,3
+13778,Q003456.27.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,27,1
+13779,Q003456.27.2,Arpadda[Arpad]SN,{uru]}ar-pad-da,Arpadda,Arpadda,Arpad,SN,"['𒌷', '𒅈', '𒉻', '𒁕']",𒌷𒅈𒉻𒁕,{[URU]}ar-pad-da,"['missing', 'complete', 'complete', 'complete']",0.25,,,Q003456,27,2
+13780,Q003456.29.1,Haurani[]SN$,{uru}ha-u₂-ra-a-ni,Haurani,Haurani,1,SN,"['𒌷', '𒄩', '𒌑', '𒊏', '𒀀', '𒉌']",𒌷𒄩𒌑𒊏𒀀𒉌,{URU}ha-u₂-ra-a-ni,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,29,1
+13781,Q003456.29.2,u,{uru}[...],,,,u,"['𒌷', 'x']",𒌷x,{URU}[x],"['complete', 'missing']",0.5,,,Q003456,29,2
+13782,Q003456.30.1,Hazazu[]SN$,{uru}ha-za-zu,Hazazu,Hazazu,1,SN,"['𒌷', '𒄩', '𒍝', '𒍪']",𒌷𒄩𒍝𒍪,{URU}ha-za-zu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,30,1
+13783,Q003456.30.2,u,{uru}a-ri-[...],,,,u,"['𒌷', '𒀀', '𒊑', 'x']",𒌷𒀀𒊑x,{URU}a-ri-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,Q003456,30,2
+13784,Q003456.31.1,Nirabu[]SN$,{uru}ni-ra-bu,Nirabu,Nirabu,1,SN,"['𒌷', '𒉌', '𒊏', '𒁍']",𒌷𒉌𒊏𒁍,{URU}ni-ra-bu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,31,1
+13785,Q003456.31.2,u,{uru}ka-[...],,,,u,"['𒌷', '𒅗', 'x']",𒌷𒅗x,{URU}ka-[x],"['complete', 'complete', 'missing']",0.33,,,Q003456,31,2
+13786,Q003456.32.1,Tuka[]SN$,{uru}tu-ka-a,Tuka,Tuka,1,SN,"['𒌷', '𒌅', '𒅗', '𒀀']",𒌷𒌅𒅗𒀀,{URU}tu-ka-a,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,32,1
+13787,Q003456.32.2,u,{⸢uru⸣}ha-⸢ma-a⸣-[...],,,,u,"['𒌷', '𒄩', '𒈠', '𒀀', 'x']",𒌷𒄩𒈠𒀀x,{⸢URU⸣}ha-⸢ma-a⸣-[x],"['damaged', 'complete', 'damaged', 'damaged', 'missing']",0.5,,,Q003456,32,2
+13788,Q003456.33.1,Saruna[]SN$,{uru}sa-ru-na,Saruna,Saruna,1,SN,"['𒌷', '𒊓', '𒊒', '𒈾']",𒌷𒊓𒊒𒈾,{URU}sa-ru-na,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,33,1
+13789,Q003456.33.2,u,{uru}x-ta-[...],,,,u,"['𒌷', 'x', '𒋫', 'x']",𒌷x𒋫x,{URU}x-ta-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,Q003456,33,2
+13790,Q003456.34.1,Dinanu[]SN$,{uru}di-na-nu,Dinanu,Dinanu,1,SN,"['𒌷', '𒁲', '𒈾', '𒉡']",𒌷𒁲𒈾𒉡,{URU}di-na-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,34,1
+13791,Q003456.34.2,Kaprabi[]SN$,{uru}kap-[ra-bi],Kaprabi,Kaprabi,1,SN,"['𒌷', '𒆏', '𒊏', '𒁉']",𒌷𒆏𒊏𒁉,{URU}kap-[ra-bi],"['complete', 'complete', 'missing', 'missing']",0.5,,,Q003456,34,2
+13792,Q003456.35.1,ālāni[city]N,URU.MEŠ,ālāni,ālu,city,N,"['𒌷', '𒎌']",𒌷𒎌,URU.MEŠ,"['complete', 'complete']",0.0,,,Q003456,35,1
+13793,Q003456.35.2,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003456,35,2
+13794,Q003456.35.3,Bit-Agusi[1]GN +.,{kur}E₂-⸢a⸣-[gu-si],Bit-Agusi,Bit-Agusi,1,GN,"['𒆳', '𒂍', '𒀀', '𒄖', '𒋛']",𒆳𒂍𒀀𒄖𒋛,{KUR}E₂-⸢a⸣-[gu-si],"['complete', 'complete', 'damaged', 'missing', 'missing']",0.5,GN,,Q003456,35,3
+13795,Q003456.36.1,Ta-x[1]SN,{uru}ta-x,Ta-x,Ta-x,1,SN,"['𒌷', '𒋫', 'x']",𒌷𒋫x,{URU}ta-x,"['complete', 'complete', 'complete']",0.0,,,Q003456,36,1
+13796,Q003456.36.2,u,[...]-ri,,,,u,"['x', '𒊑']",x𒊑,[x]ri,"['missing', 'complete']",0.5,,,Q003456,36,2
+13797,Q003456.36.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,36,3
+13798,Q003456.37.1,Hurmu[]SN$,{uru}hu-ur-mu,Hurmu,Hurmu,1,SN,"['𒌷', '𒄷', '𒌨', '𒈬']",𒌷𒄷𒌨𒈬,{URU}hu-ur-mu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,37,1
+13799,Q003456.37.2,u,{uru}an-la-ma-[...],,,,u,"['𒌷', '𒀭', '𒆷', '𒈠', 'x']",𒌷𒀭𒆷𒈠x,{URU}an-la-ma-[x],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,Q003456,37,2
+13800,Q003456.38.1,Urrus[]SN$,{uru}ur-ru-us,Urrus,Urrus,1,SN,"['𒌷', '𒌨', '𒊒', '𒊻']",𒌷𒌨𒊒𒊻,{URU}ur-ru-us,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,38,1
+13801,Q003456.38.2,u,{uru}ur-x-[...],,,,u,"['𒌷', '𒌨', 'x', 'x']",𒌷𒌨xx,{URU}ur-x-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,Q003456,38,2
+13802,Q003456.39.1,Kulmadara[1]SN,{uru}⸢ku⸣-ul-ma-da-ra,Kulmadara,Kulmadara,1,SN,"['𒌷', '𒆪', '𒌌', '𒈠', '𒁕', '𒊏']",𒌷𒆪𒌌𒈠𒁕𒊏,{URU}⸢ku⸣-ul-ma-da-ra,"['complete', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.08,,,Q003456,39,1
+13803,Q003456.39.2,Hatatirra[1]SN,{uru}ha-[ta-tir-ra],Hatatirra,Hatatirra,1,SN,"['𒌷', '𒄩', '𒋫', '𒌁', '𒊏']",𒌷𒄩𒋫𒌁𒊏,{URU}ha-[ta-tir-ra],"['complete', 'complete', 'missing', 'missing', 'missing']",0.6,,,Q003456,39,2
+13804,Q003456.40.1,Unniga[]SN$,{uru}un-ni-ga-a,Unniga,Unniga,1,SN,"['𒌷', '𒌦', '𒉌', '𒂵', '𒀀']",𒌷𒌦𒉌𒂵𒀀,{URU}un-ni-ga-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,40,1
+13805,Q003456.40.2,u,{uru}x-[...],,,,u,"['𒌷', 'x', 'x']",𒌷xx,{URU}x-[x],"['complete', 'complete', 'missing']",0.33,,,Q003456,40,2
+13806,Q003456.41.1,Arda[]SN$,{uru}ar-da-a,Arda,Arda,1,SN,"['𒌷', '𒅈', '𒁕', '𒀀']",𒌷𒅈𒁕𒀀,{URU}ar-da-a,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,41,1
+13807,Q003456.41.2,u,{uru}mu-ud-⸢ru⸣-[...],,,,u,"['𒌷', '𒈬', '𒌓', '𒊒', 'x']",𒌷𒈬𒌓𒊒x,{URU}mu-ud-⸢ru⸣-[x],"['complete', 'complete', 'complete', 'damaged', 'missing']",0.3,,,Q003456,41,2
+13808,Q003456.42.1,Murua[1]SN,{uru}mu-ru-u-a,Murua,Murua,1,SN,"['𒌷', '𒈬', '𒊒', '𒌋', '𒀀']",𒌷𒈬𒊒𒌋𒀀,{URU}mu-ru-u-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,42,1
+13809,Q003456.42.2,u,{uru}ti-ri-is-[...],,,,u,"['𒌷', '𒋾', '𒊑', '𒄑', 'x']",𒌷𒋾𒊑𒄑x,{URU}ti-ri-is-[x],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,Q003456,42,2
+13810,Q003456.43.1,Lapsitania[]SN$,{uru}la-ap-si-ta-ni-a,Lapsitania,Lapsitania,1,SN,"['𒌷', '𒆷', '𒀊', '𒋛', '𒋫', '𒉌', '𒀀']",𒌷𒆷𒀊𒋛𒋫𒉌𒀀,{URU}la-ap-si-ta-ni-a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,43,1
+13811,Q003456.43.2,ālāni[city]N,URU.[MEŠ,ālāni,ālu,city,N,"['𒌷', '𒎌']",𒌷𒎌,URU.[MEŠ],"['complete', 'missing']",0.5,,,Q003456,43,2
+13812,Q003456.43.3,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,Q003456,43,3
+13813,Q003456.43.4,Unqi[1]GN +.,{kur}un-qi],Unqi,Unqi,1,GN,"['𒆳', '𒌦', '𒆥']",𒆳𒌦𒆥,{[KUR]}[un-qi],"['missing', 'missing', 'missing']",1.0,GN,,Q003456,43,4
+13814,Q003456.44.1,Hatarikka[1]SN,{uru}ha-ta-rik-ka,Hatarikka,Hatarikka,1,SN,"['𒌷', '𒄩', '𒋫', '𒋆', '𒅗']",𒌷𒄩𒋫𒋆𒅗,{URU}ha-ta-rik-ka,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,44,1
+13815,Q003456.44.2,Gubla[Gabala]SN$,{uru}gu-[ub-la],Gubla,Gubla,Gabala,SN,"['𒌷', '𒄖', '𒌒', '𒆷']",𒌷𒄖𒌒𒆷,{URU}gu-[ub-la],"['complete', 'complete', 'missing', 'missing']",0.5,,,Q003456,44,2
+13816,Q003456.45.1,Ṣimirra[1]SN,{uru}ṣi-mir-ra,Ṣimirra,Ṣimirra,1,SN,"['𒌷', '𒍢', '𒂇', '𒊏']",𒌷𒍢𒂇𒊏,{URU}ṣi-mir-ra,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,45,1
+13817,Q003456.45.2,Arqa[1]SN,{uru}ar-qa-[a,Arqa,Arqa,1,SN,"['𒌷', '𒅈', '𒋡', '𒀀']",𒌷𒅈𒋡𒀀,{URU}ar-qa-[a],"['complete', 'complete', 'complete', 'missing']",0.25,,,Q003456,45,2
+13818,Q003456.45.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,45,3
+13819,Q003456.46.1,Usnu[1]SN,{uru}us-nu-u,Usnu,Usnu,1,SN,"['𒌷', '𒊻', '𒉡', '𒌋']",𒌷𒊻𒉡𒌋,{URU}us-nu-u,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,46,1
+13820,Q003456.46.2,Siʾannu[]SN$,{uru}si-a-nu,Siʾannu,Siʾannu,1,SN,"['𒌷', '𒋛', '𒀀', '𒉡']",𒌷𒋛𒀀𒉡,{URU}si-a-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,46,2
+13821,Q003456.46.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,46,3
+13822,Q003456.47.1,Riʾisi-ṣurri[1]SN,{uru}ri-ʾi-si-ṣu-⸢ri⸣,Riʾisi-ṣurri,Riʾisi-ṣurri,1,SN,"['𒌷', '𒊑', '𒀪', '𒋛', '𒍮', '𒊑']",𒌷𒊑𒀪𒋛𒍮𒊑,{URU}ri-ʾi-si-ṣu-⸢ri⸣,"['complete', 'complete', 'complete', 'complete', 'complete', 'damaged']",0.08,,,Q003456,47,1
+13823,Q003456.47.2,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,47,2
+13824,Q003456.48.1,Ara[1]SN,{uru}a-ra-a,Ara,Ara,1,SN,"['𒌷', '𒀀', '𒊏', '𒀀']",𒌷𒀀𒊏𒀀,{URU}a-ra-a,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,48,1
+13825,Q003456.48.2,Nuqudina[1]SN,{uru}nu-qu-di-[na],Nuqudina,Nuqudina,1,SN,"['𒌷', '𒉡', '𒄣', '𒁲', '𒈾']",𒌷𒉡𒄣𒁲𒈾,{URU}nu-qu-di-[na],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,Q003456,48,2
+13826,Q003456.49.1,Ašhani[1]SN,{uru}aš₂-ha-ni,Ašhani,Ašhani,1,SN,"['𒌷', '𒀾', '𒄩', '𒉌']",𒌷𒀾𒄩𒉌,{URU}aš₂-ha-ni,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,49,1
+13827,Q003456.49.2,Yaṭabi[1]SN,{uru}ia-ṭa-[bi],Yaṭabi,Yaṭabi,1,SN,"['𒌷', '𒅀', '𒁕', '𒁉']",𒌷𒅀𒁕𒁉,{URU}ia-ṭa-[bi],"['complete', 'complete', 'complete', 'missing']",0.25,,,Q003456,49,2
+13828,Q003456.50.1,Ellitarbi[1]SN,{uru}el-li-tar-bi,Ellitarbi,Ellitarbi,1,SN,"['𒌷', '𒂖', '𒇷', '𒋻', '𒁉']",𒌷𒂖𒇷𒋻𒁉,{URU}el-li-tar-bi,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,50,1
+13829,Q003456.50.2,Zitanu[1]SN,{uru}zi-[ta-a-nu],Zitanu,Zitanu,1,SN,"['𒌷', '𒍣', '𒋫', '𒀀', '𒉡']",𒌷𒍣𒋫𒀀𒉡,{URU}zi-[ta-a-nu],"['complete', 'complete', 'missing', 'missing', 'missing']",0.6,,,Q003456,50,2
+13830,Q003456.51.1,Turanu[]SN$,{uru}tu-ra-nu,Turanu,Turanu,1,SN,"['𒌷', '𒌅', '𒊏', '𒉡']",𒌷𒌅𒊏𒉡,{URU}tu-ra-nu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,51,1
+13831,Q003456.51.2,u,{uru}[...],,,,u,"['𒌷', 'x']",𒌷x,{URU}[x],"['complete', 'missing']",0.5,,,Q003456,51,2
+13832,Q003456.52.1,ālāni[city]N,URU.MEŠ-ni,ālāni,ālu,city,N,"['𒌷', '𒎌', '𒉌']",𒌷𒎌𒉌,URU.MEŠ-ni,"['complete', 'complete', 'complete']",0.0,,,Q003456,52,1
+13833,Q003456.52.2,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003456,52,2
+13834,Q003456.52.3,Hamat[Hamath]GN$Hammatti +.,{kur}ha-[am-ma-at-ti],Hammatti,Hamat,Hamath,GN,"['𒆳', '𒄩', '𒄠', '𒈠', '𒀜', '𒋾']",𒆳𒄩𒄠𒈠𒀜𒋾,{KUR}ha-[am-ma-at-ti],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,GN,,Q003456,52,3
+13835,Q003456.53.1,Labʾu[]SN$,{uru}la-ab-ʾu-u₂,Labʾu,Labʾu,1,SN,"['𒌷', '𒆷', '𒀊', '𒀪', '𒌑']",𒌷𒆷𒀊𒀪𒌑,{URU}la-ab-ʾu-u₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003456,53,1
+13836,Q003456.53.2,u +.,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003456,53,2

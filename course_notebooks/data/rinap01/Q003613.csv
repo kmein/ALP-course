@@ -1,0 +1,7 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+7074,Q003613.1.1,ēkal[palace]N,E₂.GAL,ēkal,ēkallu,palace,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,,,Q003613,1,1
+7075,Q003613.2.1,"Tukulti-apil-Ešar[Tiglath-pileser III, king of Assyria]RN",{m}TUKUL-A-e₂-šar₂,Tukulti-apil-Ešar,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒀀', '𒂍', '𒊹']",𒁹𒆪𒀀𒂍𒊹,{m}TUKUL-A-e₂-šar₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003613,2,1
+7076,Q003613.3.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003613,3,1
+7077,Q003613.3.2,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,,Q003613,3,2
+7078,Q003613.3.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003613,3,3
+7079,Q003613.3.4,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,,Q003613,3,4

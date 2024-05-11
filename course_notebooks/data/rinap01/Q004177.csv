@@ -1,0 +1,12 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+3128,Q004177.1.1,ēkal[palace]N,E₂.GAL,ēkal,ēkallu,palace,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,,,Q004177,1,1
+3129,Q004177.2.1,"Tukulti-apil-Ešarra_III[Tiglath-pileser III, king of Assyria]RN$Tukulti-apil-Ešarra",{m}TUKUL-A-e₂-šar₂-[ra],Tukulti-apil-Ešarra,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒀀', '𒂍', '𒊹', '𒊏']",𒁹𒆪𒀀𒂍𒊹𒊏,{m}TUKUL-A-e₂-šar₂-[ra],"['complete', 'complete', 'complete', 'complete', 'complete', 'missing']",0.17,RN,,Q004177,2,1
+3130,Q004177.3.1,šarru[king]N,MAN,šarru,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q004177,3,1
+3131,Q004177.3.2,rabû[great]AJ,GAL,rabû,rabû,great,AJ,['𒃲'],𒃲,GAL,['complete'],0.0,,,Q004177,3,2
+3132,Q004177.3.3,šarru[king]N,MAN,šarru,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q004177,3,3
+3133,Q004177.3.4,dannu[strong]AJ,KAL,dannu,dannu,strong,AJ,['𒆗'],𒆗,KAL,['complete'],0.0,,,Q004177,3,4
+3134,Q004177.4.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q004177,4,1
+3135,Q004177.4.2,kiššati[world]N,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,,Q004177,4,2
+3136,Q004177.4.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q004177,4,3
+3137,Q004177.4.4,māt[land]N,[KUR,māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,,Q004177,4,4
+3138,Q004177.4.5,Aššur[Assyria]GN +.,AŠ],Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,[AŠ],['missing'],1.0,GN,,Q004177,4,5

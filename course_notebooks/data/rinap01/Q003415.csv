@@ -1,0 +1,17 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+3489,Q003415.2.1,qurādu[hero//warrior]N$,qu-ra-[du,qurādu,qurādu,warrior,N,"['𒄣', '𒊏', '𒁺']",𒄣𒊏𒁺,qu-ra-[du],"['complete', 'complete', 'missing']",0.33,,,Q003415,2,1
+3490,Q003415.2.2,u,...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,2,2
+3491,Q003415.2.3,kanāšu[bow down//make bow down]V$ušaknišu,u₂-šak-ni-šu₂],ušaknišu,kanāšu,make bow down,V,"['𒌑', '𒊕', '𒉌', '𒋙']",𒌑𒊕𒉌𒋙,[u₂-šak-ni-šu₂],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003415,2,3
+3492,Q003415.3.1,šēpuššu[foot]N,še-pu-[uš-šu,šēpuššu,šēpu,foot,N,"['𒊺', '𒁍', '𒍑', '𒋗']",𒊺𒁍𒍑𒋗,še-pu-[uš-šu],"['complete', 'complete', 'missing', 'missing']",0.5,,,Q003415,3,1
+3493,Q003415.3.2,u,...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,3,2
+3494,Q003415.3.3,ina[in//with]PRP$,ina,ina,ina,with,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,Q003415,3,3
+3495,Q003415.3.4,kakki[weapon]N,{giš}TUKUL],kakki,kakku,weapon,N,"['𒄑', '𒆪']",𒄑𒆪,{[GIŠ]}[TUKUL],"['missing', 'missing']",1.0,,,Q003415,3,4
+3496,Q003415.4.1,maqātu[fall//cut down]V$ušamqitu,u₂-šam-[qi-tu,ušamqitu,maqātu,cut down,V,"['𒌑', '𒌑', '𒆥', '𒌅']",𒌑𒌑𒆥𒌅,u₂-šam-[qi-tu],"['complete', 'complete', 'missing', 'missing']",0.5,,,Q003415,4,1
+3497,Q003415.4.2,u,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,4,2
+3498,Q003415.5.1,mumtalku[deliberate//circumspect]AJ$muttalku,⸢mu⸣-ut-tal-[ku,muttalku,mumtalku,circumspect,AJ,"['𒈬', '𒌓', '𒊑', '𒆪']",𒈬𒌓𒊑𒆪,⸢mu⸣-ut-tal-[ku],"['damaged', 'complete', 'complete', 'missing']",0.38,,,Q003415,5,1
+3499,Q003415.5.2,u +.,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,5,2
+3500,Q003415.6.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,6,1
+3501,Q003415.7.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,7,1
+3502,Q003415.8.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003415,8,1
+3503,Q003415.8.2,ša[who]REL,ša₂,ša,ša,who,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,,,Q003415,8,2
+3504,Q003415.8.3,u +.,a-[...],,,,u,"['𒀀', 'x']",𒀀x,a-[x],"['complete', 'missing']",0.5,,,Q003415,8,3

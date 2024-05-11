@@ -1,0 +1,21 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+14252,Q003618.1.1,ana[to]PRP,⸢a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,⸢a-na⸣,"['damaged', 'damaged']",0.5,,,Q003618,1,1
+14253,Q003618.1.2,Adad[1]DN,{d⸣}IŠKUR,Adad,Adad,1,DN,"['𒀭', '𒅎']",𒀭𒅎,{⸢d⸣}IŠKUR,"['damaged', 'complete']",0.25,DN,,Q003618,1,2
+14254,Q003618.1.3,gugal[irrigation controller]N,⸢GU₂.GAL⸣,gugal,gugallu,irrigation controller,N,"['𒄘', '𒃲']",𒄘𒃲,⸢GU₂⸣.⸢GAL⸣,"['damaged', 'damaged']",0.5,,,Q003618,1,3
+14255,Q003618.1.4,šamê[heaven]N,AN-⸢e⸣,šamê,šamû,heaven,N,"['𒀭', '𒂊']",𒀭𒂊,AN-⸢e⸣,"['complete', 'damaged']",0.25,,,Q003618,1,4
+14256,Q003618.1.5,erṣetim[earth]N,KI-tim,erṣetim,erṣetu,earth,N,"['𒆠', '𒁴']",𒆠𒁴,KI-tim,"['complete', 'complete']",0.0,,,Q003618,1,5
+14257,Q003618.1.6,bēli[lord]N,EN,bēli,bēlu,lord,N,['𒂗'],𒂗,EN,['complete'],0.0,,,Q003618,1,6
+14258,Q003618.1.7,rabê[great]AJ,GAL-e,rabê,rabû,great,AJ,"['𒃲', '𒂊']",𒃲𒂊,GAL-e,"['complete', 'complete']",0.0,,,Q003618,1,7
+14259,Q003618.1.8,bēlišu[lord]N,UMUN-šu₂,bēlišu,bēlu,lord,N,"['𒌋', '𒋙']",𒌋𒋙,UMUN-šu₂,"['complete', 'complete']",0.0,,,Q003618,1,8
+14260,Q003618.1.9,Aššur-remanni[high official of Tiglath-pileser III]PN$,{m}aš-šur-rem₂-ni,Aššur-remanni,Aššur-remanni,high official of Tiglath-pileser III,PN,"['𒁹', '𒀸', '𒋩', '𒀖', '𒉌']",𒁹𒀸𒋩𒀖𒉌,{m}aš-šur-rem₂-ni,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,Q003618,1,9
+14261,Q003618.2.1,ana[for]PRP,ana,ana,ana,for,PRP,['𒁹'],𒁹,ana,['complete'],0.0,,,Q003618,2,1
+14262,Q003618.2.2,balāṭ[life]N,⸢TI,balāṭ,balāṭu,life,N,['𒋾'],𒋾,⸢TI⸣,['damaged'],0.5,,,Q003618,2,2
+14263,Q003618.2.3,"Tukulti-apil-Ešarra_III[Tiglath-pileser III, king of Assyria]RN$Tukulti-apil-Ešar",{m⸣}tukul-ti-A-e₂-šar₂,Tukulti-apil-Ešar,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒋾', '𒀀', '𒂍', '𒊹']",𒁹𒆪𒋾𒀀𒂍𒊹,{⸢m⸣}tukul-ti-A-e₂-šar₂,"['damaged', 'complete', 'complete', 'complete', 'complete', 'complete']",0.08,RN,,Q003618,2,3
+14264,Q003618.2.4,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003618,2,4
+14265,Q003618.2.5,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003618,2,5
+14266,Q003618.2.6,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,,Q003618,2,6
+14267,Q003618.2.7,bēlišu[lord]N,EN-šu₂,bēlišu,bēlu,lord,N,"['𒂗', '𒋙']",𒂗𒋙,EN-šu₂,"['complete', 'complete']",0.0,,,Q003618,2,7
+14268,Q003618.2.8,u[and]CNJ,u,u,u,and,CNJ,['𒌋'],𒌋,u,['complete'],0.0,,,Q003618,2,8
+14269,Q003618.2.9,ana[for]PRP,ana,ana,ana,for,PRP,['𒁹'],𒁹,ana,['complete'],0.0,,,Q003618,2,9
+14270,Q003618.2.10,balāṭišu[life]N,TI-šu₂,balāṭišu,balāṭu,life,N,"['𒋾', '𒋙']",𒋾𒋙,TI-šu₂,"['complete', 'complete']",0.0,,,Q003618,2,10
+14271,Q003618.2.11,iqīš[give]V +.,BA-iš₃,iqīš,qiāšu,give,V,"['𒁀', '𒌍']",𒁀𒌍,BA-iš₃,"['complete', 'complete']",0.0,,,Q003618,2,11

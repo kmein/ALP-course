@@ -1,0 +1,11 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+7100,Q003629.1.1,ēkal[palace]N,E₂.GAL,ēkal,ēkallu,palace,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,,,Q003629,1,1
+7101,Q003629.1.2,"Salmanu-ašared_V[Shalmaneser V, king of Assyria]RN$Salmanu-ašared",{m}{d}SILIM-[man-MAŠ,Salmanu-ašared,Salmanu-ašared_V,"Shalmaneser V, king of Assyria",RN,"['𒁹', '𒀭', '𒁲', '𒎙', '𒈦']",𒁹𒀭𒁲𒎙𒈦,{m}{d}SILIM-[man-MAŠ],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,RN,,Q003629,1,2
+7102,Q003629.1.3,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,[MAN],['missing'],1.0,,,Q003629,1,3
+7103,Q003629.1.4,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,[KUR],['missing'],1.0,,,Q003629,1,4
+7104,Q003629.1.5,Aššur[Assyria]GN,AŠ],Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,[AŠ],['missing'],1.0,GN,,Q003629,1,5
+7105,Q003629.2.1,n,4-tu₂,,,,n,"['𒐉', '𒌓']",𒐉𒌓,4-tu₂,"['complete', 'complete']",0.0,NUMBER,,Q003629,2,1
+7106,Q003629.2.2,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,,Q003629,2,2
+7107,Q003629.2.3,šarri[king]N +.,⸢LUGAL⸣,šarri,šarru,king,N,['𒈗'],𒈗,⸢LUGAL⸣,['damaged'],0.5,,,Q003629,2,3
+7108,Q003629.3.1,%arc:rbʿ=,rbʿ,,,,,,,,,,,ARAMAIC,Q003629,3,1
+7109,Q003629.3.2,%arc:ʾrqʾ=,ʾrqʾ,,,,,,,,,,,ARAMAIC,Q003629,3,2

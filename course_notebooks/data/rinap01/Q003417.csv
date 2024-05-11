@@ -1,0 +1,38 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+2714,Q003417.2.1,ina[at]PRP,i-na,ina,ina,at,PRP,"['𒄿', '𒈾']",𒄿𒈾,i-na,"['complete', 'complete']",0.0,,,Q003417,2,1
+2715,Q003417.2.2,rēšu[head//beginning]N$rēš,SAG,rēš,rēšu,beginning,N,['𒊕'],𒊕,SAG,['complete'],0.0,,,Q003417,2,2
+2716,Q003417.2.3,šarrūtiya[kingship]N,LUGAL-ti-ia,šarrūtiya,šarrūtu,kingship,N,"['𒈗', '𒋾', '𒅀']",𒈗𒋾𒅀,LUGAL-ti-ia,"['complete', 'complete', 'complete']",0.0,,,Q003417,2,3
+2717,Q003417.2.4,ina[during]PRP,i-na,ina,ina,during,PRP,"['𒄿', '𒈾']",𒄿𒈾,i-na,"['complete', 'complete']",0.0,,,Q003417,2,4
+2718,Q003417.2.5,mahrê[first]AJ,mah-re-e,mahrê,mahrû,first,AJ,"['𒈤', '𒊑', '𒂊']",𒈤𒊑𒂊,mah-re-e,"['complete', 'complete', 'complete']",0.0,,,Q003417,2,5
+2719,Q003417.2.6,palêya[regnal year]N,BALA-ia,palêya,palû,regnal year,N,"['𒁄', '𒅀']",𒁄𒅀,BALA-ia,"['complete', 'complete']",0.0,,,Q003417,2,6
+2720,Q003417.2.7,ina[during]PRP,i-na,ina,ina,during,PRP,"['𒄿', '𒈾']",𒄿𒈾,i-na,"['complete', 'complete']",0.0,,,Q003417,2,7
+2721,Q003417.2.8,n,5,,,,n,['𒐊'],𒐊,5,['complete'],0.0,NUMBER,,Q003417,2,8
+2722,Q003417.2.9,arhi[month]N,⸢ITI⸣,arhi,warhu,month,N,['𒌗'],𒌗,⸢ITI⸣,['damaged'],0.5,,,Q003417,2,9
+2723,Q003417.3.1,ša[that//when]REL$,ša,ša,ša,when,REL,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003417,3,1
+2724,Q003417.3.2,ina[in//on]PRP$,i-na,ina,ina,on,PRP,"['𒄿', '𒈾']",𒄿𒈾,i-na,"['complete', 'complete']",0.0,,,Q003417,3,2
+2725,Q003417.3.3,kussû[chair//throne]N$kussî,{giš}GU.ZA,kussî,kussû,throne,N,"['𒄑', '𒄖', '𒍝']",𒄑𒄖𒍝,{GIŠ}GU.ZA,"['complete', 'complete', 'complete']",0.0,,,Q003417,3,3
+2726,Q003417.3.4,šarrūti[kingship]N,LUGAL-u₂-ti,šarrūti,šarrūtu,kingship,N,"['𒈗', '𒌑', '𒋾']",𒈗𒌑𒋾,LUGAL-u₂-ti,"['complete', 'complete', 'complete']",0.0,,,Q003417,3,4
+2727,Q003417.3.5,rabîš[magnificently]AV,ra-biš,rabîš,rabîš,magnificently,AV,"['𒊏', '𒄫']",𒊏𒄫,ra-biš,"['complete', 'complete']",0.0,,,Q003417,3,5
+2728,Q003417.3.6,ūšibu[sit]V,u₂-ši-bu,ūšibu,wašābu,sit,V,"['𒌑', '𒅆', '𒁍']",𒌑𒅆𒁍,u₂-ši-bu,"['complete', 'complete', 'complete']",0.0,,,Q003417,3,6
+2729,Q003417.3.7,Aššur[1]DN,aš-šur,Aššur,Aššur,1,DN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,DN,,Q003417,3,7
+2730,Q003417.3.8,bēlu[lord]N$bēlī,be-li₂,bēlī,bēlu,lord,N,"['𒁁', '𒉌']",𒁁𒉌,be-li₂,"['complete', 'complete']",0.0,,,Q003417,3,8
+2731,Q003417.4.1,takālu[trust//entrust]V$utakkilannima,u₂-tak-kil-an-ni-ma,utakkilannima,takālu,entrust,V,"['𒌑', '𒋳', '𒆸', '𒀭', '𒉌', '𒈠']",𒌑𒋳𒆸𒀭𒉌𒈠,u₂-tak-kil-an-ni-ma,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,4,1
+2732,Q003417.4.2,ana[to//against]PRP$,a-na,ana,ana,against,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,Q003417,4,2
+2733,Q003417.4.3,Hamranu[]EN$Hamarani,{lu₂}ha-mar-a-ni,Hamarani,Hamranu,1,EN,"['𒇽', '𒄩', '𒈥', '𒀀', '𒉌']",𒇽𒄩𒈥𒀀𒉌,{LU₂}ha-mar-a-ni,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,4,3
+2734,Q003417.4.4,Luhuʾatu[]EN$,{lu₂}lu-hu-u₂-a-tu,Luhuʾatu,Luhuʾatu,1,EN,"['𒇽', '𒇻', '𒄷', '𒌑', '𒀀', '𒌅']",𒇽𒇻𒄷𒌑𒀀𒌅,{LU₂}lu-hu-u₂-a-tu,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,4,4
+2735,Q003417.5.1,Hatallu[]EN$Hatalli,{lu₂}ha-tal-li,Hatalli,Hatallu,1,EN,"['𒇽', '𒄩', '𒊑', '𒇷']",𒇽𒄩𒊑𒇷,{LU₂}ha-tal-li,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,5,1
+2736,Q003417.5.2,Rubbu[]EN$Rubbi,{lu₂}ru-ub-bi,Rubbi,Rubbu,1,EN,"['𒇽', '𒊒', '𒌒', '𒁉']",𒇽𒊒𒌒𒁉,{LU₂}ru-ub-bi,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,5,2
+2737,Q003417.5.3,Rapiqu[of Rapiqu]EN$Rapiqi,{lu₂}ra-pi-qi,Rapiqi,Rapiqu,of Rapiqu,EN,"['𒇽', '𒊏', '𒉿', '𒆥']",𒇽𒊏𒉿𒆥,{LU₂}ra-pi-qi,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,5,3
+2738,Q003417.5.4,Hiranu[]EN$Hirani,{lu₂}hi-ra-a-ni,Hirani,Hiranu,1,EN,"['𒇽', '𒄭', '𒊏', '𒀀', '𒉌']",𒇽𒄭𒊏𒀀𒉌,{LU₂}hi-ra-a-ni,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,5,4
+2739,Q003417.6.1,Rabbi-ilu[]EN$Rabbi-ilu,{lu₂}rab-bi-i-lu,Rabbi-ilu,Rabbi-ilu,1,EN,"['𒇽', '𒊐', '𒁉', '𒄿', '𒇻']",𒇽𒊐𒁉𒄿𒇻,{LU₂}rab-bi-i-lu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,6,1
+2740,Q003417.6.2,Naṣiru[]EN$Naṣiri,{lu₂}na-ṣi-ri,Naṣiri,Naṣiru,1,EN,"['𒇽', '𒈾', '𒍢', '𒊑']",𒇽𒈾𒍢𒊑,{LU₂}na-ṣi-ri,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,6,2
+2741,Q003417.6.3,Gulusu[]EN$Gulusi,{lu₂}gu-lu-si,Gulusi,Gulusu,1,EN,"['𒇽', '𒄖', '𒇻', '𒋛']",𒇽𒄖𒇻𒋛,{LU₂}gu-lu-si,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,6,3
+2742,Q003417.6.4,Nabatu[]EN$,{lu₂}na-ba-a-tu,Nabatu,Nabatu,1,EN,"['𒇽', '𒈾', '𒁀', '𒀀', '𒌅']",𒇽𒈾𒁀𒀀𒌅,{LU₂}na-ba-a-tu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,6,4
+2743,Q003417.7.1,Liʾtaʾu[]EN$,{lu₂}li-iʾ-ta-u₂,Liʾtaʾu,Liʾtaʾu,1,EN,"['𒇽', '𒇷', '𒀪', '𒋫', '𒌑']",𒇽𒇷𒀪𒋫𒌑,{LU₂}li-iʾ-ta-u₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,7,1
+2744,Q003417.7.2,Rahiqu[]EN$Rahiqi,{lu₂}ra-hi-qi,Rahiqi,Rahiqu,1,EN,"['𒇽', '𒊏', '𒄭', '𒆥']",𒇽𒊏𒄭𒆥,{LU₂}ra-hi-qi,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,7,2
+2745,Q003417.7.3,Kapiri[1]EN,{lu₂}ka-pi-ri,Kapiri,Kapiri,1,EN,"['𒇽', '𒅗', '𒉿', '𒊑']",𒇽𒅗𒉿𒊑,{LU₂}ka-pi-ri,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,7,3
+2746,Q003417.7.4,Rummulutu[]EN$Rummulitu,{lu₂}ru-mu-li-tu,Rummulitu,Rummulutu,1,EN,"['𒇽', '𒊒', '𒈬', '𒇷', '𒌅']",𒇽𒊒𒈬𒇷𒌅,{LU₂}ru-mu-li-tu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,7,4
+2747,Q003417.8.1,Adile[]EN$,{lu₂}a-di-le-e,Adile,Adile,1,EN,"['𒇽', '𒀀', '𒁲', '𒇷', '𒂊']",𒇽𒀀𒁲𒇷𒂊,{LU₂}a-di-le-e,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,8,1
+2748,Q003417.8.2,Gibre[]EN$,{lu₂}gib-re-e,Gibre,Gibre,1,EN,"['𒇽', '𒄃', '𒊑', '𒂊']",𒇽𒄃𒊑𒂊,{LU₂}gib-re-e,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,8,2
+2749,Q003417.8.3,Ubudu[]EN$Ubudi,{lu₂}u₂-bu-di,Ubudi,Ubudu,1,EN,"['𒇽', '𒌑', '𒁍', '𒁲']",𒇽𒌑𒁍𒁲,{LU₂}u₂-bu-di,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,8,3
+2750,Q003417.8.4,Gurumu[]EN$Gurumi +.,{lu₂}gu-ru-mi,Gurumi,Gurumu,1,EN,"['𒇽', '𒄖', '𒊒', '𒈪']",𒇽𒄖𒊒𒈪,{LU₂}gu-ru-mi,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003417,8,4

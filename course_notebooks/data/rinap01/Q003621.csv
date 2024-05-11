@@ -1,0 +1,10 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+1270,Q003621.1.1,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,,Q003621,1,1
+1271,Q003621.1.2,Yaba[queen and wife of Tiglath-pileser III]RN$,{f}ia-ba-a,Yaba,Yaba,queen and wife of Tiglath-pileser III,RN,"['𒊩', '𒅀', '𒁀', '𒀀']",𒊩𒅀𒁀𒀀,{f}ia-ba-a,"['complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003621,1,2
+1272,Q003621.1.3,ša[of]DET$ša&ēkallu[palace]N$ēkalli,MUNUS.E₂.GAL,ša,ša,of,DET,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MUNUS.E₂.GAL,"['complete', 'complete', 'complete']",0.0,,,Q003621,1,3
+1273,Q003621.1.3,ša[of]DET$ša&ēkallu[palace]N$ēkalli,MUNUS.E₂.GAL,ēkalli,ēkallu,palace,N,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MUNUS.E₂.GAL,"['complete', 'complete', 'complete']",0.0,,,Q003621,1,3
+1274,Q003621.1.4,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,,Q003621,1,4
+1275,Q003621.1.5,"Tukulti-apil-Ešar[Tiglath-pileser III, king of Assyria]RN",{m}TUKUL-A-e₂-šar₂,Tukulti-apil-Ešar,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒀀', '𒂍', '𒊹']",𒁹𒆪𒀀𒂍𒊹,{m}TUKUL-A-e₂-šar₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003621,1,5
+1276,Q003621.1.6,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003621,1,6
+1277,Q003621.1.7,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003621,1,7
+1278,Q003621.1.8,Aššur[Assyria]GN,AŠ,Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,AŠ,['complete'],0.0,GN,,Q003621,1,8

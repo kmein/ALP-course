@@ -1,0 +1,65 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+2379,Q003444.2.1,u,[...]-⸢ni⸣,,,,u,"['x', '𒉌']",x𒉌,[x]⸢ni⸣,"['missing', 'damaged']",0.75,,,Q003444,2,1
+2380,Q003444.2.2,kilallān[both]IP$kilallīššunu,ki-lal-li-šu-nu,kilallīššunu,kilallān,both,IP,"['𒆠', '𒇲', '𒇷', '𒋗', '𒉡']",𒆠𒇲𒇷𒋗𒉡,ki-lal-li-šu-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,2,2
+2381,Q003444.3.1,ālāni[city]N,URU.MEŠ-ni,ālāni,ālu,city,N,"['𒌷', '𒎌', '𒉌']",𒌷𒎌𒉌,URU.MEŠ-ni,"['complete', 'complete', 'complete']",0.0,,,Q003444,3,1
+2382,Q003444.3.2,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,3,2
+2383,Q003444.3.3,sihirtu[circumference//surroundings]N$sihirtišunu,si-hir-ti-šu₂-nu,sihirtišunu,sihirtu,surroundings,N,"['𒋛', '𒆟', '𒋾', '𒋙', '𒉡']",𒋛𒆟𒋾𒋙𒉡,si-hir-ti-šu₂-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,3,3
+2384,Q003444.3.4,Sarbua[Mount Sarbua]GN$,{kur}sa-ar-bu-u₂-a,Sarbua,Sarbua,Mount Sarbua,GN,"['𒆳', '𒊓', '𒅈', '𒁍', '𒌑', '𒀀']",𒆳𒊓𒅈𒁍𒌑𒀀,{KUR}sa-ar-bu-u₂-a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,GN,,Q003444,3,4
+2385,Q003444.3.5,šadû[mountain]N,KUR-u₂,šadû,šadû,mountain,N,"['𒆳', '𒌑']",𒆳𒌑,KUR-u₂,"['complete', 'complete']",0.0,,,Q003444,3,5
+2386,Q003444.3.6,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,Q003444,3,6
+2387,Q003444.3.7,gimirtu[totality]N$gimirtišu,gi-mir-ti-šu₂,gimirtišu,gimirtu,totality,N,"['𒄀', '𒂇', '𒋾', '𒋙']",𒄀𒂇𒋾𒋙,gi-mir-ti-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,3,7
+2388,Q003444.4.1,Ašhani[]SN$,{uru}aš₂-ha-ni,Ašhani,Ašhani,1,SN,"['𒌷', '𒀾', '𒄩', '𒉌']",𒌷𒀾𒄩𒉌,{URU}aš₂-ha-ni,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,4,1
+2389,Q003444.4.2,Yaṭabi[]SN$,{uru}ia-ṭa-bi,Yaṭabi,Yaṭabi,1,SN,"['𒌷', '𒅀', '𒁕', '𒁉']",𒌷𒅀𒁕𒁉,{URU}ia-ṭa-bi,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,4,2
+2390,Q003444.4.3,Yaraqu[Mount Yaraqu]GN$,{kur}ia-ra-qu,Yaraqu,Yaraqu,Mount Yaraqu,GN,"['𒆳', '𒅀', '𒊏', '𒄣']",𒆳𒅀𒊏𒄣,{KUR}ia-ra-qu,"['complete', 'complete', 'complete', 'complete']",0.0,GN,,Q003444,4,3
+2391,Q003444.4.4,šadû[mountain]N,KUR-u₂,šadû,šadû,mountain,N,"['𒆳', '𒌑']",𒆳𒌑,KUR-u₂,"['complete', 'complete']",0.0,,,Q003444,4,4
+2392,Q003444.4.5,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,Q003444,4,5
+2393,Q003444.4.6,gimirtu[totality]N$gimirtišu,gi-mir-ti-šu₂,gimirtišu,gimirtu,totality,N,"['𒄀', '𒂇', '𒋾', '𒋙']",𒄀𒂇𒋾𒋙,gi-mir-ti-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,4,6
+2394,Q003444.4.7,u,x-[x]-ri,,,,u,"['x', 'x', '𒊑']",xx𒊑,x-[x]-ri,"['complete', 'missing', 'complete']",0.33,,,Q003444,4,7
+2395,Q003444.5.1,Ellitarbi[]SN$,{uru}el-li-ta-ar-bi,Ellitarbi,Ellitarbi,1,SN,"['𒌷', '𒂖', '𒇷', '𒋫', '𒅈', '𒁉']",𒌷𒂖𒇷𒋫𒅈𒁉,{URU}el-li-ta-ar-bi,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,5,1
+2396,Q003444.5.2,Zitanu[]SN$,{uru}zi-ta-a-nu,Zitanu,Zitanu,1,SN,"['𒌷', '𒍣', '𒋫', '𒀀', '𒉡']",𒌷𒍣𒋫𒀀𒉡,{URU}zi-ta-a-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,5,2
+2397,Q003444.5.3,adi[to]PRP,a-di,adi,adi,to,PRP,"['𒀀', '𒁲']",𒀀𒁲,a-di,"['complete', 'complete']",0.0,,,Q003444,5,3
+2398,Q003444.5.4,libbi[interior]N,lib₃-bi,libbi,libbu,interior,N,"['𒊮', '𒁉']",𒊮𒁉,lib₃-bi,"['complete', 'complete']",0.0,,,Q003444,5,4
+2399,Q003444.5.5,Atinni[1]SN,{uru}a-ti-in-ni,Atinni,Atinnu,1,SN,"['𒌷', '𒀀', '𒋾', '𒅔', '𒉌']",𒌷𒀀𒋾𒅔𒉌,{URU}a-ti-in-ni,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,5,5
+2400,Q003444.5.6,u,x,,,,u,['x'],x,x,['complete'],0.0,,,Q003444,5,6
+2401,Q003444.5.7,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003444,5,7
+2402,Q003444.6.1,Bumame[]SN$,{uru}bu-ma-me,Bumame,Bumame,1,SN,"['𒌷', '𒁍', '𒈠', '𒈨']",𒌷𒁍𒈠𒈨,{URU}bu-ma-me,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,6,1
+2403,Q003444.6.2,n,19,,,,n,['𒌋𒑆'],𒌋𒑆,19,['complete'],0.0,NUMBER,,Q003444,6,2
+2404,Q003444.6.3,nagê[district]N,na-ge-e,nagê,nagû,district,N,"['𒈾', '𒄀', '𒂊']",𒈾𒄀𒂊,na-ge-e,"['complete', 'complete', 'complete']",0.0,,,Q003444,6,3
+2405,Q003444.6.4,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,6,4
+2406,Q003444.6.5,Hamat[Hamath]GN'SN$Hammatti,{uru}ha-am-ma-at-ti,Hammatti,Hamat,Hamath,GN,"['𒌷', '𒄩', '𒄠', '𒈠', '𒀜', '𒋾']",𒌷𒄩𒄠𒈠𒀜𒋾,{URU}ha-am-ma-at-ti,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,GN,,Q003444,6,5
+2407,Q003444.6.6,adi[with]PRP,a-di,adi,adi,with,PRP,"['𒀀', '𒁲']",𒀀𒁲,a-di,"['complete', 'complete']",0.0,,,Q003444,6,6
+2408,Q003444.6.7,ālāni[city]N,URU.MEŠ-ni,ālāni,ālu,city,N,"['𒌷', '𒎌', '𒉌']",𒌷𒎌𒉌,URU.MEŠ-ni,"['complete', 'complete', 'complete']",0.0,,,Q003444,6,7
+2409,Q003444.7.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,7,1
+2410,Q003444.7.2,sihirtu[circumference//surroundings]N$sihirtišunu,si-hir-ti-šu₂-nu,sihirtišunu,sihirtu,surroundings,N,"['𒋛', '𒆟', '𒋾', '𒋙', '𒉡']",𒋛𒆟𒋾𒋙𒉡,si-hir-ti-šu₂-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,7,2
+2411,Q003444.7.3,ša[that]REL,ša,ša,ša,that,REL,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,7,3
+2412,Q003444.7.4,ahi[shore]N,a-hi,ahi,ahu,shore,N,"['𒀀', '𒄭']",𒀀𒄭,a-hi,"['complete', 'complete']",0.0,,,Q003444,7,4
+2413,Q003444.7.5,tâmtim[sea]N,tam-tim,tâmtim,tiāmtu,sea,N,"['𒌓', '𒁴']",𒌓𒁴,tam-tim,"['complete', 'complete']",0.0,,,Q003444,7,5
+2414,Q003444.7.6,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,7,6
+2415,Q003444.7.7,šulmu[completeness]N$,šul₃-mu,šulmu,šulmu,completeness,N,"['𒁲', '𒈬']",𒁲𒈬,šul₃-mu,"['complete', 'complete']",0.0,,,Q003444,7,7
+2416,Q003444.7.8,šamši[sun]N,{d}UTU-ši,šamši,šamšu,sun,N,"['𒀭', '𒌓', '𒅆']",𒀭𒌓𒅆,{d}UTU-ši,"['complete', 'complete', 'complete']",0.0,,,Q003444,7,8
+2417,Q003444.8.1,ša[that]REL,ša,ša,ša,that,REL,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,8,1
+2418,Q003444.8.2,ina[through]PRP,i-na,ina,ina,through,PRP,"['𒄿', '𒈾']",𒄿𒈾,i-na,"['complete', 'complete']",0.0,,,Q003444,8,2
+2419,Q003444.8.3,hīṭu[error//crime]N$hiṭṭi,hi-iṭ-ṭi,hiṭṭi,hīṭu,crime,N,"['𒄭', '𒀉', '𒁲']",𒄭𒀉𒁲,hi-iṭ-ṭi,"['complete', 'complete', 'complete']",0.0,,,Q003444,8,3
+2420,Q003444.8.4,u[and]CNJ,<u₃>,u,u,and,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,,,Q003444,8,4
+2421,Q003444.8.5,gullultu[sin]N$gullulte,gul-lul-te,gullulte,gullultu,sin,N,"['𒄢', '𒈜', '𒋼']",𒄢𒈜𒋼,gul-lul-te,"['complete', 'complete', 'complete']",0.0,,,Q003444,8,5
+2422,Q003444.8.6,ana[for]PRP,a-na,ana,ana,for,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,Q003444,8,6
+2423,Q003444.8.7,Azriyau[king of a Levantine realm]RN$,{m}az-ri-ia-a-u₂,Azriyau,Azriyau,king of a Levantine realm,RN,"['𒁹', '𒊍', '𒊑', '𒅀', '𒀀', '𒌑']",𒁹𒊍𒊑𒅀𒀀𒌑,{m}az-ri-ia-a-u₂,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003444,8,7
+2424,Q003444.8.8,ekēmu[take away]V$ēkimū,e-ki-i-mu,ēkimū,ekēmu,take away,V,"['𒂊', '𒆠', '𒄿', '𒈬']",𒂊𒆠𒄿𒈬,e-ki-i-mu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,8,8
+2425,Q003444.9.1,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,Q003444,9,1
+2426,Q003444.9.2,miṣir[border]N,mi-ṣir,miṣir,miṣru,border,N,"['𒈪', '𒈲']",𒈪𒈲,mi-ṣir,"['complete', 'complete']",0.0,,,Q003444,9,2
+2427,Q003444.9.3,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003444,9,3
+2428,Q003444.9.4,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,,Q003444,9,4
+2429,Q003444.9.5,uterra[return]V,GUR-ra,uterra,târu,return,V,"['𒄥', '𒊏']",𒄥𒊏,GUR-ra,"['complete', 'complete']",0.0,,,Q003444,9,5
+2430,Q003444.9.6,n,2,,,,n,['𒈫'],𒈫,2,['complete'],0.0,NUMBER,,Q003444,9,6
+2431,Q003444.9.7,šūt[who(m)]DET$,{lu₂}šu₂-ut,šūt,šūt,who(m),DET,"['𒇽', '𒋙', '𒌓']",𒇽𒋙𒌓,{LU₂}šu₂-ut,"['complete', 'complete', 'complete']",0.0,,,Q003444,9,7
+2432,Q003444.9.8,rēšiya[head]N,SAG-ia,rēšiya,rēšu,head,N,"['𒊕', '𒅀']",𒊕𒅀,SAG-ia,"['complete', 'complete']",0.0,,,Q003444,9,8
+2433,Q003444.9.9,bēlu[lord]N$bēl&pīhātu[post//province]N'N$pīhāti,{lu₂}EN.NAM.MEŠ,bēl,bēlu,lord,N,"['𒇽', '𒂗', '𒉆', '𒎌']",𒇽𒂗𒉆𒎌,{LU₂}EN.NAM.MEŠ,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,9,9
+2434,Q003444.9.9,bēlu[lord]N$bēl&pīhātu[post//province]N'N$pīhāti,{lu₂}EN.NAM.MEŠ,pīhāti,pīhātu,province,N,"['𒇽', '𒂗', '𒉆', '𒎌']",𒇽𒂗𒉆𒎌,{LU₂}EN.NAM.MEŠ,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,9,9
+2435,Q003444.9.10,eli[on//over]PRP$elišunu,UGU-šu-nu,elišunu,eli,over,PRP,"['𒌋𒅗', '𒋗', '𒉡']",𒌋𒅗𒋗𒉡,UGU-šu-nu,"['complete', 'complete', 'complete']",0.0,,,Q003444,9,10
+2436,Q003444.9.11,aškun[place]V +.,aš₂-kun,aškun,šakānu,place,V,"['𒀾', '𒆲']",𒀾𒆲,aš₂-kun,"['complete', 'complete']",0.0,,,Q003444,9,11
+2437,Q003444.10.1,maddattu[payment]N,ma-da-at-tu,maddattu,maddattu,payment,N,"['𒈠', '𒁕', '𒀜', '𒌅']",𒈠𒁕𒀜𒌅,ma-da-at-tu,"['complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,10,1
+2438,Q003444.10.2,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003444,10,2
+2439,Q003444.10.3,Kuštašpi[king of Kummuhu]RN,{m}ku-uš-ta-aš₂-pi,Kuštašpi,Kuštašpi,king of Kummuhu,RN,"['𒁹', '𒆪', '𒍑', '𒋫', '𒀾', '𒉿']",𒁹𒆪𒍑𒋫𒀾𒉿,{m}ku-uš-ta-aš₂-pi,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003444,10,3
+2440,Q003444.10.4,Kummuhaya[of Kummuhu]EN,{kur}ku-um-mu-ha-a-a,Kummuhaya,Kummuhayu,of Kummuhu,EN,"['𒆳', '𒆪', '𒌝', '𒈬', '𒄩', '𒀀', '𒀀']",𒆳𒆪𒌝𒈬𒄩𒀀𒀀,{KUR}ku-um-mu-ha-a-a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,10,4
+2441,Q003444.10.5,"Rahianu[Rezin, king of Damascus]RN",{m}ra-hi-a-nu,Rahianu,Rahianu,"Rezin, king of Damascus",RN,"['𒁹', '𒊏', '𒄭', '𒀀', '𒉡']",𒁹𒊏𒄭𒀀𒉡,{m}ra-hi-a-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003444,10,5
+2442,Q003444.10.6,Ša-imerišuaya[of Damascus]EN +.,{kur}ša-ANŠE.NITA₂.MEŠ-šu-a-a,Ša-imerišuaya,Ša-imerišayu,of Damascus,EN,"['𒆳', '𒊭', '𒀲', '𒀴', '𒎌', '𒋗', '𒀀', '𒀀']",𒆳𒊭𒀲𒀴𒎌𒋗𒀀𒀀,{KUR}ša-ANŠE.NITA₂.MEŠ-šu-a-a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003444,10,6

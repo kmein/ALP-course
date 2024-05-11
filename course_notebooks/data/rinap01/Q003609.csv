@@ -1,0 +1,10 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+13461,Q003609.1.1,ēkal[palace]N,E₂.GAL,ēkal,ēkallu,palace,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,,,Q003609,1,1
+13462,Q003609.1.2,"Tukulti-apil-Ešarra_III[Tiglath-pileser III, king of Assyria]RN$Tukulti-apil-Ešar",{m}TUKUL-A-e₂-šar₂,Tukulti-apil-Ešar,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒀀', '𒂍', '𒊹']",𒁹𒆪𒀀𒂍𒊹,{m}TUKUL-A-e₂-šar₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003609,1,2
+13463,Q003609.2.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003609,2,1
+13464,Q003609.2.2,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003609,2,2
+13465,Q003609.2.3,Aššur[Assyria]GN,AŠ,Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,AŠ,['complete'],0.0,GN,,Q003609,2,3
+13466,Q003609.3.1,n,2,,,,n,['𒈫'],𒈫,2,['complete'],0.0,NUMBER,,Q003609,3,1
+13467,Q003609.3.2,manê[a unit of weight]N,MA.NA,manê,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,Q003609,3,2
+13468,Q003609.3.3,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003609,3,3
+13469,Q003609.3.4,šarri[king]N +.,⸢LUGAL⸣,šarri,šarru,king,N,['𒈗'],𒈗,⸢LUGAL⸣,['damaged'],0.5,,,Q003609,3,4

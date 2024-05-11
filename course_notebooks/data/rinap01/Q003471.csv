@@ -1,0 +1,16 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+7080,Q003471.1.1,ēkal[palace]N,E₂.GAL,ēkal,ēkallu,palace,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,,,Q003471,1,1
+7081,Q003471.1.2,"Tukulti-apil-Ešarra[Tiglath-pileser III, king of Assyria]RN",{m}tukul-ti-A-e₂-šar₂-ra,Tukulti-apil-Ešarra,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒋾', '𒀀', '𒂍', '𒊹', '𒊏']",𒁹𒆪𒋾𒀀𒂍𒊹𒊏,{m}tukul-ti-A-e₂-šar₂-ra,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003471,1,2
+7082,Q003471.2.1,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003471,2,1
+7083,Q003471.2.2,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003471,2,2
+7084,Q003471.2.3,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,,Q003471,2,3
+7085,Q003471.2.4,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,Q003471,2,4
+7086,Q003471.2.5,Adad-narari[king of Assyria]RN,{m}10-ERIM.TAH₂,Adad-narari,Adad-narari_III,king of Assyria,RN,"['𒁹', '𒌋', '𒂟', '𒃮']",𒁹𒌋𒂟𒃮,{m}10-ERIM.TAH₂,"['complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003471,2,5
+7087,Q003471.2.6,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003471,2,6
+7088,Q003471.2.7,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003471,2,7
+7089,Q003471.2.8,Aššur[Assyria]GN,aš-šur,Aššur,Aššur,Assyria,GN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,GN,,Q003471,2,8
+7090,Q003471.3.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003471,3,1
+7091,Q003471.3.2,kigalli[socle]N,ki-gal-li,kigalli,kigallu,socle,N,"['𒆠', '𒃲', '𒇷']",𒆠𒃲𒇷,ki-gal-li,"['complete', 'complete', 'complete']",0.0,,,Q003471,3,2
+7092,Q003471.3.3,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003471,3,3
+7093,Q003471.3.4,bīt[house]N,E₂,bīt,bītu,house,N,['𒂍'],𒂍,E₂,['complete'],0.0,,,Q003471,3,4
+7094,Q003471.3.5,Aššur[1]DN +.,aš-šur,Aššur,Aššur,1,DN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,DN,,Q003471,3,5

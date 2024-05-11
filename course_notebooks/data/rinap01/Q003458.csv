@@ -1,0 +1,18 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+13842,Q003458.2.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003458,2,1
+13843,Q003458.2.2,Puqudu[]EN$,{lu₂}pu-qu]-du,Puqudu,Puqudu,1,EN,"['𒇽', '𒁍', '𒄣', '𒁺']",𒇽𒁍𒄣𒁺,{[LU₂]}[pu-qu]-du,"['missing', 'missing', 'missing', 'complete']",0.75,,,Q003458,2,2
+13844,Q003458.2.3,Arumu[Aramean]EN,{lu₂}a-⸢ru⸣-[mu,Arumu,Aramu,Aramean,EN,"['𒇽', '𒀀', '𒊒', '𒈬']",𒇽𒀀𒊒𒈬,{LU₂}a-⸢ru⸣-[mu],"['complete', 'complete', 'damaged', 'missing']",0.38,,,Q003458,2,3
+13845,Q003458.2.4,mala[as much as]'REL,ma-la,mala,mala,as much as,PRP,"['𒈠', '𒆷']",𒈠𒆷,[ma-la],"['missing', 'missing']",1.0,,,Q003458,2,4
+13846,Q003458.2.5,bāšû[existing]AJ,ba-šu-u₂,bāšû,bāšû,existing,AJ,"['𒁀', '𒋗', '𒌑']",𒁀𒋗𒌑,[ba-šu-u₂],"['missing', 'missing', 'missing']",1.0,,,Q003458,2,5
+13847,Q003458.2.6,u,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003458,2,6
+13848,Q003458.3.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003458,3,1
+13849,Q003458.3.2,Uqnu[]WN$Uqni,{⸢id₂⸣}uq-ni-[i,Uqni,Uqnu,1,WN,"['𒀀𒇉', '𒊌', '𒉌', '𒄿']",𒀀𒇉𒊌𒉌𒄿,{⸢ID₂⸣}uq-ni-[i],"['damaged', 'complete', 'complete', 'missing']",0.38,,,Q003458,3,2
+13850,Q003458.3.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003458,3,3
+13851,Q003458.4.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003458,4,1
+13852,Q003458.4.2,šūt[who(m)],{lu₂]}šu-ut,šūt,šūt,who(m),DET,"['𒇽', '𒋗', '𒌓']",𒇽𒋗𒌓,{[LU₂]}šu-ut,"['missing', 'complete', 'complete']",0.33,,,Q003458,4,2
+13853,Q003458.4.3,rēšiya[head]N,⸢SAG⸣-[ia,rēšiya,rēšu,head,N,"['𒊕', '𒅀']",𒊕𒅀,⸢SAG⸣-[ia],"['damaged', 'missing']",0.75,,,Q003458,4,3
+13854,Q003458.4.4,bēlu[lord]N$bēl&pīhātu[post//province]N'N$pīhāti,{lu₂}EN.NAM,bēl,bēlu,lord,N,"['𒇽', '𒂗', '𒉆']",𒇽𒂗𒉆,{[LU₂]}[EN].[NAM],"['missing', 'missing', 'missing']",1.0,,,Q003458,4,4
+13855,Q003458.4.4,bēlu[lord]N$bēl&pīhātu[post//province]N'N$pīhāti,{lu₂}EN.NAM,pīhāti,pīhātu,province,N,"['𒇽', '𒂗', '𒉆']",𒇽𒂗𒉆,{[LU₂]}[EN].[NAM],"['missing', 'missing', 'missing']",1.0,,,Q003458,4,4
+13856,Q003458.4.5,elišunu[over]PRP,UGU-šu₂-nu,elišunu,eli,over,PRP,"['𒌋𒅗', '𒋙', '𒉡']",𒌋𒅗𒋙𒉡,[UGU-šu₂-nu],"['missing', 'missing', 'missing']",1.0,,,Q003458,4,5
+13857,Q003458.4.6,aškun[place]V,aš₂-kun,aškun,šakānu,place,V,"['𒀾', '𒆲']",𒀾𒆲,[aš₂-kun],"['missing', 'missing']",1.0,,,Q003458,4,6
+13858,Q003458.4.7,u +.,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003458,4,7

@@ -1,0 +1,18 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+13947,Q003472.1.1,"Tukulti-apil-Ešarra[Tiglath-pileser III, king of Assyria]RN",{m}tukul-ti-A-e₂-šar₂-ra,Tukulti-apil-Ešarra,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒆪', '𒋾', '𒀀', '𒂍', '𒊹', '𒊏']",𒁹𒆪𒋾𒀀𒂍𒊹𒊏,{m}tukul-ti-A-e₂-šar₂-ra,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003472,1,1
+13948,Q003472.2.1,šarru[king]N,MAN,šarru,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003472,2,1
+13949,Q003472.2.2,rabû[great]AJ,GAL,rabû,rabû,great,AJ,['𒃲'],𒃲,GAL,['complete'],0.0,,,Q003472,2,2
+13950,Q003472.2.3,šarru[king]N,MAN,šarru,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003472,2,3
+13951,Q003472.2.4,dannu[strong]AJ,dan-nu,dannu,dannu,strong,AJ,"['𒆗', '𒉡']",𒆗𒉡,dan-nu,"['complete', 'complete']",0.0,,,Q003472,2,4
+13952,Q003472.2.5,šarru[king]N$šar,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003472,2,5
+13953,Q003472.2.6,kiššatu[totality//world]N$kiššati,ŠU₂,kiššati,kiššatu,world,N,['𒋙'],𒋙,ŠU₂,['complete'],0.0,,,Q003472,2,6
+13954,Q003472.2.7,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003472,2,7
+13955,Q003472.2.8,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003472,2,8
+13956,Q003472.2.9,Aššur[Assyria]GN,AŠ,Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,AŠ,['complete'],0.0,GN,,Q003472,2,9
+13957,Q003472.3.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003472,3,1
+13958,Q003472.3.2,kigalli[socle]N,ki-gal-li,kigalli,kigallu,socle,N,"['𒆠', '𒃲', '𒇷']",𒆠𒃲𒇷,ki-gal-li,"['complete', 'complete', 'complete']",0.0,,,Q003472,3,2
+13959,Q003472.3.3,alpī[ox]N,GU₄.MEŠ,alpī,alpu,ox,N,"['𒄞', '𒎌']",𒄞𒎌,GU₄.MEŠ,"['complete', 'complete']",0.0,,,Q003472,3,3
+13960,Q003472.4.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,Q003472,4,1
+13961,Q003472.4.2,bāb[gate]N,KA₂,bāb,bābu,gate,N,['𒆍'],𒆍,KA₂,['complete'],0.0,,,Q003472,4,2
+13962,Q003472.4.3,bīt[house]N,E₂,bīt,bītu,house,N,['𒂍'],𒂍,E₂,['complete'],0.0,,,Q003472,4,3
+13963,Q003472.4.4,Adad[1]DN +.,{d}IŠKUR,Adad,Adad,1,DN,"['𒀭', '𒅎']",𒀭𒅎,{d}IŠKUR,"['complete', 'complete']",0.0,DN,,Q003472,4,4

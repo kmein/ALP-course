@@ -1,0 +1,89 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+13859,Q003439.2.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003439,2,1
+13860,Q003439.2.2,šalālu[carry off]V$išlulamma,iš-lu]-la-⸢am⸣-ma,išlulamma,šalālu,carry off,V,"['𒅖', '𒇻', '𒆷', '𒄠', '𒈠']",𒅖𒇻𒆷𒄠𒈠,[iš-lu]-la-⸢am⸣-ma,"['missing', 'missing', 'complete', 'damaged', 'complete']",0.5,,,Q003439,2,2
+13861,Q003439.2.3,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,Q003439,2,3
+13862,Q003439.2.4,Hatti[Syria-Palestine]GN,{kur}hat-ti,Hatti,Hatti,Syria-Palestine,GN,"['𒆳', '𒉺', '𒋾']",𒆳𒉺𒋾,{KUR}hat-ti,"['complete', 'complete', 'complete']",0.0,GN,,Q003439,2,4
+13863,Q003439.3.1,adi[to]PRP,[a-di,adi,adi,to,PRP,"['𒀀', '𒁲']",𒀀𒁲,[a-di],"['missing', 'missing']",1.0,,,Q003439,3,1
+13864,Q003439.3.2,mahriya[front]N,mah-ri-ia,mahriya,mahru,front,N,"['𒈤', '𒊑', '𒅀']",𒈤𒊑𒅀,[mah-ri-ia],"['missing', 'missing', 'missing']",1.0,,,Q003439,3,2
+13865,Q003439.3.3,ubla[bring]V,ub-la,ubla,wabālu,bring,V,"['𒌒', '𒆷']",𒌒𒆷,[ub-la],"['missing', 'missing']",1.0,,,Q003439,3,3
+13866,Q003439.3.4,n,6,,,,n,['𒐋'],𒐋,[6],['missing'],1.0,NUMBER,,Q003439,3,4
+13867,Q003439.3.5,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,3,5
+13868,Q003439.3.6,šallat[captive]N,šal-la-at,šallat,šallatu,captive,N,"['𒊩', '𒆷', '𒀜']",𒊩𒆷𒀜,[šal-la-at],"['missing', 'missing', 'missing']",1.0,,,Q003439,3,6
+13869,Q003439.3.7,Amlate[]SN$Amlate,{uru}am-la-te,Amlate,Amlate,1,SN,"['𒌷', '𒄠', '𒆷', '𒋼']",𒌷𒄠𒆷𒋼,{[URU]}[am-la-te],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,3,7
+13870,Q003439.3.8,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,Q003439,3,8
+13871,Q003439.3.9,Damunu[]EN$Damuni,{lu₂}da-mu-ni,Damuni,Damunu,1,EN,"['𒇽', '𒁕', '𒈬', '𒉌']",𒇽𒁕𒈬𒉌,{[LU₂]}[da-mu-ni],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,3,9
+13872,Q003439.3.10,n,5,,,,n,['𒐊'],𒐊,[5],['missing'],1.0,NUMBER,,Q003439,3,10
+13873,Q003439.3.11,līm[thousand]NU,LIM,līm,līm,thousand,NU,['𒅆'],𒅆,[LIM],['missing'],1.0,,,Q003439,3,11
+13874,Q003439.3.12,n,4,,,,n,['𒐉'],𒐉,[4],['missing'],1.0,NUMBER,,Q003439,3,12
+13875,Q003439.3.13,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,3,13
+13876,Q003439.3.14,šallat[captive]N,šal-la-at],šallat,šallatu,captive,N,"['𒊩', '𒆷', '𒀜']",𒊩𒆷𒀜,[šal-la-at],"['missing', 'missing', 'missing']",1.0,,,Q003439,3,14
+13877,Q003439.3.15,Bit-Deraya[]SN$,{uru}⸢E₂⸣-de-ra-a-a,Bit-Deraya,Bit-Deraya,1,SN,"['𒌷', '𒂍', '𒁲', '𒊏', '𒀀', '𒀀']",𒌷𒂍𒁲𒊏𒀀𒀀,{URU}⸢E₂⸣-de-ra-a-a,"['complete', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.08,,,Q003439,3,15
+13878,Q003439.3.16,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,Q003439,3,16
+13879,Q003439.3.17,Kunalia[1]SN,{uru}ku-na-li-a,Kunalia,Kunalua,1,SN,"['𒌷', '𒆪', '𒈾', '𒇷', '𒀀']",𒌷𒆪𒈾𒇷𒀀,{URU}ku-na-li-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003439,3,17
+13880,Q003439.4.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003439,4,1
+13881,Q003439.4.2,Huzarra[]SN$,{uru}hu-za-ar-ra,Huzarra,Huzarra,1,SN,"['𒌷', '𒄷', '𒍝', '𒅈', '𒊏']",𒌷𒄷𒍝𒅈𒊏,{[URU]}[hu-za-ar-ra],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,4,2
+13882,Q003439.4.3,Taʾe[]SN$,{uru}ta-e,Taʾe,Taʾe,1,SN,"['𒌷', '𒋫', '𒂊']",𒌷𒋫𒂊,{[URU]}[ta-e],"['missing', 'missing', 'missing']",1.0,,,Q003439,4,3
+13883,Q003439.4.4,Tarmanazi[]SN$,{uru}ta-ar-ma-na-zi,Tarmanazi,Tarmanazi,1,SN,"['𒌷', '𒋫', '𒅈', '𒈠', '𒈾', '𒍣']",𒌷𒋫𒅈𒈠𒈾𒍣,{[URU]}[ta-ar-ma-na-zi],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,4,4
+13884,Q003439.4.5,Kulmadara[]SN$,{uru}ku-ul-ma-da-ra,Kulmadara,Kulmadara,1,SN,"['𒌷', '𒆪', '𒌌', '𒈠', '𒁕', '𒊏']",𒌷𒆪𒌌𒈠𒁕𒊏,{[URU]}[ku-ul-ma-da-ra],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,4,5
+13885,Q003439.4.6,Hatatirra[]SN$,{uru}ha-ta-tir-ra,Hatatirra,Hatatirra,1,SN,"['𒌷', '𒄩', '𒋫', '𒌁', '𒊏']",𒌷𒄩𒋫𒌁𒊏,{[URU]}[ha-ta-tir-ra],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,4,6
+13886,Q003439.4.7,Irgillu[]SN$,{uru}ir-gi-il-lu,Irgillu,Irgillu,1,SN,"['𒌷', '𒅕', '𒄀', '𒅋', '𒇻']",𒌷𒅕𒄀𒅋𒇻,{[URU]}[ir-gi-il-lu],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,4,7
+13887,Q003439.4.8,ālāni[city]N,URU.MEŠ-ni],ālāni,ālu,city,N,"['𒌷', '𒎌', '𒉌']",𒌷𒎌𒉌,[URU].[MEŠ-ni],"['missing', 'missing', 'missing']",1.0,,,Q003439,4,8
+13888,Q003439.4.9,ša[of]DET,⸢ša₂⸣,ša,ša,of,DET,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,,,Q003439,4,9
+13889,Q003439.4.10,Unqi[]GN$,{kur}un-qi,Unqi,Unqi,1,GN,"['𒆳', '𒌦', '𒆥']",𒆳𒌦𒆥,{KUR}un-qi,"['complete', 'complete', 'complete']",0.0,GN,,Q003439,4,10
+13890,Q003439.4.11,ušēšib[settle]V +.,u₂-še-šib,ušēšib,wašābu,settle,V,"['𒌑', '𒊺', '𒈨']",𒌑𒊺𒈨,u₂-še-šib,"['complete', 'complete', 'complete']",0.0,,,Q003439,4,11
+13891,Q003439.5.1,u,[...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003439,5,1
+13892,Q003439.5.2,šallat[captive]N,šal-la-at,šallat,šallatu,captive,N,"['𒊩', '𒆷', '𒀜']",𒊩𒆷𒀜,[šal-la-at],"['missing', 'missing', 'missing']",1.0,,,Q003439,5,2
+13893,Q003439.5.3,Qute[Gutian]EN,{kur}qu-te-e,Qute,Qutu,Gutian,EN,"['𒆳', '𒄣', '𒋼', '𒂊']",𒆳𒄣𒋼𒂊,{[KUR]}[qu-te-e],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,5,3
+13894,Q003439.5.4,Bit-Sangibuti[]GN$Bit-Sangibute,{kur}E₂-sa-an-gi-bu-te,Bit-Sangibute,Bit-Sangibuti,1,GN,"['𒆳', '𒂍', '𒊓', '𒀭', '𒄀', '𒁍', '𒋼']",𒆳𒂍𒊓𒀭𒄀𒁍𒋼,{[KUR]}[E₂-sa-an-gi-bu-te],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,GN,,Q003439,5,4
+13895,Q003439.5.5,n,1,,,,n,['𒁹'],𒁹,[1],['missing'],1.0,NUMBER,,Q003439,5,5
+13896,Q003439.5.6,līm[thousand]NU,LIM,līm,līm,thousand,NU,['𒅆'],𒅆,[LIM],['missing'],1.0,,,Q003439,5,6
+13897,Q003439.5.7,n,2,,,,n,['𒈫'],𒈫,[2],['missing'],1.0,NUMBER,,Q003439,5,7
+13898,Q003439.5.8,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,5,8
+13899,Q003439.5.9,Illilayu[of Illila]EN$Illilaya,{lu₂}il-li-il-a-a,Illilaya,Illilayu,of Illila,EN,"['𒇽', '𒅋', '𒇷', '𒅋', '𒀀', '𒀀']",𒇽𒅋𒇷𒅋𒀀𒀀,{[LU₂]}[il-li-il-a-a],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,5,9
+13900,Q003439.5.10,n,6,,,,n,['𒐋'],𒐋,[6],['missing'],1.0,NUMBER,,Q003439,5,10
+13901,Q003439.5.11,līm[thousand]NU,LIM,līm,līm,thousand,NU,['𒅆'],𒅆,[LIM],['missing'],1.0,,,Q003439,5,11
+13902,Q003439.5.12,n,2,,,,n,['𒈫'],𒈫,[2],['missing'],1.0,NUMBER,,Q003439,5,12
+13903,Q003439.5.13,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,5,13
+13904,Q003439.5.14,n,8,,,,n,['𒐍'],𒐍,[8],['missing'],1.0,NUMBER,,Q003439,5,14
+13905,Q003439.5.15,Nakkabayu[of Nakkaba]EN$Nakkabaya,{lu₂}nak-kab-a-a,Nakkabaya,Nakkabayu,of Nakkaba,EN,"['𒇽', '𒅘', '𒆏', '𒀀', '𒀀']",𒇽𒅘𒆏𒀀𒀀,{LU₂}nak-kab-a-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003439,5,15
+13906,Q003439.5.16,Budayu[of Buda]EN$Budaya,{kur}bu-da-a-a,Budaya,Budayu,of Buda,EN,"['𒆳', '𒁍', '𒁕', '𒀀', '𒀀']",𒆳𒁍𒁕𒀀𒀀,{KUR}bu-da-a-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003439,5,16
+13907,Q003439.6.1,ina[in]PRP,[ina,ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,Q003439,6,1
+13908,Q003439.6.2,u,...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003439,6,2
+13909,Q003439.6.3,Ṣimirra[]SN$,{uru}ṣi-mir-ra,Ṣimirra,Ṣimirra,1,SN,"['𒌷', '𒍢', '𒂇', '𒊏']",𒌷𒍢𒂇𒊏,{[URU]}[ṣi-mir-ra],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,6,3
+13910,Q003439.6.4,Arqa[]SN$,{uru}ar-qa-a,Arqa,Arqa,1,SN,"['𒌷', '𒅈', '𒋡', '𒀀']",𒌷𒅈𒋡𒀀,{[URU]}[ar-qa-a],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,6,4
+13911,Q003439.6.5,Usnu[]SN$,{uru}us-nu-u₂,Usnu,Usnu,1,SN,"['𒌷', '𒊻', '𒉡', '𒌑']",𒌷𒊻𒉡𒌑,{[URU]}[us-nu-u₂],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,6,5
+13912,Q003439.6.6,Siʾannu[]SN$,{uru}si-an-nu,Siʾannu,Siʾannu,1,SN,"['𒌷', '𒋛', '𒀭', '𒉡']",𒌷𒋛𒀭𒉡,{[URU]}[si-an-nu],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,6,6
+13913,Q003439.6.7,ša[that]REL,ša,ša,ša,that,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,,Q003439,6,7
+13914,Q003439.6.8,šiddi[bank]N,šid-di,šiddi,šiddu,bank,N,"['𒋃', '𒁲']",𒋃𒁲,[šid-di],"['missing', 'missing']",1.0,,,Q003439,6,8
+13915,Q003439.6.9,tâmtim[sea]N,tam-tim,tâmtim,tiāmtu,sea,N,"['𒌓', '𒁴']",𒌓𒁴,[tam-tim],"['missing', 'missing']",1.0,,,Q003439,6,9
+13916,Q003439.6.10,ušēšib[settle]V +.,u₂-še-šib],ušēšib,wašābu,settle,V,"['𒌑', '𒊺', '𒈨']",𒌑𒊺𒈨,[u₂-še-šib],"['missing', 'missing', 'missing']",1.0,,,Q003439,6,10
+13917,Q003439.6.11,n,5,,,,n,['𒐊'],𒐊,5,['complete'],0.0,NUMBER,,Q003439,6,11
+13918,Q003439.6.12,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,ME,['complete'],0.0,,,Q003439,6,12
+13919,Q003439.6.13,n,88,,,,n,['𒐕𒎙𒐍'],𒐕𒎙𒐍,88,['complete'],0.0,NUMBER,,Q003439,6,13
+13920,Q003439.6.14,Budayu[of Budu]EN$Budaya,{lu₂}bu-da-a-a,Budaya,Budayu,of Budu,EN,"['𒇽', '𒁍', '𒁕', '𒀀', '𒀀']",𒇽𒁍𒁕𒀀𒀀,{LU₂}bu-da-a-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003439,6,14
+13921,Q003439.7.1,Dunu[]EN$Dunaya,{[uru}du-na-a-a,Dunaya,Dunu,1,EN,"['𒌷', '𒁺', '𒈾', '𒀀', '𒀀']",𒌷𒁺𒈾𒀀𒀀,{[URU]}[du-na-a-a],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,7,1
+13922,Q003439.7.2,u,...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003439,7,2
+13923,Q003439.7.3,n,2,,,,n,['𒈫'],𒈫,[2],['missing'],1.0,NUMBER,,Q003439,7,3
+13924,Q003439.7.4,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,7,4
+13925,Q003439.7.5,n,52,,,,n,['𒐐𒈫'],𒐐𒈫,[52],['missing'],1.0,NUMBER,,Q003439,7,5
+13926,Q003439.7.6,Belayu[of Bela]EN$Bilaya,{lu₂}bi-la-a-a,Bilaya,Belayu,of Bela,EN,"['𒇽', '𒁉', '𒆷', '𒀀', '𒀀']",𒇽𒁉𒆷𒀀𒀀,{[LU₂]}[bi-la-a-a],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,7,6
+13927,Q003439.7.7,n,5,,,,n,['𒐊'],𒐊,[5],['missing'],1.0,NUMBER,,Q003439,7,7
+13928,Q003439.7.8,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,7,8
+13929,Q003439.7.9,n,54,,,,n,['𒐐𒐉'],𒐐𒐉,[54],['missing'],1.0,NUMBER,,Q003439,7,9
+13930,Q003439.7.10,Banitayu[of Banitu]EN$Banitaya,{lu₂}ba-ni-ta-a-a],Banitaya,Banitayu,of Banitu,EN,"['𒇽', '𒁀', '𒉌', '𒋫', '𒀀', '𒀀']",𒇽𒁀𒉌𒋫𒀀𒀀,{[LU₂]}[ba-ni-ta-a-a],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,7,10
+13931,Q003439.7.11,n,3,,,,n,['𒐈'],𒐈,3,['complete'],0.0,NUMBER,,Q003439,7,11
+13932,Q003439.7.12,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,ME,['complete'],0.0,,,Q003439,7,12
+13933,Q003439.7.13,n,80,,,,n,['𒐕𒎙'],𒐕𒎙,80,['complete'],0.0,NUMBER,,Q003439,7,13
+13934,Q003439.7.14,Palil-andil-mati[]EN$,{lu₂}{d}IGI.DU-an-dil-KUR,Palil-andil-mati,Palil-andil-mati,1,EN,"['𒇽', '𒀭', '𒅆', '𒁺', '𒀭', '𒀸', '𒆳']",𒇽𒀭𒅆𒁺𒀭𒀸𒆳,{LU₂}{d}IGI.DU-an-dil-KUR,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,Q003439,7,14
+13935,Q003439.8.1,n,4,,,,n,['𒐉'],𒐉,[4],['missing'],1.0,NUMBER,,Q003439,8,1
+13936,Q003439.8.2,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,8,2
+13937,Q003439.8.3,n,60,,,,n,['𒐕'],𒐕,[60],['missing'],1.0,NUMBER,,Q003439,8,3
+13938,Q003439.8.4,Sangillu[]EN$Sangillu,{lu₂}sa-an-gi-il-lu,Sangillu,Sangillu,1,EN,"['𒇽', '𒊓', '𒀭', '𒄀', '𒅋', '𒇻']",𒇽𒊓𒀭𒄀𒅋𒇻,{[LU₂]}[sa-an-gi-il-lu],"['missing', 'missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,8,4
+13939,Q003439.8.5,u,...,,,,u,['x'],x,[x],['missing'],1.0,,,Q003439,8,5
+13940,Q003439.8.6,Illilayu[of Illila]EN$Illilaya,{lu₂}il-lil-a-a,Illilaya,Illilayu,of Illila,EN,"['𒇽', '𒅋', '𒇸', '𒀀', '𒀀']",𒇽𒅋𒇸𒀀𒀀,{[LU₂]}[il-lil-a-a],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,8,6
+13941,Q003439.8.7,n,4,,,,n,['𒐉'],𒐉,[4],['missing'],1.0,NUMBER,,Q003439,8,7
+13942,Q003439.8.8,mē[(one) hundred]NU,ME,mē,meʾatu,(one) hundred,NU,['𒈨'],𒈨,[ME],['missing'],1.0,,,Q003439,8,8
+13943,Q003439.8.9,n,58,,,,n,['𒐐𒐍'],𒐐𒐍,[58],['missing'],1.0,NUMBER,,Q003439,8,9
+13944,Q003439.8.10,šallat[captive]N,šal-la-at,šallat,šallatu,captive,N,"['𒊩', '𒆷', '𒀜']",𒊩𒆷𒀜,[šal-la-at],"['missing', 'missing', 'missing']",1.0,,,Q003439,8,10
+13945,Q003439.8.11,Qute[Gutian]EN,{kur}qu-te-e,Qute,Qutu,Gutian,EN,"['𒆳', '𒄣', '𒋼', '𒂊']",𒆳𒄣𒋼𒂊,{[KUR]}[qu-te-e],"['missing', 'missing', 'missing', 'missing']",1.0,,,Q003439,8,11
+13946,Q003439.8.12,Bit-Sangibuti[]GN$Bit-Sangibuti +.,{kur}E₂-sa]-an-gi-bu-ti,Bit-Sangibuti,Bit-Sangibuti,1,GN,"['𒆳', '𒂍', '𒊓', '𒀭', '𒄀', '𒁍', '𒋾']",𒆳𒂍𒊓𒀭𒄀𒁍𒋾,{[KUR]}[E₂-sa]-an-gi-bu-ti,"['missing', 'missing', 'missing', 'complete', 'complete', 'complete', 'complete']",0.43,GN,,Q003439,8,12

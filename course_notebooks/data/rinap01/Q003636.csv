@@ -1,0 +1,10 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+8821,Q003636.1.1,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,,Q003636,1,1
+8822,Q003636.1.2,Banitu[queen and wife of Shalmaneser V]RN$Baniti,{f}ba-ni-ti,Baniti,Banitu,queen and wife of Shalmaneser V,RN,"['𒊩', '𒁀', '𒉌', '𒋾']",𒊩𒁀𒉌𒋾,{f}ba-ni-ti,"['complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003636,1,2
+8823,Q003636.1.3,ša[of]DET$ša&ēkallu[palace]N$ēkalli,MUNUS.E₂.GAL,ša,ša,of,DET,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MUNUS.E₂.GAL,"['complete', 'complete', 'complete']",0.0,,,Q003636,1,3
+8824,Q003636.1.3,ša[of]DET$ša&ēkallu[palace]N$ēkalli,MUNUS.E₂.GAL,ēkalli,ēkallu,palace,N,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MUNUS.E₂.GAL,"['complete', 'complete', 'complete']",0.0,,,Q003636,1,3
+8825,Q003636.1.4,ša[of]DET,ša₂,ša,ša,of,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,,,Q003636,1,4
+8826,Q003636.1.5,"Salmanu-ašared_V[Shalmaneser V, king of Assyria]RN$Salmanu-ašared",{m}{d}SILIM-ma-nu-MAŠ,Salmanu-ašared,Salmanu-ašared_V,"Shalmaneser V, king of Assyria",RN,"['𒁹', '𒀭', '𒁲', '𒈠', '𒉡', '𒈦']",𒁹𒀭𒁲𒈠𒉡𒈦,{m}{d}SILIM-ma-nu-MAŠ,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,RN,,Q003636,1,5
+8827,Q003636.1.6,šar[king]N,MAN,šar,šarru,king,N,['𒎙'],𒎙,MAN,['complete'],0.0,,,Q003636,1,6
+8828,Q003636.1.7,māt[land]N,KUR,māt,mātu,land,N,['𒆳'],𒆳,KUR,['complete'],0.0,,,Q003636,1,7
+8829,Q003636.1.8,Aššur[Assyria]GN,AŠ,Aššur,Aššur,Assyria,GN,['𒀸'],𒀸,AŠ,['complete'],0.0,GN,,Q003636,1,8

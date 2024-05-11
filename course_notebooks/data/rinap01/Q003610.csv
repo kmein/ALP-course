@@ -1,0 +1,4 @@
+,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word
+5318,Q003610.1.1,ēkal[palace]N,E₂.GAL,ēkal,ēkallu,palace,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,,,Q003610,1,1
+5319,Q003610.1.2,"Tukulti-apil-Ešarra_III[Tiglath-pileser III, king of Assyria]RN$Tukulti-apil-Ešarra",{m}{giš}tukul-⸢ti⸣-[A-e₂-šar₂-ra,Tukulti-apil-Ešarra,Tukulti-apil-Ešarra_III,"Tiglath-pileser III, king of Assyria",RN,"['𒁹', '𒄑', '𒆪', '𒋾', '𒀀', '𒂍', '𒊹', '𒊏']",𒁹𒄑𒆪𒋾𒀀𒂍𒊹𒊏,{m}{GIŠ}tukul-⸢ti⸣-[A-e₂-šar₂-ra],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing', 'missing', 'missing']",0.56,RN,,Q003610,1,2
+5320,Q003610.1.3,u,...],,,,u,['x'],x,[x],['missing'],1.0,,,Q003610,1,3
