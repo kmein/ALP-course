@@ -8,6 +8,8 @@ pkgs.mkShell {
       py.jupyter
       py.pandas
       py.matplotlib
+      py.scikit-learn
+      py.plotly
     ]))
   ];
 }
