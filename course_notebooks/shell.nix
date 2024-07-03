@@ -10,6 +10,7 @@ pkgs.mkShell {
       py.matplotlib
       py.scikit-learn
       py.plotly
+      py.networkx
     ]))
   ];
 }
